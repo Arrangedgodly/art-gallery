@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,500;1,100&display=swap');
+@import url("../blocks/modal.css");
+@import url("../blocks/cards.css");
+@import url("../blocks/card.css");
+@import url("../blocks/img.css");
+@import url("../blocks/text.css");
+
+html {
+  font-family: 'Raleway', sans-serif;
+}

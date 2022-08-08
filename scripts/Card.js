@@ -1,0 +1,44 @@
+export class Card {
+  constructor(data, cardSelector) {
+    this._prompt = data.prompt;
+    this._link = data.link;
+
+    this._cardSelector = cardSelector;
+  }
+
+  _getTemplate() {
+    return document
+      .querySelector(this._cardSelector)
+      .content.querySelector(".card")
+      .cloneNode(true);
+  }
+
+  _handleOpenModal() {
+    const popup = document.querySelector(".modal");
+    const popupImg = popup.querySelector(".img-large");
+    const popupText = popup.querySelector(".text-modal");
+
+    popupImg.src = this._link;
+    popupImg.alt = this._prompt;
+    popupText.textContent = this._prompt;
+    popup.classList.add("modal_opened");
+  }
+
+  _setEventListeners() {
+    this._cardImage.addEventListener("click", () => this._handleOpenModal());
+  }
+
+  generateCard() {
+    this._element = this._getTemplate();
+    this._cardTitle = this._element.querySelector(".text-center");
+    this._cardImage = this._element.querySelector(".img");
+
+    this._cardTitle.title = this._prompt;
+    this._cardImage.src = this._link;
+    this._cardImage.alt = `Prompt: "${this._prompt}"`;
+
+    this._setEventListeners();
+
+    return this._element;
+  }
+}

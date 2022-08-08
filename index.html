@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ARTOFFICIAL</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="an art gallery dedicated to projects created by MidJourney, an AI powered text to image generator"
+    />
+    <meta name="author" content="Grady Wasil" />
+    <meta
+      name="keywords"
+      content="Artificial Intelligence, MidJourney, AI, Text to Image, AI Imagery"
+    />
+    <link rel="stylesheet" href="./vendor/normalize.css" />
+    <link rel="stylesheet" href="./pages/index.css" />
+    <script
+      src="https://kit.fontawesome.com/90f8a53b33.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <main>
+    <header>
+      <h1 class="text-main text-center">ARTOFFICIAL</h1>
+      <p class="text-desc text-center">The Art Gallery powered by AI</p>
+    </header>
+    <body>
+      <div class="cards">
+        <template id="card">
+          <div class="card">
+            <img class="img" src="" alt="" />
+            <h2 class="text-center"></h2>
+          </div>
+        </template>
+      </div>
+      <div class="modal">
+        <div class="img-wrapper">
+        <img
+          class="img-large"
+          src="https://mj-gallery.com/8f1c7f4f-06a3-4589-aa0a-7fd991955fa0/grid_0.png"
+          alt="dubstep as an anime character"
+        />
+        <p class="text-modal"></p>
+        </div>
+      </div>
+      <script type="module" src="./scripts/utlis.js"></script>
+      <script type="module" src="./scripts/Card.js"></script>
+      <script type="module" src="./scripts/index.js"></script>
+    </body>
+    <footer></footer>
+  </main>
+</html>
