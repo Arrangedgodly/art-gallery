@@ -20,7 +20,7 @@ export class Card {
 
     popupImg.src = this._link;
     popupImg.alt = this._prompt;
-    popupText.textContent = this._prompt;
+    popupText.textContent = `Prompt: "${this._prompt}"`;
     popup.classList.add("modal_opened");
   }
 
@@ -30,10 +30,8 @@ export class Card {
 
   generateCard() {
     this._element = this._getTemplate();
-    this._cardTitle = this._element.querySelector(".text-center");
     this._cardImage = this._element.querySelector(".img");
 
-    this._cardTitle.title = this._prompt;
     this._cardImage.src = this._link;
     this._cardImage.alt = `Prompt: "${this._prompt}"`;
 

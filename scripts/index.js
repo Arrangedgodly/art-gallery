@@ -539,6 +539,142 @@ const initialCards = [
   {
     prompt: "Dinkin Flicka",
     link: "https://mj-gallery.com/d57f4fbc-35e8-49bb-8c20-48c35e1a0f4b/grid_0.png"
+  },
+  {
+    prompt: "Pip Boy",
+    link: "https://mj-gallery.com/f951eab1-22d5-4347-8498-764c21fd69ff/grid_0.png"
+  },
+  {
+    prompt: "Against Giants We Rise",
+    link: "https://mj-gallery.com/0b6c2085-07af-4643-a808-0ec35bb1b374/grid_0.png"
+  },
+  {
+    prompt: "Killer Croc",
+    link: "https://mj-gallery.com/3007ec3b-00c4-4de2-9fca-60d395ea58f6/grid_0.png"
+  },
+  {
+    prompt: "Bioshock Big Daddy",
+    link: "https://mj-gallery.com/97204d46-da83-4fd0-a9e3-5a9255cf5c61/grid_0.png"
+  },
+  {
+    prompt: "Bioshock Big Daddy",
+    link: "https://mj-gallery.com/f843d7bc-81da-4c52-abfd-f68ac3975272/grid_0.png"
+  },
+  {
+    prompt: "Bioshock Big Daddy",
+    link: "https://mj-gallery.com/01c30abb-c9fb-4fe2-9072-3521a0bf9420/grid_0.png"
+  },
+  {
+    prompt: "Bioshock Big Daddy",
+    link: "https://mj-gallery.com/7a209561-1704-4184-badd-b9ce96e4116b/grid_0.png"
+  },
+  {
+    prompt: "Panda Wearing a Cape",
+    link: "https://mj-gallery.com/bc8e24e7-6be2-4d10-9ccf-7df35534c76f/grid_0.png"
+  },
+  {
+    prompt: "The Streets of Englehood",
+    link: "https://mj-gallery.com/6df24362-c9aa-4dae-bcae-e3b43ecd4fca/grid_0.png"
+  },
+  {
+    prompt: "Elmo with Terminal Cancer",
+    link: "https://mj-gallery.com/23a29201-758b-4b96-a9ad-a50e6c0f4e67/grid_0.png"
+  },
+  {
+    prompt: "Monster Olympics",
+    link: "https://mj-gallery.com/34600977-c40a-4a37-a486-5ab56f58341b/grid_0.png"
+  },
+  {
+    prompt: "Elmo Eating an Innocent Bystander",
+    link: "https://mj-gallery.com/8d584b0e-4bd7-43cf-8dac-502cc2c3239c/grid_0.png"
+  },
+  {
+    prompt: "Orange Cat Drinking Lean",
+    link: "https://mj-gallery.com/abeeaa9c-637c-404d-a810-6f38726441b7/grid_0.png"
+  },
+  {
+    prompt: "Assassination Classroom",
+    link: "https://mj-gallery.com/921ebe3e-148f-4b92-82a0-456d72a0908a/grid_0.png"
+  },
+  {
+    prompt: "Dinka Flicka",
+    link: "https://mj-gallery.com/897765d1-f5f1-4cf9-87ce-e714de8f784c/grid_0.png"
+  },
+  {
+    prompt: "Fat Man Eating a 1-Up Mushroom",
+    link: "https://mj-gallery.com/0dc32b4f-2f16-4d55-ba41-9f8b911c3b83/grid_0.png"
+  },
+  {
+    prompt: "Fat Man Eating a 1-Up Mushroom",
+    link: "https://mj-gallery.com/c1aca714-feb2-44ea-8b39-453b572af3a3/grid_0.png"
+  },
+  {
+    prompt: "Galaxy Slayer Zed",
+    link: "https://mj-gallery.com/e3f03870-4c6e-4775-86a8-1be8420d75ad/grid_0.png"
+  },
+  {
+    prompt: "Galaxy Slayer Zed",
+    link: "https://mj-gallery.com/4fe0bbe2-579c-492f-ab01-397716990b83/grid_0.png"
+  },
+  {
+    prompt: "Mort D'Angelo",
+    link: "https://mj-gallery.com/90c46ba0-8f4e-426f-b225-c0f7a298e066/grid_0.png"
+  },
+  {
+    prompt: "MF DOOM Mask Hologram",
+    link: "https://mj-gallery.com/e0bbf847-1090-4863-806d-5a27e7a2b72a/grid_0.png"
+  },
+  {
+    prompt: "Pipboy",
+    link: "https://mj-gallery.com/548a4bdf-5677-415f-8785-ec115ad7626e/grid_0.png"
+  },
+  {
+    prompt: "X-Ray Vision",
+    link: "https://mj-gallery.com/fec7cf6e-d128-4040-ac92-2f5912b635f4/grid_0.png"
+  },
+  {
+    prompt: "X-Ray Vision",
+    link: "https://mj-gallery.com/fa894f9c-0bb5-4294-b20a-991594dfbf15/grid_0.png"
+  },
+  {
+    prompt: "X-Ray Vision",
+    link: "https://mj-gallery.com/bc3f1ecb-7404-4c27-ba31-91f3b793640b/grid_0.png"
+  },
+  {
+    prompt: "Minecraft Dungeon",
+    link: "https://mj-gallery.com/1077fdad-68e3-4fa1-ac86-2223df33f2b9/grid_0.png"
+  },
+  {
+    prompt: "Minecraft Dungeon",
+    link: "https://mj-gallery.com/d975542c-bdc7-4da0-aaa7-bc09f797c7de/grid_0.png"
+  },
+  {
+    prompt: "Minecraft Dungeon",
+    link: "https://mj-gallery.com/7efdea61-3c3d-4d76-9635-b887269d9c51/grid_0.png"
+  },
+  {
+    prompt: "Minecraft Dungeon",
+    link: "https://mj-gallery.com/75741a47-6305-4207-a9f4-c098264e1035/grid_0.png"
+  },
+  {
+    prompt: "Minecraft Dungeon",
+    link: "https://mj-gallery.com/408c2855-28be-4b6b-a2e9-fd7ed79a6de7/grid_0.png"
+  },
+  {
+    prompt: "Minecraft Dungeon",
+    link: "https://mj-gallery.com/0387ccb4-b0ba-4a00-a8a1-fc6998018fb1/grid_0.png"
+  },
+  {
+    prompt: "Minecraft Dungeon",
+    link: "https://mj-gallery.com/4c81593f-c13c-493e-bcc0-5d48c51790cb/grid_0.png"
+  },
+  {
+    prompt: "Minecraft Dungeon",
+    link: "https://mj-gallery.com/6355d081-7fc7-49f7-8fd0-4a3c5574ebaf/grid_0.png"
+  },
+  {
+    prompt: "Minecraft Dungeon",
+    link: "https://mj-gallery.com/4b3863e5-92b5-47c6-9370-019e57d34b83/grid_0.png"
   }
 ];
 
