@@ -295,6 +295,118 @@ const initialCards = [
   {
     prompt: "Nuclear War inside Space",
     link: "https://mj-gallery.com/652c810e-f0f5-44a9-b0cb-9757233b83cd/grid_0.png"
+  },
+  {
+    prompt: "Mission Impossible",
+    link: "https://mj-gallery.com/25e23757-b485-4647-862d-fd8676b2c97d/grid_0.png"
+  },
+  {
+    prompt: "Spy Diving Through Laser Alarms",
+    link: "https://mj-gallery.com/ac85520d-f091-499d-bf13-1346dfb42acf/grid_0.png"
+  },
+  {
+    prompt: "Sourjourned Warrior",
+    link: "https://mj-gallery.com/1aced76d-5446-4385-ac76-2b65b21b5cba/grid_0.png"
+  },
+  {
+    prompt: "Cyclops Using His Laserbeams",
+    link: "https://mj-gallery.com/e1a0bb0b-0ad3-461f-9edd-ebe53cb1347d/grid_0.png"
+  },
+  {
+    prompt: "Cyclops Using His Laserbeams",
+    link: "https://mj-gallery.com/df685695-927f-4106-a00b-58b1c441a4c8/grid_0.png"
+  },
+  {
+    prompt: "Fire Burning Across the Northern Lights",
+    link: "https://mj-gallery.com/87f508c6-ca26-4e91-98f0-a42bffd41ca1/grid_0.png"
+  },
+  {
+    prompt: "Rancid Tree",
+    link: "https://mj-gallery.com/5502dd60-85a3-4131-900c-86d521e9fb97/grid_0.png"
+  },
+  {
+    prompt: "Concert on the Moon",
+    link: "https://mj-gallery.com/584ece45-eaae-468b-9002-cce1f1815dfd/grid_0.png"
+  },
+  {
+    prompt: "Fighting for Attention in a Sea Filled with Vermin",
+    link: "https://mj-gallery.com/ae7187bc-1896-46cd-b4ae-b77b3cac7df8/grid_0.png"
+  },
+  {
+    prompt: "Addams Family Brady Bunch",
+    link: "https://mj-gallery.com/38c75048-1f92-45ba-a20c-057bec12cf81/grid_0.png"
+  },
+  {
+    prompt: "Bazooka Tooth",
+    link: "https://mj-gallery.com/f8273e95-56a4-406e-9fd5-b010ea1865d0/grid_0.png"
+  },
+  {
+    prompt: "Cthulu Bikini",
+    link: "https://mj-gallery.com/474b569a-0468-430d-88db-dc2028941359/grid_0.png"
+  },
+  {
+    prompt: "Falling into an Endless Hole",
+    link: "https://mj-gallery.com/e78ea905-34ae-47ac-97c4-d585d68d0729/grid_0.png"
+  },
+  {
+    prompt: "Pouring Water onto a Juicy Steak",
+    link: "https://mj-gallery.com/ecc25ae3-5575-4ea3-aa14-1072de8ff1f0/grid_0.png"
+  },
+  {
+    prompt: "Minecraft Dungeon",
+    link: "https://mj-gallery.com/fc998ae4-b8fb-4c3b-b3af-c69072c9bbb6/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleporation",
+    link: "https://mj-gallery.com/9bd157f9-5c19-4fc4-8eaf-697d77808837/grid_0.png"
+  },
+  {
+    prompt: "Rocket Ship Colliding with an Asteroid",
+    link: "https://mj-gallery.com/ded72e17-8416-4548-be7a-76aa370be537/grid_0.png"
+  },
+  {
+    prompt: "Face Melting Bass",
+    link: "https://mj-gallery.com/652cfb75-838f-42f4-8622-d25c5d2ec224/grid_0.png"
+  },
+  {
+    prompt: "Studio Ghibli Creature",
+    link: "https://mj-gallery.com/fe26ab2a-ad48-474c-b941-ad825fb2235b/grid_0.png"
+  },
+  {
+    prompt: "Dubstep as an Anime Character",
+    link: "https://mj-gallery.com/1f71165f-b43c-4a32-b22a-3be456df57ec/grid_0.png"
+  },
+  {
+    prompt: "Miyazaki Studio Ghibli",
+    link: "https://mj-gallery.com/dde7a76c-2fee-4341-9f7e-a5dd4b3c6b23/grid_0.png"
+  },
+  {
+    prompt: "League of Legends as a Side Scroller",
+    link: "https://mj-gallery.com/eac59c57-def4-4e62-8337-4784b55224ac/grid_0.png"
+  },
+  {
+    prompt: "Firing a Laser Cannon",
+    link: "https://mj-gallery.com/7c399fb7-c595-4ca4-8c04-b220c936540b/grid_0.png"
+  },
+  {
+    prompt: "Cybernetic Teeth",
+    link: "https://mj-gallery.com/914b46c5-88f7-4185-8264-f13b09572ff5/grid_0.png"
+  },
+  {
+    prompt: "A Doorway to Another Dimension",
+    link: "https://mj-gallery.com/e582a53b-e757-4450-af97-cb6f12bd489c/grid_0.png"
+  },
+  {
+    prompt: "Cybernetic Teeth",
+    link: "https://mj-gallery.com/3203257a-5cdd-43b0-a0bf-efb20c5dc88a/grid_0.png"
+  },
+  {
+    prompt: "Firing a Laser Cannon",
+    link: "https://mj-gallery.com/29a5a15b-856f-4d2d-8a37-9b26c98b82b2/grid_0.png"
+  },
+  {
+    prompt: "Spy Diving Through Laser Alarms",
+    link: "https://mj-gallery.com/7abefacf-3cbe-493d-8e41-3b24f56526ad/grid_0.png"
   }
 ];
 
@@ -303,5 +415,5 @@ const cards = document.querySelector(".cards");
 initialCards.forEach((data) => {
   const card = new Card(data, "#card");
   const cardElement = card.generateCard();
-  cards.append(cardElement);
+  cards.prepend(cardElement);
 })
