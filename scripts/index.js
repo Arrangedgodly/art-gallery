@@ -407,6 +407,54 @@ const initialCards = [
   {
     prompt: "Spy Diving Through Laser Alarms",
     link: "https://mj-gallery.com/7abefacf-3cbe-493d-8e41-3b24f56526ad/grid_0.png"
+  },
+  {
+    prompt: "Cosmic Wasteland",
+    link: "https://mj-gallery.com/f21ca6e6-2a70-4d5b-b6cf-e1d34a120d99/grid_0.png"
+  },
+  {
+    prompt: "Cosmic Wasteland",
+    link: "https://mj-gallery.com/08f59bd6-4cfb-4b5d-bfd1-ba5542907e9f/grid_0.png"
+  },
+  {
+    prompt: "Galaxy Slayer Zed",
+    link: "https://mj-gallery.com/06948bae-e4bc-4796-be17-9df8afd44824/grid_0.png"
+  },
+  {
+    prompt: "Pharah in Space",
+    link: "https://mj-gallery.com/af0dbaf6-b920-4b18-9063-991be521acbd/grid_0.png"
+  },
+  {
+    prompt: "Doomfist Actually Carrying a Game",
+    link: "https://mj-gallery.com/2015b666-d3a6-494b-801d-443cfdbe7150/grid_0.png"
+  },
+  {
+    prompt: "RHSWUB but not Haunted",
+    link: "https://mj-gallery.com/c67c319e-81d4-4403-bc29-fe2167b3c6e0/grid_0.png"
+  },
+  {
+    prompt: "RSHWUB but not Haunted",
+    link: "https://mj-gallery.com/344cea9c-de3e-4434-90b2-5d4ffd35c606/grid_0.png"
+  },
+  {
+    prompt: "Goblins Blocking the Dungeon Exit",
+    link: "https://mj-gallery.com/f9d75404-cf3b-48f5-9cd5-70573740031e/grid_0.png"
+  },
+  {
+    prompt: "Female Knight",
+    link: "https://mj-gallery.com/6fdeb97f-86a5-43f1-9b5a-0bb453da89a0/grid_0.png"
+  },
+  {
+    prompt: "ARTOFFICIAL",
+    link: "https://mj-gallery.com/77e1543f-fc3a-4457-953f-6718bfa4663a/grid_0.png"
+  },
+  {
+    prompt: "Let Sleeping Dogs Lie",
+    link: "https://mj-gallery.com/f4e941f0-7d1c-4ea6-b016-027e143213c8/grid_0.png"
+  },
+  {
+    prompt: "Two Planets Colliding",
+    link: "https://mj-gallery.com/1f5cae98-accc-4214-bc29-d6d3a4b08397/grid_0.png"
   }
 ];
 
