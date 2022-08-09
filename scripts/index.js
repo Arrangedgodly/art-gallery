@@ -455,8 +455,108 @@ const initialCards = [
   {
     prompt: "Two Planets Colliding",
     link: "https://mj-gallery.com/1f5cae98-accc-4214-bc29-d6d3a4b08397/grid_0.png"
+  },
+  {
+    prompt: "Disgraced Superhero",
+    link: "https://mj-gallery.com/a23f394d-fa66-4d46-90fe-82e24df575bf/grid_0.png"
+  },
+  {
+    prompt: "Pizza Pretzel",
+    link: "https://mj-gallery.com/7f7b8212-56c5-40cc-ba38-90f4c212866a/grid_0.png"
+  },
+  {
+    prompt: "Boxing Frogs",
+    link: "https://mj-gallery.com/57204f1f-39cb-4971-8406-cf0ad2b1bab0/grid_0.png"
+  },
+  {
+    prompt: "Cats Brawling",
+    link: "https://mj-gallery.com/cb507818-b600-4974-aada-20300a945925/grid_0.png"
+  },
+  {
+    prompt: "Psilocybin Cage",
+    link: "https://mj-gallery.com/d6353e1d-772b-454b-a194-7c377979a213/grid_0.png"
+  },
+  {
+    prompt: "Psilocybin Cage",
+    link: "https://mj-gallery.com/597fba5d-9205-445a-911f-afa9d767fe1d/grid_0.png"
+  },
+  {
+    prompt: "Mario the Ancient Tibetian Warrior",
+    link: "https://mj-gallery.com/e8c51881-d934-4033-bc7f-15e3ce7acac9/grid_0.png"
+  },
+  {
+    prompt: "Mario the Ancient Tibetian Warrior",
+    link: "https://mj-gallery.com/73c5ce6e-d9dc-40cf-b6cb-434982f985b8/grid_0.png"
+  },
+  {
+    prompt: "Love Entertwined",
+    link: "https://mj-gallery.com/6cde5e42-4f48-49e9-b75c-f7b2bc556d98/grid_0.png"
+  },
+  {
+    prompt: "Fat Man Eating a 1-Up Mushroom",
+    link: "https://mj-gallery.com/0609b86f-bb4a-47c0-be3e-858911813440/grid_0.png"
+  },
+  {
+    prompt: "Mario Powerups Sold Back Alley",
+    link: "https://mj-gallery.com/217a7a0d-6876-4711-91af-b28c75eb36f5/grid_0.png"
+  },
+  {
+    prompt: "Fat Man Eating a 1-Up Mushroom",
+    link: "https://mj-gallery.com/2612797e-1ace-4129-b301-01182d5e3ae9/grid_0.png"
+  },
+  {
+    prompt: "Fat Man Eating a 1-Up Mushroom",
+    link: "https://mj-gallery.com/90208852-03c0-42f6-b0a5-d2bfeaaea68c/grid_0.png"
+  },
+  {
+    prompt: "Mario Powerups Sold Back Alley",
+    link: "https://mj-gallery.com/ad99e3d2-9bf6-4e21-b8ee-45725ca335a1/grid_0.png"
+  },
+  {
+    prompt: "Mario Powerups Sold Back Alley",
+    link: "https://mj-gallery.com/b6573f44-eb7d-4616-819a-1aa9a45de9d1/grid_0.png"
+  },
+  {
+    prompt: "Jojo Punching Stritzo into a Volcano",
+    link: "https://mj-gallery.com/18805618-e31f-49e6-8d53-f9f242a01538/grid_0.png"
+  },
+  {
+    prompt: "Drunks Applauding the Bard",
+    link: "https://mj-gallery.com/c6df0b56-7a8a-4fec-9ee3-80aeaac3f6af/grid_0.png"
+  },
+  {
+    prompt: "Storming the Beaches of Normandy",
+    link: "https://mj-gallery.com/64599f47-8ecb-4823-a5ad-22a1b0017f1a/grid_0.png"
+  },
+  {
+    prompt: "Dinkin Flicka",
+    link: "https://mj-gallery.com/1e4a5fe0-b4bb-4c5a-b555-105443854660/grid_0.png"
+  },
+  {
+    prompt: "Morty Smith Cyberpunk",
+    link: "https://mj-gallery.com/46388e7f-49b9-4425-aefc-39e9b6e9e6b8/grid_0.png"
+  },
+  {
+    prompt: "Dinkin Flicka",
+    link: "https://mj-gallery.com/d57f4fbc-35e8-49bb-8c20-48c35e1a0f4b/grid_0.png"
   }
 ];
+
+function shuffle(array) {
+  let currentIndex = array.length,  randomIndex;
+
+  while (currentIndex != 0) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+
+    [array[currentIndex], array[randomIndex]] = [
+      array[randomIndex], array[currentIndex]];
+  }
+
+  return array;
+}
+
+shuffle(initialCards);
 
 const cards = document.querySelector(".cards");
 
