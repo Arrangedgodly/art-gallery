@@ -1543,6 +1543,7 @@ function shuffle(array) {
 shuffle(initialCards);
 
 const cards = document.querySelector(".cards");
+
 let projectCount = 0;
 const leftArrow = document.querySelector(".fa-arrow-left");
 const rightArrow = document.querySelector(".fa-arrow-right");
@@ -1568,14 +1569,18 @@ checkArrows(projectCount);
 
 const createCards = (num) => {
   cards.innerHTML = "";
-  let cardCount = (num * 55);
+  let cardCount = 0;
+  if (num > 0) {
+    cardCount = num * 55;
+  }
   let tracker = cardCount + 55;
-  while (cardCount < tracker) {
-    const card = new Card(initialCards[cardCount], "#card");
+  let newCards = initialCards.slice(cardCount, tracker);
+
+  newCards.forEach((data) => {
+    const card = new Card(data, "#card");
     const cardElement = card.generateCard();
     cards.prepend(cardElement);
-    cardCount++;
-  }
+  })
 }
 
 createCards(projectCount);
@@ -1583,20 +1588,14 @@ createCards(projectCount);
 function clickRightArrow() {
   projectCount++;
   createCards(projectCount);
+  checkArrows(projectCount);
 }
 
 function clickLeftArrow() {
   projectCount--;
   createCards(projectCount);
+  checkArrows(projectCount);
 }
 
 leftArrow.addEventListener("click", clickLeftArrow);
 rightArrow.addEventListener("click", clickRightArrow);
-
-/*
-initialCards.forEach((data) => {
-  const card = new Card(data, "#card");
-  const cardElement = card.generateCard();
-  cards.prepend(cardElement);
-})
-*/
