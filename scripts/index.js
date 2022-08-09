@@ -675,6 +675,138 @@ const initialCards = [
   {
     prompt: "Minecraft Dungeon",
     link: "https://mj-gallery.com/4b3863e5-92b5-47c6-9370-019e57d34b83/grid_0.png"
+  },
+  {
+    prompt: "Miyazaki Game of Thrones",
+    link: "https://mj-gallery.com/9d3703e8-3d59-44ac-9ebf-cca28346aa9b/grid_0.png"
+  },
+  {
+    prompt: "The Sopranos Anime",
+    link: "https://mj-gallery.com/d5975e8c-5ec0-4b35-94de-7a8adbb118b8/grid_0.png"
+  },
+  {
+    prompt: "Miyazaki Game of Thrones",
+    link: "https://mj-gallery.com/21b973a2-e0b2-4fa5-b2d5-1f739c0f6c39/grid_0.png"
+  },
+  {
+    prompt: "King Coroner",
+    link: "https://mj-gallery.com/b1cb5d18-9d35-4ddd-9e47-5820cff05fe5/grid_0.png"
+  },
+  {
+    prompt: "King Coroner",
+    link: "https://mj-gallery.com/95b7c367-1a16-48d4-96e6-ac6c964ea46c/grid_0.png"
+  },
+  {
+    prompt: "King Coroner",
+    link: "https://mj-gallery.com/2cda96da-e727-4a4f-9dcb-283fe7caa2dc/grid_0.png"
+  },
+  {
+    prompt: "Sailor Moon",
+    link: "https://mj-gallery.com/fb7016b5-281c-493f-b243-e65ede6baad6/grid_0.png"
+  },
+  {
+    prompt: "Band of Thieves",
+    link: "https://mj-gallery.com/c5e97136-4401-4155-8d97-45c767561b71/grid_0.png"
+  },
+  {
+    prompt: "The Hanged Man",
+    link: "https://mj-gallery.com/249c90e6-5b82-42c5-890f-8af7b989ba95/grid_0.png"
+  },
+  {
+    prompt: "Judgement",
+    link: "https://mj-gallery.com/38834306-706b-4053-b4e2-580e9915c1ae/grid_0.png"
+  },
+  {
+    prompt: "The Hanged Man",
+    link: "https://mj-gallery.com/4f7cbd47-1315-4bd9-9398-b83ee12e3f68/grid_0.png"
+  },
+  {
+    prompt: "Judgement",
+    link: "https://mj-gallery.com/e978ca94-f1b8-44a7-9b28-75923fb3b28a/grid_0.png"
+  },
+  {
+    prompt: "Chef Chicken Cooking Rice",
+    link: "https://mj-gallery.com/7bd3a452-10ec-4c21-8d67-ff26083079ff/grid_0.png"
+  },
+  {
+    prompt: "Chef Chicken Cooking Rice",
+    link: "https://mj-gallery.com/11c5e956-ea2e-43ed-b389-383890bf637b/grid_0.png"
+  },
+  {
+    prompt: "Galaxy in a Bottle",
+    link: "https://mj-gallery.com/314d7697-5e31-495d-b518-14d9168c6c5b/grid_0.png"
+  },
+  {
+    prompt: "Pits of Despair",
+    link: "https://mj-gallery.com/1360c442-311b-4d8c-9cb2-07108583400a/grid_0.png"
+  },
+  {
+    prompt: "Deep Sea Monster",
+    link: "https://mj-gallery.com/72720bc9-404d-4524-9954-12d7cc32b2e8/grid_0.png"
+  },
+  {
+    prompt: "Pits of Despair",
+    link: "https://mj-gallery.com/4f8df3dd-0bca-4d76-9b2d-6421dc0db840/grid_0.png"
+  },
+  {
+    prompt: "Stock Downspiral",
+    link: "https://mj-gallery.com/63cfab63-d8d2-4f1e-b7d9-5487672ae361/grid_0.png"
+  },
+  {
+    prompt: "Industrial Revolution",
+    link: "https://mj-gallery.com/5a87e8f0-9ae5-408a-bae5-a37e4dc016d0/grid_0.png"
+  },
+  {
+    prompt: "Alan Resnick Film",
+    link: "https://mj-gallery.com/08e48ffc-3145-4fc8-8161-145dbf60f99f/grid_0.png"
+  },
+  {
+    prompt: "Coffee at the End of the World",
+    link: "https://mj-gallery.com/139c00fd-8f21-413c-922c-248f140e2fd1/grid_0.png"
+  },
+  {
+    prompt: "Mr Rogers Horror",
+    link: "https://mj-gallery.com/e932c2d3-5503-40e9-8bb2-50af71300649/grid_0.png"
+  },
+  {
+    prompt: "Mr Rogers Horror",
+    link: "https://mj-gallery.com/2c513c25-4499-4fa2-820c-055a510624d6/grid_0.png"
+  },
+  {
+    prompt: "The Hanging Man",
+    link: "https://mj-gallery.com/5e340632-feb0-4603-a040-a79b7d3cb6f2/grid_0.png"
+  },
+  {
+    prompt: "Fire Breathing Toad",
+    link: "https://mj-gallery.com/5dd7b606-61bb-4117-bf71-2a083bcac579/grid_0.png"
+  },
+  {
+    prompt: "Fire Breathing Toad",
+    link: "https://mj-gallery.com/eb338836-b152-45b1-9b76-2e05b4e1d194/grid_0.png"
+  },
+  {
+    prompt: "Fire Breathing Toad",
+    link: "https://mj-gallery.com/09137f88-8cf3-483f-aa9e-a32a41c195b6/grid_0.png"
+  },
+  {
+    prompt: "Tiefling Battlemind",
+    link: "https://mj-gallery.com/5d1a89cf-f40f-44a5-970c-1e0e8c12bdc1/grid_0.png"
+  },
+  {
+    prompt: "Tiefling Battlemind",
+    link: "https://mj-gallery.com/3f6d2dee-23e6-4b6b-86dc-a6aeec39aa09/grid_0.png"
+  },
+  {
+    prompt: "Sensei Luigi",
+    link: "https://mj-gallery.com/c644a318-d1e7-48a5-aa29-f039650e7ca6/grid_0.png"
+  },
+  {
+    prompt: "Sensei Luigi",
+    link: "https://mj-gallery.com/b7e06d0c-d43b-4031-814d-a6e24aaff969/grid_0.png"
+  },
+  {
+    prompt: "Sensei Luigi",
+    link: "https://mj-gallery.com/80767601-2f88-44ed-99d8-d81cf85622c4/grid_0.png"
   }
 ];
 
