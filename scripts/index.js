@@ -1371,6 +1371,158 @@ const initialCards = [
   {
     prompt: "Lil Wayne Anime",
     link: "https://mj-gallery.com/332e26c9-19dd-4603-aadb-b787fed2565a/grid_0.png"
+  },
+  {
+    prompt: "Icecube in Hell",
+    link: "https://mj-gallery.com/aaf920e3-3667-4cc5-b322-0b5938f7496b/grid_0.png"
+  },
+  {
+    prompt: "Sneaker Heel",
+    link: "https://mj-gallery.com/f783b09c-24d6-4eb2-88e7-770145089c50/grid_0.png"
+  },
+  {
+    prompt: "Love Potion",
+    link: "https://mj-gallery.com/b70a6fcb-a3bf-43e2-bf58-c6ec5d91cbe2/grid_0.png"
+  },
+  {
+    prompt: "Love Potion",
+    link: "https://mj-gallery.com/1bf0b2fc-a0bb-4a2c-89d5-74437ebcefc5/grid_0.png"
+  },
+  {
+    prompt: "Plasmid Overflowing",
+    link: "https://mj-gallery.com/f15a7bfe-1a74-443a-9c31-7961a5e78876/grid_0.png"
+  },
+  {
+    prompt: "Plasmid Overflowin",
+    link: "https://mj-gallery.com/9e71f76f-09f4-4cea-b276-ba5632033ca7/grid_0.png"
+  },
+  {
+    prompt: "Bioshock Plasmid",
+    link: "https://mj-gallery.com/72c8bb3e-f460-4788-9256-4d282da6e967/grid_0.png"
+  },
+  {
+    prompt: "Bioshock Plasmid",
+    link: "https://mj-gallery.com/b3125b30-d887-4f31-893b-87449d5c95f9/grid_0.png"
+  },
+  {
+    prompt: "Introspection on Insanity",
+    link: "https://mj-gallery.com/fa5fba00-0af1-433a-a2a1-47d43d989448/grid_0.png"
+  },
+  {
+    prompt: "Spaceship Salesman",
+    link: "https://mj-gallery.com/806ccf94-f160-4724-a7c9-8e5faa3d57b2/grid_0.png"
+  },
+  {
+    prompt: "Spaceship Salesman",
+    link: "https://mj-gallery.com/9f00c345-bf2c-4ac5-98ea-ffb892019f39/grid_0.png"
+  },
+  {
+    prompt: "Spaceship Salesman",
+    link: "https://mj-gallery.com/fde528eb-ce8b-4c37-adca-28e60474b31a/grid_0.png"
+  },
+  {
+    prompt: "Leaves of Grass",
+    link: "https://mj-gallery.com/40d3136b-0b86-4f8a-8023-c0309d78e36b/grid_0.png"
+  },
+  {
+    prompt: "Spaceship Salesman",
+    link: "https://mj-gallery.com/f977870a-995b-471d-bbff-a4e93c3724f3/grid_0.png"
+  },
+  {
+    prompt: "Spaceship Salesman",
+    link: "https://mj-gallery.com/88aad875-e78f-4bc4-bf5d-52ac69eb4034/grid_0.png"
+  },
+  {
+    prompt: "Underlings Crawl to Master",
+    link: "https://mj-gallery.com/bec0a9f6-ba15-40ce-af5f-491465d290bc/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Enterprise",
+    link: "https://mj-gallery.com/b8c75334-53b2-4c81-96c2-52e38e004d0e/grid_0.png"
+  },
+  {
+    prompt: "Underlings Crawl to Master",
+    link: "https://mj-gallery.com/8cc9cdb8-262b-45f6-9b09-cb252a6110dd/grid_0.png"
+  },
+  {
+    prompt: "Skeleton Fortune Teller",
+    link: "https://mj-gallery.com/2b137200-04ee-4568-8a90-68b6ea3ed6f2/grid_0.png"
+  },
+  {
+    prompt: "Mars Farmer",
+    link: "https://mj-gallery.com/e6c79fbb-5f15-4a19-914e-c1d9c926bb8c/grid_0.png"
+  },
+  {
+    prompt: "Mars Farmer",
+    link: "https://mj-gallery.com/b9d77647-ddcc-4239-922d-046a0577197f/grid_0.png"
+  },
+  {
+    prompt: "Mars Attacks",
+    link: "https://mj-gallery.com/c6ab05c0-a80d-4b2a-8299-84d41e289579/grid_0.png"
+  },
+  {
+    prompt: "Death Metal",
+    link: "https://mj-gallery.com/4a845098-6b91-4366-8330-32413f16eb59/grid_0.png"
+  },
+  {
+    prompt: "Death Metal",
+    link: "https://mj-gallery.com/75b3cb00-a89e-4387-b674-dd519109653e/grid_0.png"
+  },
+  {
+    prompt: "Mars Attacks",
+    link: "https://mj-gallery.com/eace8081-7c31-4e44-825c-91d70836901b/grid_0.png"
+  },
+  {
+    prompt: "Mirror 1000 Years into the Future",
+    link: "https://mj-gallery.com/43f8bc28-0756-41ea-8ca7-f6d7cdfd3d5f/grid_0.png"
+  },
+  {
+    prompt: "Wish You Were Here Zombie",
+    link: "https://mj-gallery.com/cf8e14c6-caa5-404f-89b8-619d2ff50474/grid_0.png"
+  },
+  {
+    prompt: "Cyberpunk Doomfist",
+    link: "https://mj-gallery.com/72b26a44-c7b0-4d89-9edc-cfe601dd12a2/grid_0.png"
+  },
+  {
+    prompt: "It's Always Sunny in Philidelphia",
+    link: "https://mj-gallery.com/be3166b8-e487-4b17-bac6-5085a972899b/grid_0.png"
+  },
+  {
+    prompt: "It's Always Sunny in Philidelphia",
+    link: "https://mj-gallery.com/59a3dac2-044c-436f-9038-4ceda0816a5c/grid_0.png"
+  },
+  {
+    prompt: "Doomfist in the Style of Salvador Dali",
+    link: "https://mj-gallery.com/53516bfd-2248-478e-ae60-0d6d344ec7f4/grid_0.png"
+  },
+  {
+    prompt: "Echo League of Legends",
+    link: "https://mj-gallery.com/f5adf7a5-34f2-48e7-858b-a5087c663fc0/grid_0.png"
+  },
+  {
+    prompt: "Echo Through a Time Bomb",
+    link: "https://mj-gallery.com/354ff346-3841-4417-811d-e4800474b0bc/grid_0.png"
+  },
+  {
+    prompt: "Echo Through a Time Bomb",
+    link: "https://mj-gallery.com/3d9e8e50-bd19-4eb1-abc8-b4f1ba98e2b9/grid_0.png"
+  },
+  {
+    prompt: "Cyberpunk Doomfist",
+    link: "https://mj-gallery.com/7869f473-1d7b-4e6a-816a-f72f52a675d7/grid_0.png"
+  },
+  {
+    prompt: "Echo Through a Time Bomb",
+    link: "https://mj-gallery.com/6cd5a357-4958-4c3f-9f6a-739b7d05cb57/grid_0.png"
+  },
+  {
+    prompt: "Echo League of Legends",
+    link: "https://mj-gallery.com/83326a0d-f436-4582-81ff-99ff77d81cbc/grid_0.png"
+  },
+  {
+    prompt: "Echo League of Legends",
+    link: "https://mj-gallery.com/f065fcee-2480-482d-9233-2796d410fd98/grid_0.png"
   }
 ];
 
@@ -1391,9 +1543,60 @@ function shuffle(array) {
 shuffle(initialCards);
 
 const cards = document.querySelector(".cards");
+let projectCount = 0;
+const leftArrow = document.querySelector(".fa-arrow-left");
+const rightArrow = document.querySelector(".fa-arrow-right");
 
+function checkArrows(num) {
+  if (num === 0) {
+    leftArrow.setAttribute("style", "opacity: 0;");
+    leftArrow.setAttribute("disabled", "true");
+  } else if (num > 0) {
+    leftArrow.setAttribute("style", "opacity: 1;");
+    leftArrow.setAttribute("disabled", "false");
+  };
+  if (num === cards.length - 1) {
+    rightArrow.setAttribute("style", "opacity: 0;");
+    rightArrow.setAttribute("disabled", "true");
+  } else if (num < cards.length - 1) {
+    rightArrow.setAttribute("style", "opacity: 1;");
+    rightArrow.setAttribute("disabled", "false");
+  }
+}
+
+checkArrows(projectCount);
+
+const createCards = (num) => {
+  cards.innerHTML = "";
+  let cardCount = (num * 55);
+  let tracker = cardCount + 55;
+  while (cardCount < tracker) {
+    const card = new Card(initialCards[cardCount], "#card");
+    const cardElement = card.generateCard();
+    cards.prepend(cardElement);
+    cardCount++;
+  }
+}
+
+createCards(projectCount);
+
+function clickRightArrow() {
+  projectCount++;
+  createCards(projectCount);
+}
+
+function clickLeftArrow() {
+  projectCount--;
+  createCards(projectCount);
+}
+
+leftArrow.addEventListener("click", clickLeftArrow);
+rightArrow.addEventListener("click", clickRightArrow);
+
+/*
 initialCards.forEach((data) => {
   const card = new Card(data, "#card");
   const cardElement = card.generateCard();
   cards.prepend(cardElement);
 })
+*/
