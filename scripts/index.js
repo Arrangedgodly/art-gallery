@@ -807,6 +807,570 @@ const initialCards = [
   {
     prompt: "Sensei Luigi",
     link: "https://mj-gallery.com/80767601-2f88-44ed-99d8-d81cf85622c4/grid_0.png"
+  },
+  {
+    prompt: "Origami Cannon",
+    link: "https://mj-gallery.com/9b73d63d-2b38-4bc2-8a6b-ccf493a59b9c/grid_0.png"
+  },
+  {
+    prompt: "Plague Doctor",
+    link: "https://mj-gallery.com/eb1e081d-5de8-419f-bb81-192a9238ea60/grid_0.png"
+  },
+  {
+    prompt: "Rocket Bow and Arrow",
+    link: "https://mj-gallery.com/29c5aa7a-60bb-4169-856b-ab6c20c7dfd6/grid_0.png"
+  },
+  {
+    prompt: "Zombie DJ",
+    link: "https://mj-gallery.com/582cfce2-38ca-488c-9f37-ea04ca33036f/grid_0.png"
+  },
+  {
+    prompt: "Zombie DJ",
+    link: "https://mj-gallery.com/a30d273e-2346-4730-a953-508d17d2ffa3/grid_0.png"
+  },
+  {
+    prompt: "Nuking the Moon",
+    link: "https://mj-gallery.com/6b9c8730-8a3a-4962-bcaf-7125c86de51a/grid_0.png"
+  },
+  {
+    prompt: "DJ End of the World",
+    link: "https://mj-gallery.com/f529d563-9974-41a3-9b78-1dfe5ede4359/grid_0.png"
+  },
+  {
+    prompt: "DJ End of the World",
+    link: "https://mj-gallery.com/3e1d75ef-c14d-419f-82cd-9f74bd66966f/grid_0.png"
+  },
+  {
+    prompt: "DJ End of the World",
+    link: "https://mj-gallery.com/3096d2eb-7ed1-4ce4-9d01-2d580f83dd48/grid_0.png"
+  },
+  {
+    prompt: "DJ End of the World",
+    link: "https://mj-gallery.com/38b98a0a-ebe1-4d16-ac29-35f76a71d695/grid_0.png"
+  },
+  {
+    prompt: "Ripping Face Off",
+    link: "https://mj-gallery.com/3a48840d-e830-4a37-8d45-179d08c6683f/grid_0.png"
+  },
+  {
+    prompt: "Crescendo of Violence",
+    link: "https://mj-gallery.com/28113c17-114e-4f0a-a1eb-d083b0751666/grid_0.png"
+  },
+  {
+    prompt: "King Wearing Crocs",
+    link: "https://mj-gallery.com/74ed0510-edf2-4d0b-a6ad-b4fd823fb77e/grid_0.png"
+  },
+  {
+    prompt: "Sneaker Heels",
+    link: "https://mj-gallery.com/f806fd48-e5a4-459c-a9bc-7bb9c37b9b48/grid_0.png"
+  },
+  {
+    prompt: "Sneaker Heels",
+    link: "https://mj-gallery.com/42a255e1-882b-47ec-9a43-1a9dcb8390be/grid_0.png"
+  },
+  {
+    prompt: "Acid Nightmares",
+    link: "https://mj-gallery.com/0a8543bd-dc7e-451a-8c66-b7f5689dc22c/grid_0.png"
+  },
+  {
+    prompt: "Convergence of Sun and a Black Hole",
+    link: "https://mj-gallery.com/269f288a-cc3d-4419-9fe8-22d1dc0649d9/grid_0.png"
+  },
+  {
+    prompt: "Face Melting Bass",
+    link: "https://mj-gallery.com/8976354e-8be8-44bf-ab27-39927aa5d85d/grid_0.png"
+  },
+  {
+    prompt: "Face Melting Bass",
+    link: "https://mj-gallery.com/9e64ec80-19f9-4be1-8a55-c200118ea9ce/grid_0.png"
+  },
+  {
+    prompt: "Ninja Lurking in Shadows Waiting to Kill King",
+    link: "https://mj-gallery.com/efbb52a5-5715-4e41-83a8-a33207cbf51e/grid_0.png"
+  },
+  {
+    prompt: "Archangel Ascended",
+    link: "https://mj-gallery.com/dcf5b2af-cd5e-46e3-9b4e-1de83717e6a7/grid_0.png"
+  },
+  {
+    prompt: "Kung Fu Panda",
+    link: "https://mj-gallery.com/9e6e1d50-6a50-4a73-813f-d63b1d6eb18c/grid_0.png"
+  },
+  {
+    prompt: "Cyberpunk Kungfu Panda Drunk as Hell",
+    link: "https://mj-gallery.com/535e73b8-8a87-49a8-b9ff-cdf7c2d26e9f/grid_0.png"
+  },
+  {
+    prompt: "Bearded Supervillian",
+    link: "https://mj-gallery.com/26dab1f9-65ef-4e08-a6f1-75ced7f2c7fd/grid_0.png"
+  },
+  {
+    prompt: "Cthulu Nightmare Sleep Paralysis Demon",
+    link: "https://mj-gallery.com/0542c9f6-8f9e-42f1-abd4-35347da8c684/grid_0.png"
+  },
+  {
+    prompt: "Cthulu Nightmare Sleep Paralysis Demon",
+    link: "https://mj-gallery.com/936433af-679f-4623-824e-15cca56e1df9/grid_0.png"
+  },
+  {
+    prompt: "Man Falling Through Music Notes Psychosis",
+    link: "https://mj-gallery.com/092bcdcc-967e-4e4a-9437-cdfa6295c778/grid_0.png"
+  },
+  {
+    prompt: "Cybernetic JFK Prepares for War",
+    link: "https://mj-gallery.com/479da9a0-7a62-4a68-b667-854d1cf3734b/grid_0.png"
+  },
+  {
+    prompt: "Kermit the Frog as a Zombie",
+    link: "https://mj-gallery.com/e23e31a8-f4dc-4dc6-aadc-23e9ab27a8ec/grid_0.png"
+  },
+  {
+    prompt: "Two Robots Merging Together",
+    link: "https://mj-gallery.com/a2c07b3c-b34b-4144-903d-9b9a58ba57cc/grid_0.png"
+  },
+  {
+    prompt: "Two Robots Merging Together",
+    link: "https://mj-gallery.com/7105ec1d-f3f6-460b-aacd-1f74bfeb3593/grid_0.png"
+  },
+  {
+    prompt: "Two Robots Merging Together",
+    link: "https://mj-gallery.com/ad498ff0-0e31-4193-8b66-f21e9e44be12/grid_0.png"
+  },
+  {
+    prompt: "Sci-Fi Futuristic Twister",
+    link: "https://mj-gallery.com/1705f67c-b573-4806-8ac1-e1d351f9f322/grid_0.png"
+  },
+  {
+    prompt: "Tim Burton's Acid Dream",
+    link: "https://mj-gallery.com/eae0863d-17ae-4114-8667-38d2634bec00/grid_0.png"
+  },
+  {
+    prompt: "Tim Burton's Acid Dream",
+    link: "https://mj-gallery.com/efcf3682-baa3-424c-8be5-faef56ab6bfe/grid_0.png"
+  },
+  {
+    prompt: "Tim Burton's Acid Dream",
+    link: "https://mj-gallery.com/cd3a16f9-54fa-4f1e-9d0b-b022f95436cf/grid_0.png"
+  },
+  {
+    prompt: "King Kitty, Lord of the Meat Sticks",
+    link: "https://mj-gallery.com/ed638a9a-c66f-4c4d-9359-5b23765825fb/grid_0.png"
+  },
+  {
+    prompt: "King of the Wicked",
+    link: "https://mj-gallery.com/21cf687f-e06b-4143-be75-1f3fec1f71d8/grid_0.png"
+  },
+  {
+    prompt: "King of the Wicked",
+    link: "https://mj-gallery.com/f6aa2639-7bfa-445d-9113-c3543ae58384/grid_0.png"
+  },
+  {
+    prompt: "Black Cat Yellow Eyes",
+    link: "https://mj-gallery.com/fd052833-6e4a-4b37-8829-936725eb7489/grid_0.png"
+  },
+  {
+    prompt: "Black Cat Yellow Eyes",
+    link: "https://mj-gallery.com/978fcd68-eae8-4209-9dfd-1f4929df871c/grid_0.png"
+  },
+  {
+    prompt: "The Wedding of the Bride and the Bastard",
+    link: "https://mj-gallery.com/2df49c55-0489-42b6-beec-a8c6c0eb59f9/grid_0.png"
+  },
+  {
+    prompt: "The Wedding of the Bride and the Bastard",
+    link: "https://mj-gallery.com/06f0f11c-f43a-4a98-9145-4837e40b6318/grid_0.png"
+  },
+  {
+    prompt: "The Wedding of the Bride and the Bastard",
+    link: "https://mj-gallery.com/0b0d9ab1-b0e5-4e8f-ba45-eaf197a6b390/grid_0.png"
+  },
+  {
+    prompt: "The Wedding of the Bride and the Bastard",
+    link: "https://mj-gallery.com/b454f56e-ee1c-44cf-921a-6feb784db79c/grid_0.png"
+  },
+  {
+    prompt: "Smoking a Mile Long Cigar",
+    link: "https://mj-gallery.com/5d9c2cd8-7831-4bc2-9ec6-f04a30e3f562/grid_0.png"
+  },
+  {
+    prompt: "Smoking a Mile Long Cigar",
+    link: "https://mj-gallery.com/08549298-5613-4396-8d36-a3c98b6d7595/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty Turned Acid Nightmare",
+    link: "https://mj-gallery.com/7526d0d7-2422-46c2-ae18-61ecef529cf2/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty Turned Acid Nightmare",
+    link: "https://mj-gallery.com/d83ae9e2-6cf2-4d7a-9d18-67b529534d80/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty Turned Acid Nightmare",
+    link: "https://mj-gallery.com/c8ecb26a-1a2c-4a17-bf94-09c16f218378/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty Turned Acid Nightmare",
+    link: "https://mj-gallery.com/3d411cdc-e5c5-4f92-8b6f-035bb626f871/grid_0.png"
+  },
+  {
+    prompt: "Self Portrait of Zeus Psychosis",
+    link: "https://mj-gallery.com/1ab01d6a-a50d-42f7-b479-9490b22a55bf/grid_0.png"
+  },
+  {
+    prompt: "Pit of Despair",
+    link: "https://mj-gallery.com/b8d29d25-f36f-4eaf-9308-5225baafd518/grid_0.png"
+  },
+  {
+    prompt: "New Run the Jewels Cover",
+    link: "https://mj-gallery.com/6836ddb1-5a9f-4f47-8601-ea7368f65eed/grid_0.png"
+  },
+  {
+    prompt: "New Run the Jewels Cover",
+    link: "https://mj-gallery.com/b8517b3d-bd5c-4e76-b72d-be05621388d4/grid_0.png"
+  },
+  {
+    prompt: "Run the Jewels 5",
+    link: "https://mj-gallery.com/f0c6b8a5-b7a1-4e2a-ab89-79e14c3c9c71/grid_0.png"
+  },
+  {
+    prompt: "Soldering Iron to the Face",
+    link: "https://mj-gallery.com/7092009b-6ee2-4be6-93c3-c513153876f6/grid_0.png"
+  },
+  {
+    prompt: "Cybernetic Korean Police",
+    link: "https://mj-gallery.com/ce8a537c-7791-446d-bbcb-25e7f4de20c1/grid_0.png"
+  },
+  {
+    prompt: "Corporate Hell",
+    link: "https://mj-gallery.com/7e563f45-d1b7-47f8-b273-d8297839d767/grid_0.png"
+  },
+  {
+    prompt: "Superhero Made Out of Stardust and Unicorn Glitter",
+    link: "https://mj-gallery.com/3043cb29-2fe3-4240-8164-660007850d99/grid_0.png"
+  },
+  {
+    prompt: "Demonic Uprising Against Robotic Regime",
+    link: "https://mj-gallery.com/f25802eb-2823-4e1e-946d-e37b65df73b8/grid_0.png"
+  },
+  {
+    prompt: "Demonic Uprising Against Robotic Regime",
+    link: "https://mj-gallery.com/71e7be18-e179-49b4-bc9e-9533185886d6/grid_0.png"
+  },
+  {
+    prompt: "Demonic Uprising Against Robotic Regime",
+    link: "https://mj-gallery.com/f65b3674-75f4-4869-b95d-9539b169b366/grid_0.png"
+  },
+  {
+    prompt: "Man Smiling Grimely After Destruction",
+    link: "https://mj-gallery.com/07a5bbb9-bf39-4450-812c-5db51f06e117/grid_0.png"
+  },
+  {
+    prompt: "Jake the Dog and Finn the Zombie",
+    link: "https://mj-gallery.com/9cfc1e30-840b-4a58-a18f-875fb6288610/grid_0.png"
+  },
+  {
+    prompt: "Superhero Made Out of Stardust and Unicorn Glitter",
+    link: "https://mj-gallery.com/21ad9962-c894-4a56-b650-b110653dd325/grid_0.png"
+  },
+  {
+    prompt: "Eye of Mordor from Space",
+    link: "https://mj-gallery.com/0073d0e2-eaed-4244-9333-f926adcc7e93/grid_0.png"
+  },
+  {
+    prompt: "Demonic Uprising Against Robotic Regime",
+    link: "https://mj-gallery.com/b24f5f3f-21cc-48a6-a7cf-c34704519a3b/grid_0.png"
+  },
+  {
+    prompt: "Eye of Mordor Clown",
+    link: "https://mj-gallery.com/ebbe14c4-548f-4165-8a0e-25cc13064d00/grid_0.png"
+  },
+  {
+    prompt: "Eye of Mordor Clown",
+    link: "https://mj-gallery.com/741a0fd5-55bc-4858-97bd-6050451a3a9b/grid_0.png"
+  },
+  {
+    prompt: "Indiana Jones in Phantom Menace",
+    link: "https://mj-gallery.com/21c7b922-8401-4ddd-bf47-a87665cb26aa/grid_0.png"
+  },
+  {
+    prompt: "Hazey Eyes Great Gatsby",
+    link: "https://mj-gallery.com/f04d766e-9061-4829-8a2b-715c0b9eb9d7/grid_0.png"
+  },
+  {
+    prompt: "Hazey Eyes Great Gatsby",
+    link: "https://mj-gallery.com/114a6637-ae4c-4efa-9408-aad1dade8a0f/grid_0.png"
+  },
+  {
+    prompt: "Bearded Thug with Baseball Hat and Microphone",
+    link: "https://mj-gallery.com/6e36ff27-5433-4d0a-8a6d-646e09a476d7/grid_0.png"
+  },
+  {
+    prompt: "Screaming into the Void",
+    link: "https://mj-gallery.com/1bd3ff3b-ed27-4a01-878d-1dcfefc5d717/grid_0.png"
+  },
+  {
+    prompt: "Screaming into the Void",
+    link: "https://mj-gallery.com/a46a1674-5a01-485d-888d-482b6a71e375/grid_0.png"
+  },
+  {
+    prompt: "Screaming into the Void",
+    link: "https://mj-gallery.com/c6395682-2dbe-4216-8c68-3efc716e4713/grid_0.png"
+  },
+  {
+    prompt: "Feather Hat Cigar Smoker",
+    link: "https://mj-gallery.com/b8f9131b-aabf-48f1-a141-d0311e1cdbe1/grid_0.png"
+  },
+  {
+    prompt: "Psychotic",
+    link: "https://mj-gallery.com/33b4363c-3088-4db1-a8d5-7a1cf2e4f463/grid_0.png"
+  },
+  {
+    prompt: "Joseph Joestar",
+    link: "https://mj-gallery.com/f5f615a5-2a9a-41c4-a8fa-4281b7ae0f8a/grid_0.png"
+  },
+  {
+    prompt: "Stoner Kitty",
+    link: "https://mj-gallery.com/12c01841-98bd-49a9-b82d-b44e277d0978/grid_0.png"
+  },
+  {
+    prompt: "Stoner Kitty",
+    link: "https://mj-gallery.com/fb9dade6-645a-494d-81fb-43f54e9cb27c/grid_0.png"
+  },
+  {
+    prompt: "Optimus Prime as a Stoner",
+    link: "https://mj-gallery.com/ca6aa6e7-25e2-41c5-b175-aecccf9ff8d0/grid_0.png"
+  },
+  {
+    prompt: "Dr Strange in the Evil Dead",
+    link: "https://mj-gallery.com/592737b5-be61-45dc-9af5-c1a8b7835be1/grid_0.png"
+  },
+  {
+    prompt: "Crying Clown Face Dollar Bill",
+    link: "https://mj-gallery.com/717c6f91-8973-497f-ac80-b3a77a37a41e/grid_0.png"
+  },
+  {
+    prompt: "Crying Clown Face Dollar Bill",
+    link: "https://mj-gallery.com/e02bea96-5ae0-429a-90da-b25f3309a013/grid_0.png"
+  },
+  {
+    prompt: "Slenderman Leading the US Military",
+    link: "https://mj-gallery.com/92778974-2d22-482b-a414-f0bde74859f2/grid_0.png"
+  },
+  {
+    prompt: "Drag Queen Transformer",
+    link: "https://mj-gallery.com/3e5f60f3-c39b-48b6-aa0a-4ff87d265ec9/grid_0.png"
+  },
+  {
+    prompt: "Drag Queen Transformer",
+    link: "https://mj-gallery.com/16f307e5-6c00-4ffe-8144-72f96f65f757/grid_0.png"
+  },
+  {
+    prompt: "Drag Queen Transformer",
+    link: "https://mj-gallery.com/86455546-612c-47ca-bb10-4291f4c52c05/grid_0.png"
+  },
+  {
+    prompt: "Crying Face Dollar Bill",
+    link: "https://mj-gallery.com/b0280963-bd38-4645-8380-ae3aa77c0ff1/grid_0.png"
+  },
+  {
+    prompt: "Crying Clown Face Dollar Bill",
+    link: "https://mj-gallery.com/ae8c8b27-d834-4968-bd60-3b0142744136/grid_0.png"
+  },
+  {
+    prompt: "Crying Clown Face Dollar Bill",
+    link: "https://mj-gallery.com/0ab207e4-52bd-40ad-a4d4-65c106001765/grid_0.png"
+  },
+  {
+    prompt: "Little Shop of Horrors",
+    link: "https://mj-gallery.com/29cebe2f-d5c2-48ec-80bd-088706a44879/grid_0.png"
+  },
+  {
+    prompt: "Little Shop of Horrors",
+    link: "https://mj-gallery.com/cdb067cd-75f9-46e7-9ec8-5b6819e01548/grid_0.png"
+  },
+  {
+    prompt: "Little Shop of Horrors",
+    link: "https://mj-gallery.com/4916b32f-d3de-4098-beee-6659ff0289f3/grid_0.png"
+  },
+  {
+    prompt: "Little Shop of Horrors",
+    link: "https://mj-gallery.com/7f817597-caf9-4b0c-b78b-6c2e1b62f306/grid_0.png"
+  },
+  {
+    prompt: "Little Shop of Horrors",
+    link: "https://mj-gallery.com/ab4722cc-caf9-4870-8e18-7804d8618214/grid_0.png"
+  },
+  {
+    prompt: "Little Shop of Horrors",
+    link: "https://mj-gallery.com/dea1d527-da89-4414-b7c5-24d2d61177d3/grid_0.png"
+  },
+  {
+    prompt: "Little Shop of Horrors",
+    link: "https://mj-gallery.com/f006730f-c7b6-4323-946a-3055fde03c59/grid_0.png"
+  },
+  {
+    prompt: "New York Subway",
+    link: "https://mj-gallery.com/14360f9f-9505-492b-9d95-e8e5904cdbac/grid_0.png"
+  },
+  {
+    prompt: "Cybernetic Rap Studio",
+    link: "https://mj-gallery.com/2e326dc1-c41a-4772-a32d-f443eefbec79/grid_0.png"
+  },
+  {
+    prompt: "My Homeboy, My Rotten Soldier",
+    link: "https://mj-gallery.com/0ba5c6ab-b542-4c8c-88ca-3cbadf4ba9a6/grid_0.png"
+  },
+  {
+    prompt: "High Vampiric Council",
+    link: "https://mj-gallery.com/4c183c3e-bc78-4851-9b7c-9ade912418c3/grid_0.png"
+  },
+  {
+    prompt: "High Vampiric Council",
+    link: "https://mj-gallery.com/6c6ec262-6c1b-441b-b24c-9fea8cb859a9/grid_0.png"
+  },
+  {
+    prompt: "High Vampiric Council",
+    link: "https://mj-gallery.com/49689188-4584-4e67-8089-7f96e4de14cd/grid_0.png"
+  },
+  {
+    prompt: "Heavy Set Bearded Man with Glasses",
+    link: "https://mj-gallery.com/1a4db356-6de7-4595-9565-f6f8bff4fff7/grid_0.png"
+  },
+  {
+    prompt: "Top Hat and Ghetto Gold Grills",
+    link: "https://mj-gallery.com/c6e78d3c-c9ed-4fdf-8325-ca27e0fbff3d/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/36cfb171-7f04-4b85-8dc0-8c717de13f6d/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/d981dd3a-b4c0-4c9c-98f3-81ae04f1d750/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/fb181435-0f42-4454-a320-374b44a709b6/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/f60c95bd-4ca5-4fed-9b71-445f33a00677/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/b23ccde7-6836-4d21-8bf8-cb3f7ab8a996/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/b9ce2d05-c54a-48b5-a476-21eb490eff89/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/7afd8b64-d8cc-4225-ab5a-82de05c551be/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/fd5c3c6e-be68-4b9b-9891-b8f952cb4f7c/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/349e53ea-b950-4acb-b766-e9b72c7478ae/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/4c418f06-d66e-4fc5-afa2-02e792cc380d/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/2f89dad1-1f18-44db-8d2b-9fdce4729c3e/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/968fa156-a717-43f3-a5bd-68a6dd74f567/grid_0.png"
+  },
+  {
+    prompt: "The Birth of LSD",
+    link: "https://mj-gallery.com/9533ddf1-339d-40c4-badd-6e950ea8702a/grid_0.png"
+  },
+  {
+    prompt: "The Birth of LSD",
+    link: "https://mj-gallery.com/cd50e89f-fea6-4ae2-9f8e-67276bdcb2f1/grid_0.png"
+  },
+  {
+    prompt: "The Birth of LSD",
+    link: "https://mj-gallery.com/5ab32cbc-05d9-4ba9-9cff-61374d44329e/grid_0.png"
+  },
+  {
+    prompt: "The Birth of LSD",
+    link: "https://mj-gallery.com/319ecf89-7379-4c5f-818e-5757678da0c4/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/b4e49c3d-2131-4415-ac21-db3670a39d43/grid_0.png"
+  },
+  {
+    prompt: "Hacker Breaking the Mainframe",
+    link: "https://mj-gallery.com/73ea7660-8346-4768-9e2a-f5c47aee5a85/grid_0.png"
+  },
+  {
+    prompt: "Muppet Mugshot Prison",
+    link: "https://mj-gallery.com/0f3dce51-0bdf-48f0-9b81-599d96b5741a/grid_0.png"
+  },
+  {
+    prompt: "Two Midgets on the Sides of a Giant Oaf",
+    link: "https://mj-gallery.com/e08b28ec-b719-46dc-95f7-911d54c3bdc0/grid_0.png"
+  },
+  {
+    prompt: "Studio Ghibli",
+    link: "https://mj-gallery.com/cefa9521-1f15-42ba-ac65-6eb1d6af83e4/grid_0.png"
+  },
+  {
+    prompt: "Studio Ghibli Creature",
+    link: "https://mj-gallery.com/3870152e-9e2a-4211-92a5-74d774a7d880/grid_0.png"
+  },
+  {
+    prompt: "Face Melting Bass",
+    link: "https://mj-gallery.com/fc806b3b-538a-4c86-9291-50a4a7f0eb59/grid_0.png"
+  },
+  {
+    prompt: "Face Melting Bass",
+    link: "https://mj-gallery.com/99451c1a-4491-482b-b43e-0c4931711498/grid_0.png"
+  },
+  {
+    prompt: "Face Melting Bass",
+    link: "https://mj-gallery.com/13a8da33-3ed3-4019-90f8-9b6e54d31439/grid_0.png"
+  },
+  {
+    prompt: "Face Melting Bass",
+    link: "https://mj-gallery.com/94384890-dd80-497d-b0e1-ddc328810425/grid_0.png"
+  },
+  {
+    prompt: "Face Melting Bass",
+    link: "https://mj-gallery.com/b0b968dc-0dd8-43e0-9959-74bbc9d89838/grid_0.png"
+  },
+  {
+    prompt: "Face Melting Bass",
+    link: "https://mj-gallery.com/02dec688-01cd-42e3-8631-44493cb83000/grid_0.png"
+  },
+  {
+    prompt: "Face Melting Bass",
+    link: "https://mj-gallery.com/e6fe7231-a275-48ba-baeb-9df1f71f08ba/grid_0.png"
+  },
+  {
+    prompt: "Face Melting Bass",
+    link: "https://mj-gallery.com/aac70a52-7099-428b-9bad-fd32184f5470/grid_0.png"
+  },
+  {
+    prompt: "Ludicrous Amounts of Applesauce",
+    link: "https://mj-gallery.com/2cd6939a-ada4-4072-9962-02ddebcd3ce9/grid_0.png"
+  },
+  {
+    prompt: "Ludicrous Amounts of Applesauce",
+    link: "https://mj-gallery.com/f821e0ac-73d1-4fd8-807b-61d4d1cf03b6/grid_0.png"
+  },
+  {
+    prompt: "Lil Wayne Anime",
+    link: "https://mj-gallery.com/332e26c9-19dd-4603-aadb-b787fed2565a/grid_0.png"
   }
 ];
 
