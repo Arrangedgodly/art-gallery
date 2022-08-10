@@ -1551,17 +1551,18 @@ const rightArrow = document.querySelector(".fa-arrow-right");
 function checkArrows(num) {
   if (num === 0) {
     leftArrow.setAttribute("style", "opacity: 0;");
-    leftArrow.setAttribute("disabled", "true");
+    leftArrow.setAttribute("disabled", "");
   } else if (num > 0) {
     leftArrow.setAttribute("style", "opacity: 1;");
-    leftArrow.setAttribute("disabled", "false");
+    leftArrow.removeAttribute("disabled");
   };
-  if (num === cards.length - 1) {
+  let index = Math.ceil(initialCards.length / 55);
+  if ((num + 1) >= (index)) {
     rightArrow.setAttribute("style", "opacity: 0;");
-    rightArrow.setAttribute("disabled", "true");
-  } else if (num < cards.length - 1) {
+    rightArrow.setAttribute("disabled", "");
+  } else if ((num + 1 ) < (index)) {
     rightArrow.setAttribute("style", "opacity: 1;");
-    rightArrow.setAttribute("disabled", "false");
+    rightArrow.removeAttribute("disabled");
   }
 }
 
@@ -1575,6 +1576,7 @@ const createCards = (num) => {
   }
   let tracker = cardCount + 55;
   let newCards = initialCards.slice(cardCount, tracker);
+  console.log(newCards);
 
   newCards.forEach((data) => {
     const card = new Card(data, "#card");
@@ -1587,14 +1589,14 @@ createCards(projectCount);
 
 function clickRightArrow() {
   projectCount++;
-  createCards(projectCount);
   checkArrows(projectCount);
+  createCards(projectCount);
 }
 
 function clickLeftArrow() {
   projectCount--;
-  createCards(projectCount);
   checkArrows(projectCount);
+  createCards(projectCount);
 }
 
 leftArrow.addEventListener("click", clickLeftArrow);
