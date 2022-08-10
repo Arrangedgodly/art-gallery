@@ -1523,8 +1523,230 @@ const initialCards = [
   {
     prompt: "Echo League of Legends",
     link: "https://mj-gallery.com/f065fcee-2480-482d-9233-2796d410fd98/grid_0.png"
+  },
+  {
+    prompt: "Echo Throwing a Time Bomb",
+    link: "https://mj-gallery.com/aed56011-bf64-497d-9565-a3d2b6cdf679/grid_0.png"
+  },
+  {
+    prompt: "Echo Throwing a Time Bomb",
+    link: "https://mj-gallery.com/494cd2ff-7c09-497f-a208-620f893630a3/grid_0.png"
+  },
+  {
+    prompt: "Awaiting Betrayal",
+    link: "https://mj-gallery.com/a84a8780-c504-4bca-9a2d-fc7350919d76/grid_0.png"
+  },
+  {
+    prompt: "Poisoned Apple",
+    link: "https://mj-gallery.com/ab5830da-208c-4d78-bbf0-622e796bff67/grid_0.png"
+  },
+  {
+    prompt: "Heart in Dismay",
+    link: "https://mj-gallery.com/1339658f-f678-4d1d-9112-a2bae17d01c9/grid_0.png"
+  },
+  {
+    prompt: "Pie Oh My",
+    link: "https://mj-gallery.com/56afc14b-b770-497e-9987-4cccb5f03de3/grid_0.png"
+  },
+  {
+    prompt: "Pie Oh My",
+    link: "https://mj-gallery.com/ea988118-f2d9-4822-984a-99c52dcc5a94/grid_0.png"
+  },
+  {
+    prompt: "Death of Soddom and Gomorrah",
+    link: "https://mj-gallery.com/0adde534-7d7b-4135-bb53-705001639375/grid_0.png"
+  },
+  {
+    prompt: "Orange Cat White Belly",
+    link: "https://mj-gallery.com/37de2caa-c483-483f-8b9c-d31556726484/grid_0.png"
+  },
+  {
+    prompt: "Orange Cat White Belly",
+    link: "https://mj-gallery.com/1bed962b-d38f-42e5-860f-55c200bde105/grid_0.png"
+  },
+  {
+    prompt: "Orange Cat White Belly",
+    link: "https://mj-gallery.com/ef830095-9afa-4b8f-ade6-ab11c20558b8/grid_0.png"
+  },
+  {
+    prompt: "Death of Soddom and Gomorrah",
+    link: "https://mj-gallery.com/2d84d823-56ed-4841-af4f-996bee414bf3/grid_0.png"
+  },
+  {
+    prompt: "Baking Bread Campfire",
+    link: "https://mj-gallery.com/91797a6b-b028-4acf-983c-a16e26af226e/grid_0.png"
+  },
+  {
+    prompt: "Tony Soprano Eating",
+    link: "https://mj-gallery.com/14fa78fb-032c-4e1e-ad6a-66ddf20bde4e/grid_0.png"
+  },
+  {
+    prompt: "Tony Soprano Eating",
+    link: "https://mj-gallery.com/05445249-fc44-43ae-a7c8-155f31b72af4/grid_0.png"
+  },
+  {
+    prompt: "Breath of the Wild",
+    link: "https://mj-gallery.com/d49a7396-eb7d-4d64-96ee-a2badc934647/grid_0.png"
+  },
+  {
+    prompt: "Calico Cartoon Cat",
+    link: "https://mj-gallery.com/bb7ac1d0-43e2-428f-b852-33958e8f4fa6/grid_0.png"
+  },
+  {
+    prompt: "Calico Cartoon Cat",
+    link: "https://mj-gallery.com/6d821470-928e-4cab-a92e-4d54a8eea3f7/grid_0.png"
+  },
+  {
+    prompt: "Calico Cartoon Cat",
+    link: "https://mj-gallery.com/57f2c8b8-5141-40b6-8d61-3d144b46e8c9/grid_0.png"
+  },
+  {
+    prompt: "Taxman",
+    link: "https://mj-gallery.com/80d44de1-ea4b-4c54-b1e9-8e943631f018/grid_0.png"
+  },
+  {
+    prompt: "Russian Invasion",
+    link: "https://mj-gallery.com/a3d75630-0b08-46fe-bfbc-2be4cb7933fe/grid_0.png"
+  },
+  {
+    prompt: "Taxman",
+    link: "https://mj-gallery.com/48a18c8b-7648-44e8-98e6-1c1dee82a426/grid_0.png"
+  },
+  {
+    prompt: "Taxman",
+    link: "https://mj-gallery.com/cd3d67ce-2b21-4c0e-8a55-1b224671b6d7/grid_0.png"
+  },
+  {
+    prompt: "Hacker Competition",
+    link: "https://mj-gallery.com/7c6f8048-1d7b-4f1e-8587-d220661b13d4/grid_0.png"
+  },
+  {
+    prompt: "Hacker Competition",
+    link: "https://mj-gallery.com/25219002-e9d9-46d1-8762-8fd7be8589f3/grid_0.png"
+  },
+  {
+    prompt: "Prohibition",
+    link: "https://mj-gallery.com/0118fcdf-6f71-4110-834d-8d865102630c/grid_0.png"
+  },
+  {
+    prompt: "Monster Olympics",
+    link: "https://mj-gallery.com/b4124863-62e8-49e9-b2c2-bc7b42b6ab4a/grid_0.png"
+  },
+  {
+    prompt: "Prohibition",
+    link: "https://mj-gallery.com/a15a3a94-25a5-4db3-b830-d7306566d87a/grid_0.png"
+  },
+  {
+    prompt: "Hacker Warfare",
+    link: "https://mj-gallery.com/c40ccb42-318b-430f-86a8-cf6802d6605b/grid_0.png"
+  },
+  {
+    prompt: "Hacker Warfare",
+    link: "https://mj-gallery.com/0382036a-2d97-4847-9278-73113b3745f6/grid_0.png"
+  },
+  {
+    prompt: "Taxman",
+    link: "https://mj-gallery.com/5d154490-f124-4059-930c-6b436bcd5b47/grid_0.png"
+  },
+  {
+    prompt: "Crippling Gut Pain",
+    link: "https://mj-gallery.com/c2c53559-7a20-43c0-8532-a419b6520c18/grid_0.png"
+  },
+  {
+    prompt: "Crippling Gut Pain",
+    link: "https://mj-gallery.com/225c858d-5e11-4f57-a437-e272ba9c1bd9/grid_0.png"
+  },
+  {
+    prompt: "Dominating Your Fears",
+    link: "https://mj-gallery.com/0e8bf4a3-4578-4017-b133-864f6f965fc0/grid_0.png"
+  },
+  {
+    prompt: "Monster Olympics",
+    link: "https://mj-gallery.com/4359536c-4d23-4dbc-838e-164ecc7a4867/grid_0.png"
+  },
+  {
+    prompt: "FBI Raid",
+    link: "https://mj-gallery.com/32eaf287-ac28-46ce-bdc9-1d220ed6d34e/grid_0.png"
+  },
+  {
+    prompt: "Monster Olympics",
+    link: "https://mj-gallery.com/e645e3ef-5638-40ad-b572-a78b91d234c5/grid_0.png"
+  },
+  {
+    prompt: "Monster Olympics",
+    link: "https://mj-gallery.com/2197508a-76ca-4449-9992-c1fb97162dd3/grid_0.png"
+  },
+  {
+    prompt: "Textbook Creep",
+    link: "https://mj-gallery.com/28d9c634-4b5b-471f-9a5a-295caafadf36/grid_0.png"
+  },
+  {
+    prompt: "It Lurks in the Sewers",
+    link: "https://mj-gallery.com/36e0cd3a-f594-441a-a6b5-d041bb95d80f/grid_0.png"
+  },
+  {
+    prompt: "It Lurks in the Sewers",
+    link: "https://mj-gallery.com/97da980e-8676-4f9f-a2e8-1c9d529e4a71/grid_0.png"
+  },
+  {
+    prompt: "It Lurks in the Sewers",
+    link: "https://mj-gallery.com/664ce387-0a9e-4dd6-b27d-6e02c811684f/grid_0.png"
+  },
+  {
+    prompt: "It Lurks in the Sewers",
+    link: "https://mj-gallery.com/de9a06e0-91d7-45a9-abb5-5d50f5f33a06/grid_0.png"
+  },
+  {
+    prompt: "It Lurks in the Sewers",
+    link: "https://mj-gallery.com/c485f59d-2b5d-4c04-836f-e8a5ba4a3832/grid_0.png"
+  },
+  {
+    prompt: "It Lurks in the Sewers",
+    link: "https://mj-gallery.com/bbeef154-a38f-4b5b-8c89-5edf240aa860/grid_0.png"
+  },
+  {
+    prompt: "It Lurks in the Sewers",
+    link: "https://mj-gallery.com/bcc80ad5-9cb1-461d-a65d-45f05667f90e/grid_0.png"
+  },
+  {
+    prompt: "FBI Raid",
+    link: "https://mj-gallery.com/66a21cc8-e214-4224-9544-5e51218215ee/grid_0.png"
+  },
+  {
+    prompt: "Textbook Creep",
+    link: "https://mj-gallery.com/93b8718d-b0e0-4b1b-b553-31a6e48c5428/grid_0.png"
+  },
+  {
+    prompt: "Defending a Monster",
+    link: "https://mj-gallery.com/7a5cd92d-a248-4c61-bc77-9c5a64be4d7c/grid_0.png"
+  },
+  {
+    prompt: "Gold Teeth",
+    link: "https://mj-gallery.com/00f1b606-521c-4bc5-b320-5c11dc079d21/grid_0.png"
+  },
+  {
+    prompt: "Best Time to Wear a Striped Sweater",
+    link: "https://mj-gallery.com/b0c749bf-0d1e-4f1a-a2fa-866ee95186da/grid_0.png"
+  },
+  {
+    prompt: "Killer Clowns from Space",
+    link: "https://mj-gallery.com/4003c45b-8b7f-4858-8fb2-77b39e12b3ad/grid_0.png"
+  },
+  {
+    prompt: "https://mj-gallery.com/ea51742f-384f-4afa-832c-75681b2a1a73/grid_0.png",
+    link: "Killer Clowns from Space"
+  },
+  {
+    prompt: "Anime Warfare",
+    link: "https://mj-gallery.com/f630b6d9-0ce1-4b24-821c-9754b9221a28/grid_0.png"
+  },
+  {
+    prompt: "Anime Warfare",
+    link: "https://mj-gallery.com/81f299b7-ed58-40f1-bdc6-ad796df3266b/grid_0.png"
   }
 ];
+
+console.log(initialCards.length);
 
 function shuffle(array) {
   let currentIndex = array.length,  randomIndex;
@@ -1576,7 +1798,6 @@ const createCards = (num) => {
   }
   let tracker = cardCount + 55;
   let newCards = initialCards.slice(cardCount, tracker);
-  console.log(newCards);
 
   newCards.forEach((data) => {
     const card = new Card(data, "#card");
