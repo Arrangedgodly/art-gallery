@@ -2298,3 +2298,15 @@ function clickLeftArrow() {
 
 leftArrow.addEventListener("click", clickLeftArrow);
 rightArrow.addEventListener("click", clickRightArrow);
+
+const refreshButton = document.querySelector(".refresh");
+
+function handleRefreshButton() {
+  cards.innerHTML = "";
+  projectCount = 0;
+  checkArrows(projectCount);
+  shuffle(initialCards);
+  createCards(projectCount);
+}
+
+refreshButton.addEventListener("click", handleRefreshButton);

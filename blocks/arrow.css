@@ -1,4 +1,15 @@
+.arrow {
+    margin: 0 3vw;
+}
+
 .arrow:hover {
     cursor: pointer;
     color: rgb(0, 119, 255);
+    margin: 0 3.5vw;
+}
+
+@media screen and (max-width: 720px) {
+    .arrow {
+        margin: 0 1vw;
+    }
 }

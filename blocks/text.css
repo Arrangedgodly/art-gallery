@@ -18,12 +18,13 @@
   margin: 2vh auto 4vh auto;
   font-weight: 500;
   width: 100%;
+  left: 8%;
   position: absolute;
   top: 0;
 }
 
 .text-desc {
-  font-size: 4vmax;
+  font-size: 2vmax;
   margin: 15vh auto 2vh auto;
   font-weight: 100;
 }
@@ -39,30 +40,60 @@
 
 @keyframes changeFontFamily {
   0% {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+  }
+  6.25% {
+    font-family: 'Amatic SC', cursive;
+  }
+  12.5% {
     font-family: 'Bebas Neue', cursive;
+  }
+  19.75% {
+    font-family: 'Black Ops One', cursive;
   }
   25% {
     font-family: 'Cabin', sans-serif;
   }
-  50% {
+  31.25% {
+    font-family: 'Cinzel', serif;
+  }
+  37.5% {
     font-family: 'Inspiration', cursive;
+  }
+  43.75% {
+    font-family: 'Kalam', cursive;
+  }
+  50% {
+    font-family: 'Luckiest Guy', cursive;
+  }
+  56.25% {
+    font-family: 'Nanum Pen Script', cursive;
+  }
+  62.5% {
+    font-family: 'Pangolin', cursive;
+  }
+  68.75% {
+    font-family: 'PT Mono', monospace;
   }
   75% {
     font-family: 'Raleway', sans-serif;
   }
+  81.25% {
+    font-family: 'Rock Salt', cursive;
+  }
+  87.5% {
+    font-family: 'Shrikhand', cursive;
+  }
+  93.75% {
+    font-family: 'Silkscreen', cursive;
+  }
   100% {
-    font-family: 'Tiro Gurmukhi', serif;
+    font-family: 'Splash', cursive;
   }
 }
 
-.text-main-span_one {
-  animation: changeFontFamily 1s linear infinite reverse;
-}
-
-.text-main-span_two {
-  animation: changeFontFamily 1s linear .5s infinite;
-}
-
-.text-main-span_three {
-  animation: changeFontFamily 1s linear .3s infinite alternate;
+.text-main-span {
+  position: fixed;
+  left: 35%;
+  animation: changeFontFamily 3s linear infinite;
 }

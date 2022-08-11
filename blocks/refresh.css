@@ -1,0 +1,12 @@
+.refresh {
+  position: absolute;
+  top: 5%;
+  right: 15%;
+  transition: transform .5s ease-in-out;
+}
+
+.refresh:hover {
+  cursor: pointer;
+  color: rgb(0, 119, 255);
+  transform: rotate(180deg);
+}
