@@ -1733,8 +1733,8 @@ const initialCards = [
     link: "https://mj-gallery.com/4003c45b-8b7f-4858-8fb2-77b39e12b3ad/grid_0.png"
   },
   {
-    prompt: "https://mj-gallery.com/ea51742f-384f-4afa-832c-75681b2a1a73/grid_0.png",
-    link: "Killer Clowns from Space"
+    prompt: "Killer Clowns from Space",
+    link: "https://mj-gallery.com/ea51742f-384f-4afa-832c-75681b2a1a73/grid_0.png"
   },
   {
     prompt: "Anime Warfare",
@@ -1743,6 +1743,482 @@ const initialCards = [
   {
     prompt: "Anime Warfare",
     link: "https://mj-gallery.com/81f299b7-ed58-40f1-bdc6-ad796df3266b/grid_0.png"
+  },
+  {
+    prompt: "Obsessive Nerd",
+    link: "https://mj-gallery.com/e5f5389a-4904-4be0-b0c4-f01d08c49329/grid_0.png"
+  },
+  {
+    prompt: "Robot Casino Floor Manager",
+    link: "https://mj-gallery.com/27bd4085-c453-466e-b084-e0a024fa84dc/grid_0.png"
+  },
+  {
+    prompt: "Robot Casino Floor Manager",
+    link: "https://mj-gallery.com/4fdfd398-e955-470b-8edf-6957605789b8/grid_0.png"
+  },
+  {
+    prompt: "Robot Casino Floor Manager",
+    link: "https://mj-gallery.com/eb10ae69-183a-4c06-8b1b-986a69db5bb2/grid_0.png"
+  },
+  {
+    prompt: "Robot Casino Floor Manager",
+    link: "https://mj-gallery.com/b456f008-4b4b-4d1e-8b9f-802e0cffe5f6/grid_0.png"
+  },
+  {
+    prompt: "Killer Clowns from Space",
+    link: "https://mj-gallery.com/7baed3f5-507e-4f92-8fde-3e3c09c8ba68/grid_0.png"
+  },
+  {
+    prompt: "Robot Casino Floor Manager",
+    link: "https://mj-gallery.com/40095bc5-21af-42f6-84af-25bb9d52c72b/grid_0.png"
+  },
+  {
+    prompt: "Obsessive Nerd",
+    link: "https://mj-gallery.com/49e4f688-f803-4f80-b70d-29cc3a0c8609/grid_0.png"
+  },
+  {
+    prompt: "Obsessive Nerd",
+    link: "https://mj-gallery.com/d3e2a833-799e-4207-b0c3-59fc1ad8624b/grid_0.png"
+  },
+  {
+    prompt: "Robot Casino Floor Manager",
+    link: "https://mj-gallery.com/825a9954-3f80-45b6-bfc2-5121164a91cd/grid_0.png"
+  },
+  {
+    prompt: "Bender Going on a Bender",
+    link: "https://mj-gallery.com/f9f8b16f-fec7-4247-baeb-645c80d12a3e/grid_0.png"
+  },
+  {
+    prompt: "Bender Going on a Bender",
+    link: "https://mj-gallery.com/bf776fe7-6c03-4307-8a3f-01b587dc7f36/grid_0.png"
+  },
+  {
+    prompt: "Bender Going on a Bender",
+    link: "https://mj-gallery.com/33cdfaab-411e-46b0-aa7b-c1cd983c1f8f/grid_0.png"
+  },
+  {
+    prompt: "Bender Going on a Bender",
+    link: "https://mj-gallery.com/68670dda-44e2-4d88-bca6-00710dd7a994/grid_0.png"
+  },
+  {
+    prompt: "Bender Going on a Bender",
+    link: "https://mj-gallery.com/dab4dc94-c5b5-46bc-99af-aed9268e2da9/grid_0.png"
+  },
+  {
+    prompt: "Richard and Mortimer",
+    link: "https://mj-gallery.com/3a7e22f8-7ef1-4991-96ce-eb3a2cc44732/grid_0.png"
+  },
+  {
+    prompt: "Richard and Mortimer",
+    link: "https://mj-gallery.com/cf5e529b-4d93-44bd-b3af-798f645ab4ce/grid_0.png"
+  },
+  {
+    prompt: "Richard and Mortimer",
+    link: "https://mj-gallery.com/ce231d9b-e746-49c2-af74-f40d5d12a002/grid_0.png"
+  },
+  {
+    prompt: "Richard and Mortimer",
+    link: "https://mj-gallery.com/05e35bfe-a135-4615-9395-637375acb179/grid_0.png"
+  },
+  {
+    prompt: "Melon Monster",
+    link: "https://mj-gallery.com/a90943b7-edc4-49d9-9e4e-c322cf4e8c37/grid_0.png"
+  },
+  {
+    prompt: "Melon Monster",
+    link: "https://mj-gallery.com/07221161-32cf-4a85-b9a8-aa2a854274c5/grid_0.png"
+  },
+  {
+    prompt: "Futurama",
+    link: "https://mj-gallery.com/a01b62fd-5976-4e7a-8ff0-8242bc4c8945/grid_0.png"
+  },
+  {
+    prompt: "Richard and Mortimer",
+    link: "https://mj-gallery.com/2dddb749-bdf0-4bb7-8078-6525dd1b1ee0/grid_0.png"
+  },
+  {
+    prompt: "Richard and Mortimer",
+    link: "https://mj-gallery.com/7d722ada-148a-4375-b56a-bf5e17d1fc22/grid_0.png"
+  },
+  {
+    prompt: "Futurama",
+    link: "https://mj-gallery.com/c6dd3321-b05d-4b38-b730-6bcb3b5bbba6/grid_0.png"
+  },
+  {
+    prompt: "Futurama",
+    link: "https://mj-gallery.com/c64a872f-7b0c-464c-b242-c88481059c21/grid_0.png"
+  },
+  {
+    prompt: "Going Gorilla in Paris",
+    link: "https://mj-gallery.com/17799f18-629d-4932-95fa-f6c87707ed9b/grid_0.png"
+  },
+  {
+    prompt: "If My Dog Loved Me as Much as I Love Him",
+    link: "https://mj-gallery.com/dbaf4e2f-0fc0-4392-b455-03a02b027338/grid_0.png"
+  },
+  {
+    prompt: "Real Life Puppies",
+    link: "https://mj-gallery.com/ed0327c3-a75c-46a6-84c6-e1a509198231/grid_0.png"
+  },
+  {
+    prompt: "Futurama",
+    link: "https://mj-gallery.com/45383426-8388-408f-8368-db4eea041b96/grid_0.png"
+  },
+  {
+    prompt: "Futurama",
+    link: "https://mj-gallery.com/ac25364e-c87a-45dd-b992-f26af45c5605/grid_0.png"
+  },
+  {
+    prompt: "Walrus Theme Park",
+    link: "https://mj-gallery.com/d20986b7-50f5-4a0d-9f2e-e6ea50b4bd60/grid_0.png"
+  },
+  {
+    prompt: "Tightrope Skyscraper",
+    link: "https://mj-gallery.com/a4ca3592-67e1-4232-817c-a97f18525b5f/grid_0.png"
+  },
+  {
+    prompt: "Going Gorilla in Paris",
+    link: "https://mj-gallery.com/acbf3931-6a98-4d6f-b5bc-ceb72a912136/grid_0.png"
+  },
+  {
+    prompt: "Ski Mask tha Slump God",
+    link: "https://mj-gallery.com/0913be41-cd70-4574-83b3-4edaf77128f6/grid_0.png"
+  },
+  {
+    prompt: "Runaway Snowman",
+    link: "https://mj-gallery.com/f1a08055-890c-47a7-be12-c8bc1dba8bed/grid_0.png"
+  },
+  {
+    prompt: "Coastal Escape",
+    link: "https://mj-gallery.com/cd4113c2-8d71-48be-947a-a727c51695b7/grid_0.png"
+  },
+  {
+    prompt: "Runaway Snowman",
+    link: "https://mj-gallery.com/ece46b3d-28eb-43ed-836a-8bfe9d96cf28/grid_0.png"
+  },
+  {
+    prompt: "Death from Above",
+    link: "https://mj-gallery.com/0b8b68df-5b71-473a-9597-a82b2ed9c230/grid_0.png"
+  },
+  {
+    prompt: "Death from Above",
+    link: "https://mj-gallery.com/6aaef2af-ce6c-441f-9693-e72569ae9643/grid_0.png"
+  },
+  {
+    prompt: "Claw Machine with Bombs",
+    link: "https://mj-gallery.com/25dbd31c-9ba3-4436-b41b-de7a31559296/grid_0.png"
+  },
+  {
+    prompt: "Alien Claw Machine",
+    link: "https://mj-gallery.com/90a31bbf-16db-406d-a196-fa1056c5bbf6/grid_0.png"
+  },
+  {
+    prompt: "Cosmic Charcuterie Board",
+    link: "https://mj-gallery.com/a7ffeb21-7b55-4b55-b736-a816c69babbd/grid_0.png"
+  },
+  {
+    prompt: "Cosmic Charcuterie Board",
+    link: "https://mj-gallery.com/d4356b58-af71-4942-af52-ec3db58a5447/grid_0.png"
+  },
+  {
+    prompt: "Cosmic Charcuterie Board",
+    link: "https://mj-gallery.com/00f8871f-39c1-47ca-a279-3b71c4ec21b9/grid_0.png"
+  },
+  {
+    prompt: "Alien Vending Machine",
+    link: "https://mj-gallery.com/bde7355f-2958-4970-a578-de86c1bf7d2d/grid_0.png"
+  },
+  {
+    prompt: "Alien Vending Machine",
+    link: "https://mj-gallery.com/e8140227-8059-4526-b718-67561ba1d4a5/grid_0.png"
+  },
+  {
+    prompt: "Bubble Gum Bomb Machine",
+    link: "https://mj-gallery.com/fa50c136-7497-4d1b-94be-a034ad48decc/grid_0.png"
+  },
+  {
+    prompt: "Dirt Pie",
+    link: "https://mj-gallery.com/62319443-0228-414e-89a2-e4e6d65fe98c/grid_0.png"
+  },
+  {
+    prompt: "Alien Vending Machine",
+    link: "https://mj-gallery.com/37015970-3108-4cc6-ad02-46aa571ab381/grid_0.png"
+  },
+  {
+    prompt: "Cajun Cooking",
+    link: "https://mj-gallery.com/c6adc5ef-ceaa-4701-ba8c-de075bb5c4e1/grid_0.png"
+  },
+  {
+    prompt: "Cajun Cooking",
+    link: "https://mj-gallery.com/6b73d0c1-f7bc-45fb-ad66-6509fd2bfe9c/grid_0.png"
+  },
+  {
+    prompt: "Southern Hospitality",
+    link: "https://mj-gallery.com/7115d088-d59c-4065-9ee7-e3a0d3aab906/grid_0.png"
+  },
+  {
+    prompt: "Internet Virus",
+    link: "https://mj-gallery.com/8830cb3c-8a16-49a2-b931-4df182b3a39d/grid_0.png"
+  },
+  {
+    prompt: "Internet Virus",
+    link: "https://mj-gallery.com/d477ef87-2133-4638-954e-c212a2588aa9/grid_0.png"
+  },
+  {
+    prompt: "Internet Virus",
+    link: "https://mj-gallery.com/6af4a29c-4cd5-472f-b222-17bdc5240f6b/grid_0.png"
+  },
+  {
+    prompt: "Robot Being Hacked",
+    link: "https://mj-gallery.com/4a138d85-41ac-4eda-8ef4-2e4b893542e9/grid_0.png"
+  },
+  {
+    prompt: "Opium Den",
+    link: "https://mj-gallery.com/eb1663aa-165e-4cf4-8458-c02dbfe37721/grid_0.png"
+  },
+  {
+    prompt: "Weed Farmer",
+    link: "https://mj-gallery.com/2f2f9f79-4822-4505-9969-49a046dd5ea9/grid_0.png"
+  },
+  {
+    prompt: "Weed Farmer",
+    link: "https://mj-gallery.com/f750d423-5569-4000-99ce-b3c8f8132dc3/grid_0.png"
+  },
+  {
+    prompt: "Opium Den",
+    link: "https://mj-gallery.com/08c77848-6aeb-4819-b1c5-6fdda2dfb4a9/grid_0.png"
+  },
+  {
+    prompt: "Opium Den",
+    link: "https://mj-gallery.com/5361fbd2-7770-4cff-b846-0fae07534edc/grid_0.png"
+  },
+  {
+    prompt: "Opium Den",
+    link: "https://mj-gallery.com/ae93b190-0d9e-4a82-a82b-6cf5c534ad12/grid_0.png"
+  },
+  {
+    prompt: "Internet Virus",
+    link: "https://mj-gallery.com/40a22684-d35f-42e7-8bd5-0c4851a05fdd/grid_0.png"
+  },
+  {
+    prompt: "Robot Being Hacked",
+    link: "https://mj-gallery.com/26d22df1-1b5b-49be-b187-ec12ceee7188/grid_0.png"
+  },
+  {
+    prompt: "Internet Virus",
+    link: "https://mj-gallery.com/4421963f-c662-44e3-85f7-c719ee12d0de/grid_0.png"
+  },
+  {
+    prompt: "Opium Den",
+    link: "https://mj-gallery.com/83e62d78-f8ee-48df-827e-3b0b86b4ff53/grid_0.png"
+  },
+  {
+    prompt: "Weed Farmer",
+    link: "https://mj-gallery.com/f2b6ae95-9617-4963-bb4b-15c79d7e3971/grid_0.png"
+  },
+  {
+    prompt: "Speaking to Mother DMT",
+    link: "https://mj-gallery.com/46c4005e-6332-4439-84fb-5bb00c34a937/grid_0.png"
+  },
+  {
+    prompt: "Speaking to Mother DMT",
+    link: "https://mj-gallery.com/dff4e867-9b63-4bdf-bdb4-e24bc02399ac/grid_0.png"
+  },
+  {
+    prompt: "Speaking to Mother DMT",
+    link: "https://mj-gallery.com/cf07379a-9fa7-4f15-bb4d-f9420cf93143/grid_0.png"
+  },
+  {
+    prompt: "Speaking to Mother DMT",
+    link: "https://mj-gallery.com/7b8a862c-0fa3-4e5b-97bb-5f409a03e1a5/grid_0.png"
+  },
+  {
+    prompt: "Crosshair Conundrum",
+    link: "https://mj-gallery.com/3a0cf862-2989-499f-a32a-4cf0215fc35c/grid_0.png"
+  },
+  {
+    prompt: "Crosshair Conundrum",
+    link: "https://mj-gallery.com/56d90da1-4965-45b3-9bc2-2fb3b9210cb9/grid_0.png"
+  },
+  {
+    prompt: "Blast Off",
+    link: "https://mj-gallery.com/44ef7bd9-ff34-4d0d-97b4-3abeb6b35502/grid_0.png"
+  },
+  {
+    prompt: "Tribal Tattoo",
+    link: "https://mj-gallery.com/e54907d4-63ad-4081-8078-ec74fefc828d/grid_0.png"
+  },
+  {
+    prompt: "40000 Leagues Under the Sea",
+    link: "https://mj-gallery.com/6a5ef2fc-8dc2-4c39-83ab-28f652d25ebe/grid_0.png"
+  },
+  {
+    prompt: "Counter Strike",
+    link: "https://mj-gallery.com/1d61e796-79a7-4b56-aed8-fe4e300ecee0/grid_0.png"
+  },
+  {
+    prompt: "Counter Strike",
+    link: "https://mj-gallery.com/67778151-6912-41fa-b4ca-fc73fbfa1ecb/grid_0.png"
+  },
+  {
+    prompt: "Speaking to Mother DMT",
+    link: "https://mj-gallery.com/66b8c4b6-43c4-424c-a42d-2cfbbf0f396a/grid_0.png"
+  },
+  {
+    prompt: "Speaking to Mother DMT",
+    link: "https://mj-gallery.com/058f5362-0aa1-4e6b-ace5-3cd54e139976/grid_0.png"
+  },
+  {
+    prompt: "Conundrum of Body and Spirit",
+    link: "https://mj-gallery.com/3ebaa2d7-9e4e-44c8-9aaf-1f6803466fff/grid_0.png"
+  },
+  {
+    prompt: "Conundrum of Body and Spirit",
+    link: "https://mj-gallery.com/e428681f-b431-43f7-8c93-5b177b129f3a/grid_0.png"
+  },
+  {
+    prompt: "Conundrum of Body and Spirit",
+    link: "https://mj-gallery.com/9cd4944c-c8c5-470a-82e7-c029f46d4f44/grid_0.png"
+  },
+  {
+    prompt: "Conundrum of Body and Spirit",
+    link: "https://mj-gallery.com/f6b022c6-32c7-4e74-9a8c-7a7a060274c3/grid_0.png"
+  },
+  {
+    prompt: "Conundrum of Body and Spirit",
+    link: "https://mj-gallery.com/d2f3a98c-d024-4d78-ad05-317952948303/grid_0.png"
+  },
+  {
+    prompt: "Conundrum of Body and Spirit",
+    link: "https://mj-gallery.com/7c4a5246-a171-4591-b6c6-7cdac282d45a/grid_0.png"
+  },
+  {
+    prompt: "Emotional Thievery",
+    link: "https://mj-gallery.com/425af834-03bd-475c-b9b9-ebdff5f80c00/grid_0.png"
+  },
+  {
+    prompt: "Mechanical Watch",
+    link: "https://mj-gallery.com/44ee00ba-e871-4ee5-857e-16f26189d746/grid_0.png"
+  },
+  {
+    prompt: "Portal to A New Dimension",
+    link: "https://mj-gallery.com/8c5bcf26-38d1-49e9-9301-ec6ad1bbd483/grid_0.png"
+  },
+  {
+    prompt: "Portal to A New Dimension",
+    link: "https://mj-gallery.com/7ff0a308-7858-49ab-bd90-cd075ad6fdcb/grid_0.png"
+  },
+  {
+    prompt: "Portal to A New Dimension",
+    link: "https://mj-gallery.com/6321d988-d0de-4a1e-96f2-89e2f3d62ec7/grid_0.png"
+  },
+  {
+    prompt: "Portal to A New Dimension",
+    link: "https://mj-gallery.com/1ba98ba7-5b7e-49bd-8ad0-224afd599b96/grid_0.png"
+  },
+  {
+    prompt: "GMO Monster",
+    link: "https://mj-gallery.com/e6fb14b9-4d27-42da-a243-89058f300195/grid_0.png"
+  },
+  {
+    prompt: "GMO Monster",
+    link: "https://mj-gallery.com/f0928567-a70d-4a1d-b570-26ea782ef110/grid_0.png"
+  },
+  {
+    prompt: "GMO Monster",
+    link: "https://mj-gallery.com/a23f98dc-0c01-4de4-aeba-71d1112be20f/grid_0.png"
+  },
+  {
+    prompt: "GMO Monster",
+    link: "https://mj-gallery.com/f9f3e69f-9ad6-4030-be4f-6e8a15aa23a3/grid_0.png"
+  },
+  {
+    prompt: "Alien Bones",
+    link: "https://mj-gallery.com/0c4be308-d2d7-4ccf-8ebd-b87ad3376de8/grid_0.png"
+  },
+  {
+    prompt: "Alien Bones",
+    link: "https://mj-gallery.com/3960fa85-7c05-4e6d-b582-eee06a830ab2/grid_0.png"
+  },
+  {
+    prompt: "GMO Monster",
+    link: "https://mj-gallery.com/0fe99450-9a5f-4b3c-8439-0b2905329ed0/grid_0.png"
+  },
+  {
+    prompt: "Alien Bones",
+    link: "https://mj-gallery.com/6675a1c6-d57b-44b9-bcc3-450751fbf659/grid_0.png"
+  },
+  {
+    prompt: "Alien Bones",
+    link: "https://mj-gallery.com/f175e0e8-3117-406d-b0a5-5a9664c272ab/grid_0.png"
+  },
+  {
+    prompt: "Mysteries of the Universe",
+    link: "https://mj-gallery.com/2b596ad5-e224-43b7-9299-3b674c4a1d07/grid_0.png"
+  },
+  {
+    prompt: "Mysteries of the Universe",
+    link: "https://mj-gallery.com/76ff9b12-610d-4d3c-82df-71ed7076584c/grid_0.png"
+  },
+  {
+    prompt: "Mysteries of the Universe",
+    link: "https://mj-gallery.com/2e181471-a0ec-4154-885d-f0ef4a0086c5/grid_0.png"
+  },
+  {
+    prompt: "Mysteries of the Universe",
+    link: "https://mj-gallery.com/75303d71-42b5-4505-bed6-8bcca7c3c7e8/grid_0.png"
+  },
+  {
+    prompt: "Mysteries of the Universe",
+    link: "https://mj-gallery.com/ba23bc76-8e5f-454b-adaf-af60f0856a43/grid_0.png"
+  },
+  {
+    prompt: "Mysteries of the Universe",
+    link: "https://mj-gallery.com/553621d6-1368-437c-9aca-a4cb08f569f5/grid_0.png"
+  },
+  {
+    prompt: "Mysteries of the Universe",
+    link: "https://mj-gallery.com/6a8b8e9d-ff73-4380-a42f-a54f4b462f9b/grid_0.png"
+  },
+  {
+    prompt: "Mysteries of the Universe",
+    link: "https://mj-gallery.com/7071a913-f80d-44ff-8f8b-4e9cf6f186b5/grid_0.png"
+  },
+  {
+    prompt: "Mysteries of the Universe",
+    link: "https://mj-gallery.com/536050ad-0717-48a6-94d8-049ed0d41e20/grid_0.png"
+  },
+  {
+    prompt: "Mysteries of the Universe",
+    link: "https://mj-gallery.com/f2947427-13e6-4d02-afad-801aeeb18818/grid_0.png"
+  },
+  {
+    prompt: "Mysteries of the Universe",
+    link: "https://mj-gallery.com/a2de8326-a0aa-4cea-8480-536db361d05c/grid_0.png"
+  },
+  {
+    prompt: "Speaking to the Immortal One",
+    link: "https://mj-gallery.com/0a6ad276-ffb4-407c-95bf-2ff1cd65c449/grid_0.png"
+  },
+  {
+    prompt: "Speaking to the Immortal One",
+    link: "https://mj-gallery.com/8645fb86-41d5-4d0b-a913-5dad63e877cd/grid_0.png"
+  },
+  {
+    prompt: "Speaking to the Immortal One",
+    link: "https://mj-gallery.com/1a94e8d9-9234-43bc-831f-bcce27d4cb86/grid_0.png"
+  },
+  {
+    prompt: "Speaking to the Immortal One",
+    link: "https://mj-gallery.com/a4832d37-da76-48d2-88e5-7919be3a747e/grid_0.png"
+  },
+  {
+    prompt: "Speaking to the Immortal One",
+    link: "https://mj-gallery.com/d21c2cc3-ec76-4365-81ba-292a388a1cee/grid_0.png"
+  },
+  {
+    prompt: "Speaking to the Immortal One",
+    link: "https://mj-gallery.com/4b447e7e-b98e-4bc6-80c8-df164554d078/grid_0.png"
   }
 ];
 
