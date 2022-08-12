@@ -2219,10 +2219,387 @@ const initialCards = [
   {
     prompt: "Speaking to the Immortal One",
     link: "https://mj-gallery.com/4b447e7e-b98e-4bc6-80c8-df164554d078/grid_0.png"
+  },
+  {
+    prompt: "Speaking to the Immortal One",
+    link: "https://mj-gallery.com/02383aad-d702-4107-83f0-9975bca9779e/grid_0.png"
+  },
+  {
+    prompt: "Speaking to the Immortal One",
+    link: "https://mj-gallery.com/ca48bc59-c772-4db8-83b5-9ef88620f923/grid_0.png"
+  },
+  {
+    prompt: "Shakespeare",
+    link: "https://mj-gallery.com/121b1dc4-3fe2-4455-bd03-a1169d112ba4/grid_0.png"
+  },
+  {
+    prompt: "Shakespeare",
+    link: "https://mj-gallery.com/e8563544-e766-4336-8815-bde6597d53b5/grid_0.png"
+  },
+  {
+    prompt: "Wonder Showzen",
+    link: "https://mj-gallery.com/f0d4dc74-97bd-417c-9362-634c5f3ef666/grid_0.png"
+  },
+  {
+    prompt: "Wonder Showzen",
+    link: "https://mj-gallery.com/6239344f-b703-4fa4-a14f-5705b0a4909b/grid_0.png"
+  },
+  {
+    prompt: "Wonder Showzen",
+    link: "https://mj-gallery.com/dea9b2ae-fe76-4d2e-99eb-2740c310e66b/grid_0.png"
+  },
+  {
+    prompt: "Wonder Showzen",
+    link: "https://mj-gallery.com/baa762f3-23ac-4816-98d8-94db79b2348d/grid_0.png"
+  },
+  {
+    prompt: "Wonder Showzen",
+    link: "https://mj-gallery.com/3a8ee6fd-a52f-469b-832f-561013dbcc24/grid_0.png"
+  },
+  {
+    prompt: "Wonder Showzen",
+    link: "https://mj-gallery.com/84929b8f-d45a-4854-9d8c-d94b42ada6ea/grid_0.png"
+  },
+  {
+    prompt: "Glorzo",
+    link: "https://mj-gallery.com/4aa8049d-3fb2-4f51-9511-924157b03070/grid_0.png"
+  },
+  {
+    prompt: "Emperor Zurg",
+    link: "https://mj-gallery.com/5fc7cdd7-9aac-4318-8385-8b044735c0fc/grid_0.png"
+  },
+  {
+    prompt: "Soul Bonding",
+    link: "https://mj-gallery.com/04808b95-606f-4aa5-833f-077bebf40dd4/grid_0.png"
+  },
+  {
+    prompt: "Freaky Orange",
+    link: "https://mj-gallery.com/bd297674-7a43-4474-b201-09781105d129/grid_0.png"
+  },
+  {
+    prompt: "Wondernaut",
+    link: "https://mj-gallery.com/1c96c169-0e9b-433c-b95f-9eee497a9714/grid_0.png"
+  },
+  {
+    prompt: "Wondernaut",
+    link: "https://mj-gallery.com/c488f219-7d32-4ab5-8d8e-b688c3046e9b/grid_0.png"
+  },
+  {
+    prompt: "Emperor Zurg",
+    link: "https://mj-gallery.com/ca64cac8-4f45-4763-837a-fc3b0d254998/grid_0.png"
+  },
+  {
+    prompt: "Emperor Zurg",
+    link: "https://mj-gallery.com/25ce44e9-8894-4377-b521-805440638390/grid_0.png"
+  },
+  {
+    prompt: "Freaky Orange",
+    link: "https://mj-gallery.com/d858fab4-13a6-4c3d-8a58-0c4b8bc88aa0/grid_0.png"
+  },
+  {
+    prompt: "Wondernaut",
+    link: "https://mj-gallery.com/53c09f4d-906b-4993-ba0a-5263204df882/grid_0.png"
+  },
+  {
+    prompt: "Wondernaut",
+    link: "https://mj-gallery.com/065d3611-80ef-4675-88e4-39b07fbe53d1/grid_0.png"
+  },
+  {
+    prompt: "Zurg vs. Lightyear",
+    link: "https://mj-gallery.com/86e00327-2c6a-49a4-aacd-282a0e93137c/grid_0.png"
+  },
+  {
+    prompt: "Zurg vs. Lightyear",
+    link: "https://mj-gallery.com/a2813307-62af-4bed-8e97-e68e20e6e12d/grid_0.png"
+  },
+  {
+    prompt: "Wondernaut",
+    link: "https://mj-gallery.com/7d4f2afd-04a4-4c88-aff5-ce9ecbac83d0/grid_0.png"
+  },
+  {
+    prompt: "Wondernaut",
+    link: "https://mj-gallery.com/6ce9e823-cf97-453b-b24c-69090c247e20/grid_0.png"
+  },
+  {
+    prompt: "Wondernaut",
+    link: "https://mj-gallery.com/19df9b8e-b4f2-47fe-8cc9-01a30626b227/grid_0.png"
+  },
+  {
+    prompt: "Wondernaut",
+    link: "https://mj-gallery.com/013efaf9-51e8-4a81-b619-d061b04cb7ac/grid_0.png"
+  },
+  {
+    prompt: "Zurg vs. Lightyear",
+    link: "https://mj-gallery.com/418c74a7-0d1f-43b0-8da9-21bb7b2bb61d/grid_0.png"
+  },
+  {
+    prompt: "Purple Villian",
+    link: "https://mj-gallery.com/47b81846-db2e-49a3-b4af-acb1ccac6e06/grid_0.png"
+  },
+  {
+    prompt: "Purple Villian",
+    link: "https://mj-gallery.com/d03fc611-f41e-4d4c-b58c-47b022abb742/grid_0.png"
+  },
+  {
+    prompt: "Purple Villian",
+    link: "https://mj-gallery.com/64a3b458-88de-4f18-b1d1-5a7166a4ca39/grid_0.png"
+  },
+  {
+    prompt: "Purple Villian",
+    link: "https://mj-gallery.com/7330dd09-5ffb-4b3a-accf-5aea12da0957/grid_0.png"
+  },
+  {
+    prompt: "Purple Villian",
+    link: "https://mj-gallery.com/91338035-186f-4713-bc02-2ae765549aab/grid_0.png"
+  },
+  {
+    prompt: "Zurg vs. Lightyear",
+    link: "https://mj-gallery.com/7a68af59-fcdf-43ea-aeee-faf24b043ee5/grid_0.png"
+  },
+  {
+    prompt: "Purple Villian",
+    link: "https://mj-gallery.com/84f69c85-eb4e-4741-a78a-20695f48dcf2/grid_0.png"
+  },
+  {
+    prompt: "Danger Mouse",
+    link: "https://mj-gallery.com/fba2b6de-c3fd-44d2-8a42-513c4938e392/grid_0.png"
+  },
+  {
+    prompt: "Danger Mouse",
+    link: "https://mj-gallery.com/94030361-4780-474b-8ab7-bc126ad7c94b/grid_0.png"
+  },
+  {
+    prompt: "Zed's Dead",
+    link: "https://mj-gallery.com/8a59c353-405f-4a24-b038-e0bb2b0bf767/grid_0.png"
+  },
+  {
+    prompt: "Zombie Round Glasses",
+    link: "https://mj-gallery.com/09cb6ce7-ee16-48be-95b2-b1f719639f85/grid_0.png"
+  },
+  {
+    prompt: "Zombie with Curly Moustache",
+    link: "https://mj-gallery.com/273c54ef-0da8-4a14-8cac-e42513b1ec02/grid_0.png"
+  },
+  {
+    prompt: "Zombie Round Glasses with Beard",
+    link: "https://mj-gallery.com/e98d39bf-3d4d-4ebd-8873-26938a3d3b5c/grid_0.png"
+  },
+  {
+    prompt: "Drunk in Space",
+    link: "https://mj-gallery.com/a23cb2cf-08bd-4e2d-93aa-7a138c4dad03/grid_0.png"
+  },
+  {
+    prompt: "Two Idiots",
+    link: "https://mj-gallery.com/d10296c7-bd88-4487-abff-15bbb0c3dafb/grid_0.png"
+  },
+  {
+    prompt: "Two Degenerates",
+    link: "https://mj-gallery.com/256a6828-2967-457d-a068-b581bd030448/grid_0.png"
+  },
+  {
+    prompt: "Two Idiots",
+    link: "https://mj-gallery.com/ae46e7e3-935b-4388-8059-a58a11c33943/grid_0.png"
+  },
+  {
+    prompt: "Two Idiots",
+    link: "https://mj-gallery.com/75c26549-d62f-471a-b67b-eb33fb3b3995/grid_0.png"
+  },
+  {
+    prompt: "Two Idiots",
+    link: "https://mj-gallery.com/1569d235-b507-453c-944c-509a65611d15/grid_0.png"
+  },
+  {
+    prompt: "Big Brother Watching",
+    link: "https://mj-gallery.com/a463ef22-7a95-471e-8895-6070061294ab/grid_0.png"
+  },
+  {
+    prompt: "Big Brother Watching",
+    link: "https://mj-gallery.com/476d0a5e-082f-4df6-a5f6-eff4fc5c5b53/grid_0.png"
+  },
+  {
+    prompt: "Drowning in Guilt",
+    link: "https://mj-gallery.com/f3c5c34a-c27d-4506-bb49-c2fdf7c24a24/grid_0.png"
+  },
+  {
+    prompt: "Drowning in Guilt",
+    link: "https://mj-gallery.com/197fa432-8a33-489d-a902-3404dc1119c8/grid_0.png"
+  },
+  {
+    prompt: "Big Brother Watching",
+    link: "https://mj-gallery.com/839e0e62-94e2-4e57-8e3d-4a1700320b34/grid_0.png"
+  },
+  {
+    prompt: "Two Idiots",
+    link: "https://mj-gallery.com/461ddc9a-8c8d-46e7-a7ff-1034efe6405a/grid_0.png"
+  },
+  {
+    prompt: "Drowning in Guilt",
+    link: "https://mj-gallery.com/02eec7f4-b624-4000-b9b4-8e127bd1281b/grid_0.png"
+  },
+  {
+    prompt: "Drowning in Guilt",
+    link: "https://mj-gallery.com/f37154f3-fc7b-48e3-a159-608f3ddc2b16/grid_0.png"
+  },
+  {
+    prompt: "Two Degenerates",
+    link: "https://mj-gallery.com/4b5186e3-6293-4f85-b847-3498db6da058/grid_0.png"
+  },
+  {
+    prompt: "Two Degenerates",
+    link: "https://mj-gallery.com/d6de9755-c9aa-4603-9aa7-820f859d69c3/grid_0.png"
+  },
+  {
+    prompt: "Two Degenerates",
+    link: "https://mj-gallery.com/87b1ca71-04fc-41c4-ab71-1db64ff361a8/grid_0.png"
+  },
+  {
+    prompt: "Skeleton Boss",
+    link: "https://mj-gallery.com/b56f6d4b-ea3e-4ea4-be34-53015c923eb9/grid_0.png"
+  },
+  {
+    prompt: "Dinosaur DJ",
+    link: "https://mj-gallery.com/2eb86234-9791-40b9-a6cc-7966e3d8a80c/grid_0.png"
+  },
+  {
+    prompt: "Skeleton Boss",
+    link: "https://mj-gallery.com/ae091840-1e01-4505-8ec4-48fe3ae515e6/grid_0.png"
+  },
+  {
+    prompt: "Dinosaur DJ",
+    link: "https://mj-gallery.com/d65e57bd-8c27-424a-a2c7-570f6c709ced/grid_0.png"
+  },
+  {
+    prompt: "Dinosaur DJ",
+    link: "https://mj-gallery.com/52241b3b-7c63-4a21-863e-4874c1c5de20/grid_0.png"
+  },
+  {
+    prompt: "Dinosaur DJ",
+    link: "https://mj-gallery.com/7cdd64f7-9848-42f6-9d88-3f6f8b0cf631/grid_0.png"
+  },
+  {
+    prompt: "Dinosaur DJ",
+    link: "https://mj-gallery.com/1b2d4e6a-782c-4f7f-997d-88a7d09b2a3f/grid_0.png"
+  },
+  {
+    prompt: "Catfish Blackened with Grits",
+    link: "https://mj-gallery.com/f2a5ee75-4451-418f-a0ad-e064798ce33b/grid_0.png"
+  },
+  {
+    prompt: "Let the Bass Drop",
+    link: "https://mj-gallery.com/ad9cc009-3a09-4974-ad92-e4f41fbd8774/grid_0.png"
+  },
+  {
+    prompt: "Let the Bass Drop",
+    link: "https://mj-gallery.com/31244a46-bfad-4c92-a75f-1724b835c99d/grid_0.png"
+  },
+  {
+    prompt: "Let the Bass Drop",
+    link: "https://mj-gallery.com/6c9ac410-f448-41f9-a4c3-7afe24f32842/grid_0.png"
+  },
+  {
+    prompt: "Let the Bass Drop",
+    link: "https://mj-gallery.com/ded849ed-8eca-4465-8df8-59d9bfc18cb3/grid_0.png"
+  },
+  {
+    prompt: "Let the Bass Drop",
+    link: "https://mj-gallery.com/72d45beb-7791-4c44-b610-fd67254f4478/grid_0.png"
+  },
+  {
+    prompt: "Let the Bass Drop",
+    link: "https://mj-gallery.com/dcdbe8e6-3d9c-4346-9cc7-c5bdaae0bd1e/grid_0.png"
+  },
+  {
+    prompt: "Let the Bass Drop",
+    link: "https://mj-gallery.com/310ef12b-31ce-42f8-9c45-7cb3281025bf/grid_0.png"
+  },
+  {
+    prompt: "Let the Bass Drop",
+    link: "https://mj-gallery.com/f9da2127-e100-4ec6-aff3-b42a2c499030/grid_0.png"
+  },
+  {
+    prompt: "Cyborg Walrus",
+    link: "https://mj-gallery.com/260ffbfc-d357-4342-a592-e16f89447247/grid_0.png"
+  },
+  {
+    prompt: "Cyborg Walrus",
+    link: "https://mj-gallery.com/ede8a7fc-90ec-4c72-b375-31914e80200f/grid_0.png"
+  },
+  {
+    prompt: "Cyborg Walrus",
+    link: "https://mj-gallery.com/fe4638c9-c01c-4cde-99da-903b7d971b54/grid_0.png"
+  },
+  {
+    prompt: "Cyborg Walrus",
+    link: "https://mj-gallery.com/9f36de58-6c9e-4bc8-a9f4-eef924abc429/grid_0.png"
+  },
+  {
+    prompt: "Cyborg Walrus",
+    link: "https://mj-gallery.com/74b14f5c-aa7a-44f2-8c1f-a36fab091c13/grid_0.png"
+  },
+  {
+    prompt: "Cyborg Walrus",
+    link: "https://mj-gallery.com/434c5743-72ca-4b2e-933b-65836d6f7b29/grid_0.png"
+  },
+  {
+    prompt: "Cyborg Walrus",
+    link: "https://mj-gallery.com/38d2a23e-fd53-4ca3-b973-01e9c1918313/grid_0.png"
+  },
+  {
+    prompt: "Dubstep",
+    link: "https://mj-gallery.com/1f38a27b-995a-431c-bfca-b0ad2e059ca6/grid_0.png"
+  },
+  {
+    prompt: "Dubstep",
+    link: "https://mj-gallery.com/bfc8e4e7-2408-46a9-86b0-6ea7bcce59ef/grid_0.png"
+  },
+  {
+    prompt: "Dubstep",
+    link: "https://mj-gallery.com/6d882df8-8f5b-43da-a2d8-cc42a2880f69/grid_0.png"
+  },
+  {
+    prompt: "Dubstep",
+    link: "https://mj-gallery.com/dd12b42e-9546-4c6c-afb5-b6ed81dfbd77/grid_0.png"
+  },
+  {
+    prompt: "Dubstep",
+    link: "https://mj-gallery.com/ee7b0086-0f50-413e-af5d-d5a69e482643/grid_0.png"
+  },
+  {
+    prompt: "Speaker Pouring Bass",
+    link: "https://mj-gallery.com/12891b91-84ae-476a-a6f4-13ffa30e76be/grid_0.png"
+  },
+  {
+    prompt: "Speaker Pouring Bass",
+    link: "https://mj-gallery.com/f2015729-1fef-4fab-925a-45b774d4c0d4/grid_0.png"
+  },
+  {
+    prompt: "Big Brother Watching",
+    link: "https://mj-gallery.com/f2015729-1fef-4fab-925a-45b774d4c0d4/grid_0.png"
   }
 ];
 
 console.log(initialCards.length);
+
+const fishImages = [
+  {
+    link: "https://mj-gallery.com/773ed323-1b78-4785-84a0-36488da0f7d3/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/7e4f4a5f-d777-4f73-b7b8-09a49106fb2b/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/b7214b27-1dff-44e2-bc37-ad3c7ebda26a/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/7250843a-a2ea-44a3-b455-258568cee147/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/c91bc28d-924e-42c0-bd99-2b4e6af3a6ca/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/70660070-c870-491e-a224-7938ab1fbe71/grid_0.png"
+  }
+]
 
 function shuffle(array) {
   let currentIndex = array.length,  randomIndex;
@@ -2333,7 +2710,6 @@ function handleSortButton() {
       }
       return 0;
     });
-    console.log(initialCards);
     sortCounter++;
     }
   createCards(projectCount);
