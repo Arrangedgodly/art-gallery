@@ -1,12 +1,19 @@
 .refresh {
-  position: absolute;
-  top: 5%;
-  right: 15%;
-  transition: transform .5s ease-in-out;
+  transition: transform .4s ease-in-out;
 }
 
 .refresh:hover {
   cursor: pointer;
   color: rgb(0, 119, 255);
   transform: rotate(180deg);
+}
+
+@media screen and (max-width: 720px) {
+  .refresh {
+    transform: scale(0.3);
+  }
+
+  .refresh:hover {
+    transform: rotate(180deg) scale(0.3);
+  }
 }

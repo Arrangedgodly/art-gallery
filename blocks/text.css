@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.text-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .text-modal {
   font-size: 20px;
   font-weight: 100;
@@ -15,18 +22,18 @@
 
 .text-main {
   font-size: 6vmax;
-  margin: 2vh auto 4vh auto;
+  margin: 2vh auto 3vh auto;
   font-weight: 500;
-  width: 100%;
-  left: 8%;
-  position: absolute;
-  top: 0;
+  max-height: 8vh;
 }
 
 .text-desc {
+  display: flex;
+  flex-wrap: nowrap;
   font-size: 2vmax;
-  margin: 15vh auto 2vh auto;
+  margin: 2vh auto 2vh auto;
   font-weight: 100;
+  max-width: 100%;
 }
 
 @keyframes changeFontStyle {
@@ -93,7 +100,11 @@
 }
 
 .text-main-span {
-  position: fixed;
-  left: 35%;
   animation: changeFontFamily 3s linear infinite;
+}
+
+@media screen and (max-width: 720px) {
+  .text-main {
+    font-size: 4vmax;
+  }
 }

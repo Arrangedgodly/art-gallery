@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Amatic+SC&family=Bebas+Neue&family=Black+Ops+One&family=Cabin:ital@0;1&family=Cinzel&family=Inspiration&family=Kalam&family=Luckiest+Guy&family=Nanum+Pen+Script&family=PT+Mono&family=Pangolin&family=Raleway:ital,wght@0,500;1,100&family=Rock+Salt&family=Shrikhand&family=Silkscreen&family=Splash&family=Syncopate&family=Tiro+Gurmukhi:ital@0;1&display=swap');
 @import url("../blocks/header.css");
+@import url("../blocks/sort.css");
 @import url("../blocks/refresh.css");
 @import url("../blocks/modal.css");
 @import url("../blocks/cards.css");

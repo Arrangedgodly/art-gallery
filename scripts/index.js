@@ -2270,15 +2270,15 @@ const createCards = (num) => {
   cards.innerHTML = "";
   let cardCount = 0;
   if (num > 0) {
-    cardCount = num * 55;
+    cardCount = num * 150;
   }
-  let tracker = cardCount + 55;
+  let tracker = cardCount + 150;
   let newCards = initialCards.slice(cardCount, tracker);
 
   newCards.forEach((data) => {
     const card = new Card(data, "#card");
     const cardElement = card.generateCard();
-    cards.prepend(cardElement);
+    cards.append(cardElement);
   })
 }
 
@@ -2304,9 +2304,39 @@ const refreshButton = document.querySelector(".refresh");
 function handleRefreshButton() {
   cards.innerHTML = "";
   projectCount = 0;
+  sortCounter = 0;
   checkArrows(projectCount);
   shuffle(initialCards);
   createCards(projectCount);
 }
 
 refreshButton.addEventListener("click", handleRefreshButton);
+
+let sortCounter = 0;
+const sortButton = document.querySelector(".sort");
+
+function handleSortButton() {
+  cards.innerHTML = "";
+  projectCount = 0;
+  checkArrows(projectCount);
+  if (sortCounter === 1) {
+    initialCards.reverse();
+    sortCounter--;
+  }
+  else if (sortCounter === 0) {
+    initialCards.sort(function (a, b) {
+      if (a.prompt < b.prompt) {
+        return -1;
+      }
+      if (a.prompt > b.prompt) {
+        return 1;
+      }
+      return 0;
+    });
+    console.log(initialCards);
+    sortCounter++;
+    }
+  createCards(projectCount);
+}
+
+sortButton.addEventListener("click", handleSortButton);
