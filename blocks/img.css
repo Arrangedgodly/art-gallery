@@ -3,6 +3,14 @@
   margin: 0 auto;
 }
 
+.img-head {
+  width: 80%;
+  height: auto;
+  object-fit: contain;
+  z-index: 2;
+  border-radius: 50%;
+}
+
 .img-wrapper {
   position: relative;
 }

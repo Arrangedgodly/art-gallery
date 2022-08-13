@@ -1,5 +1,6 @@
 .sort {
   transition: color .2s ease-in-out, transform .3s ease-in-out;
+  grid-column-start: 2;
 }
 
 .sort:hover {

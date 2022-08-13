@@ -1,5 +1,6 @@
 .refresh {
   transition: transform .4s ease-in-out;
+  grid-column-start: 4;
 }
 
 .refresh:hover {
