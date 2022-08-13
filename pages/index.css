@@ -35,6 +35,11 @@ font-family: 'Tiro Gurmukhi', serif;
 html {
   font-family: 'Raleway', sans-serif;
   overflow-x: hidden;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.5));
+}
+
+html::-webkit-scrollbar {
+  display: none;
 }
 
 body {

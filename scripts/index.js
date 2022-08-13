@@ -2862,6 +2862,8 @@ const fishImages = [
   }
 ]
 
+console.log(fishImages.length);
+
 function shuffle(array) {
   let currentIndex = array.length,  randomIndex;
 
