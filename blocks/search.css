@@ -1,0 +1,19 @@
+.search-form {
+  grid-column-start: 3;
+  margin: auto auto 2vh auto;
+}
+
+.search-button {
+  border: none;
+  width: 2vw;
+  height: 2vw;
+  background: none;
+  color: #fff;
+  transition: transform 0.3s ease-in-out;
+}
+
+.search-button:hover {
+  cursor: pointer;
+  color: rgb(0, 119, 255);
+  transform: skew(30deg);
+}

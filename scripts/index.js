@@ -2990,3 +2990,36 @@ function handleSortButton() {
 }
 
 sortButton.addEventListener("click", handleSortButton);
+
+const searchForm = document.querySelector(".search-form");
+const search = searchForm.querySelector(".search");
+
+const searchCards = (data) => {
+  const prompt = data.prompt.toLowerCase();
+  const value = search.value.toLowerCase();
+  if (prompt.includes(value)) {
+    return true;
+  }
+  else {
+    return false;
+  }
+}
+
+const createSearchCards = (array) => {
+  array.forEach((data) => {
+    const card = new Card(data, "#card");
+    const cardElement = card.generateCard();
+    cards.append(cardElement);
+  });
+}
+
+search.addEventListener("keyup", () => {
+  cards.innerHTML = "";
+  const filteredCards = initialCards.filter(searchCards);
+  console.log(filteredCards);
+  createSearchCards(filteredCards);
+});
+
+searchForm.addEventListener("submit", (evt) => {
+  evt.preventDefault();
+})
