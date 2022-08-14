@@ -2917,14 +2917,14 @@ function checkArrows(num) {
 
 checkArrows(projectCount);
 
-const createCards = (num) => {
+const createCards = (num, array) => {
   cards.innerHTML = "";
   let cardCount = 0;
   if (num > 0) {
     cardCount = num * 150;
   }
   let tracker = cardCount + 150;
-  let newCards = initialCards.slice(cardCount, tracker);
+  let newCards = array.slice(cardCount, tracker);
 
   newCards.forEach((data) => {
     const card = new Card(data, "#card");
@@ -2933,18 +2933,18 @@ const createCards = (num) => {
   })
 }
 
-createCards(projectCount);
+createCards(projectCount, initialCards);
 
 function clickRightArrow() {
   projectCount++;
   checkArrows(projectCount);
-  createCards(projectCount);
+  createCards(projectCount, initialCards);
 }
 
 function clickLeftArrow() {
   projectCount--;
   checkArrows(projectCount);
-  createCards(projectCount);
+  createCards(projectCount, initialCards);
 }
 
 leftArrow.addEventListener("click", clickLeftArrow);
@@ -2958,7 +2958,7 @@ function handleRefreshButton() {
   sortCounter = 0;
   checkArrows(projectCount);
   shuffle(initialCards);
-  createCards(projectCount);
+  createCards(projectCount, initialCards);
 }
 
 refreshButton.addEventListener("click", handleRefreshButton);
@@ -2986,7 +2986,7 @@ function handleSortButton() {
     });
     sortCounter++;
     }
-  createCards(projectCount);
+  createCards(projectCount, initialCards);
 }
 
 sortButton.addEventListener("click", handleSortButton);
@@ -3005,19 +3005,13 @@ const searchCards = (data) => {
   }
 }
 
-const createSearchCards = (array) => {
-  array.forEach((data) => {
-    const card = new Card(data, "#card");
-    const cardElement = card.generateCard();
-    cards.append(cardElement);
-  });
-}
-
 search.addEventListener("keyup", () => {
   cards.innerHTML = "";
+  projectCount = 0;
   const filteredCards = initialCards.filter(searchCards);
   console.log(filteredCards);
-  createSearchCards(filteredCards);
+  checkArrows(projectCount);
+  createCards(projectCount, filteredCards);
 });
 
 searchForm.addEventListener("submit", (evt) => {
