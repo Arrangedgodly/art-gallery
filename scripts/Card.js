@@ -1,3 +1,7 @@
+const popup = document.querySelector(".modal");
+const popupImg = popup.querySelector(".img-large");
+const popupText = popup.querySelector(".text-modal");
+
 export class Card {
   constructor(data, cardSelector) {
     this._prompt = data.prompt;
@@ -15,10 +19,6 @@ export class Card {
   }
 
   _handleOpenModal() {
-    const popup = document.querySelector(".modal");
-    const popupImg = popup.querySelector(".img-large");
-    const popupText = popup.querySelector(".text-modal");
-
     popupImg.src = this._link;
     popupImg.alt = this._prompt;
     popupText.textContent = `Prompt: "${this._prompt}"`;

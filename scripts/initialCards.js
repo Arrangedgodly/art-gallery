@@ -1,10 +1,3 @@
-/*
-{
-    prompt: "",
-    link: ""
-  }
-*/
-
 export const initialCards = [
   {
     prompt: "Dubstep as an Anime Character",
@@ -2913,5 +2906,296 @@ export const initialCards = [
   {
     prompt: "Meeseeks",
     link: "https://mj-gallery.com/69000851-ee9f-4a99-b0a8-0b2aa99139b9/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty",
+    link: "https://mj-gallery.com/9cd6af6f-3b65-4166-a619-14ec3d4823ee/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty",
+    link: "https://mj-gallery.com/8918e1c9-db5c-49ef-857d-ec187f0bbcec/grid_0.png"
+  },
+  {
+    prompt: "Black Cat Halloween",
+    link: "https://mj-gallery.com/3558f3db-8d16-4f48-93b9-25cd88408fc6/grid_0.png"
+  },
+  {
+    prompt: "Monkeypox",
+    link: "https://mj-gallery.com/2fd10161-8d76-4f10-8640-ab0ddf7988f2/grid_0.png"
+  },
+  {
+    prompt: "Monkeypox",
+    link: "https://mj-gallery.com/fc4eb15b-9be1-4ddd-a079-7dc0b22965e7/grid_0.png"
+  },
+  {
+    prompt: "Media Monopoly",
+    link: "https://mj-gallery.com/fb4ebca2-4467-4936-b2b8-8094069e4661/grid_0.png"
+  },
+  {
+    prompt: "Media Monopoly",
+    link: "https://mj-gallery.com/7a1fffa1-52ff-4d0e-bb9f-a38b9fe8e5af/grid_0.png"
+  },
+  {
+    prompt: "Black Cat Halloween",
+    link: "https://mj-gallery.com/0a90481a-e47d-44a2-be55-58808fbae242/grid_0.png"
+  },
+  {
+    prompt: "Edward 40 Hands",
+    link: "https://mj-gallery.com/83d80d0b-c263-4d33-87d9-71d8281f8434/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty Anime",
+    link: "https://mj-gallery.com/e42fbb42-5d39-453d-a1ae-91f4d99bf3ed/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty Anime",
+    link: "https://mj-gallery.com/e8ad76dc-bb2f-4113-910d-a893e96a07cb/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty Anime",
+    link: "https://mj-gallery.com/7466f761-e08a-4d62-b033-11c2d40a0ee5/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty Anime",
+    link: "https://mj-gallery.com/f72e0a56-79dd-4a80-b4b6-234468b4ee76/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty Anime",
+    link: "https://mj-gallery.com/c401b024-95b7-4efe-a5ba-92a8a42f926e/grid_0.png"
+  },
+  {
+    prompt: "Edward 40 Hands",
+    link: "https://mj-gallery.com/58eb657b-791a-4836-97b9-484591772817/grid_0.png"
+  },
+  {
+    prompt: "Comic Book Cat",
+    link: "https://mj-gallery.com/f6eac2ba-b850-4182-aa96-def81f988db1/grid_0.png"
+  },
+  {
+    prompt: "Comic Book Cat",
+    link: "https://mj-gallery.com/16c99883-4ed8-4d8e-b490-c24436d41aaa/grid_0.png"
+  },
+  {
+    prompt: "Comic Book Cat",
+    link: "https://mj-gallery.com/cb4db4c1-d978-4f34-a8fd-b9fcd3343c13/grid_0.png"
+  },
+  {
+    prompt: "Comic Book Cat",
+    link: "https://mj-gallery.com/ad7bec58-0869-4184-9cee-9dc765f380b4/grid_0.png"
+  },
+  {
+    prompt: "Comic Book Cat",
+    link: "https://mj-gallery.com/d9d16dc4-85db-4c1a-9011-8ea7d764e528/grid_0.png"
+  },
+  {
+    prompt: "Comic Book Cat",
+    link: "https://mj-gallery.com/0ab53e6e-7990-4497-b47b-29d84991e192/grid_0.png"
+  },
+  {
+    prompt: "Comic Book Cat",
+    link: "https://mj-gallery.com/fb1b553c-4609-44f9-842e-0ff303dbe814/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty Anime",
+    link: "https://mj-gallery.com/8b9af3d3-007a-4151-9891-78b671c8941b/grid_0.png"
+  },
+  {
+    prompt: "Comic Book Cat",
+    link: "https://mj-gallery.com/506b9ca5-4d51-4558-a7df-3036f6dac048/grid_0.png"
+  },
+  {
+    prompt: "Comic Book Cat",
+    link: "https://mj-gallery.com/bb634e9b-6590-403d-98d3-67bf3dfaeab3/grid_0.png"
+  },
+  {
+    prompt: "Comic Book Cat",
+    link: "https://mj-gallery.com/b3c3cd7f-7846-4178-9c22-4c6e0adf1b25/grid_0.png"
+  },
+  {
+    prompt: "HAL Meets Bender",
+    link: "https://mj-gallery.com/7a76de2a-c267-4d9e-981b-85977466eab0/grid_0.png"
+  },
+  {
+    prompt: "HAL Meets Bender",
+    link: "https://mj-gallery.com/a12fbc5a-4b94-4487-ac2a-33a59dbcb5c9/grid_0.png"
+  },
+  {
+    prompt: "Birth of Anti Christ",
+    link: "https://mj-gallery.com/017730ca-bfbf-4f3e-9f10-397cf8dea3b8/grid_0.png"
+  },
+  {
+    prompt: "Birth of Anti Christ",
+    link: "https://mj-gallery.com/3fc36513-7ac2-429c-9f4c-f1a6c56d775f/grid_0.png"
+  },
+  {
+    prompt: "Birth of Anti Christ",
+    link: "https://mj-gallery.com/1aff40d3-2b71-43b1-a8a7-944d5ce0a261/grid_0.png"
+  },
+  {
+    prompt: "Birth of Anti Christ",
+    link: "https://mj-gallery.com/32cc73d6-a289-4372-80cf-8af8c7f225ff/grid_0.png"
+  },
+  {
+    prompt: "Espresso Shot Pouring",
+    link: "https://mj-gallery.com/dbf0bd7b-0cb5-4291-b4f9-6e7c23b068c6/grid_0.png"
+  },
+  {
+    prompt: "Espresso Shot Pouring",
+    link: "https://mj-gallery.com/0375d345-b75f-4b51-be77-2f8cc55559b8/grid_0.png"
+  },
+  {
+    prompt: "Robert Egger's The Lighthouse",
+    link: "https://mj-gallery.com/258a5cde-5097-43f5-b13e-a513c993ccd1/grid_0.png"
+  },
+  {
+    prompt: "Robert Egger's The Lighthouse",
+    link: "https://mj-gallery.com/51336259-f217-49a8-9278-0e88372e2632/grid_0.png"
+  },
+  {
+    prompt: "Making Beats",
+    link: "https://mj-gallery.com/8e521190-e6bc-4231-a824-07232d047ba9/grid_0.png"
+  },
+  {
+    prompt: "The VVitch",
+    link: "https://mj-gallery.com/ea8647fb-089a-4f57-91e4-c879da0385ed/grid_0.png"
+  },
+  {
+    prompt: "Galaxy in a Blender",
+    link: "https://mj-gallery.com/9e722dbd-3692-41d6-b2bb-ab9a7c92e752/grid_0.png"
+  },
+  {
+    prompt: "Galaxy in a Blender",
+    link: "https://mj-gallery.com/b8a4c214-d2d9-4979-b940-d86cd381d5b4/grid_0.png"
+  },
+  {
+    prompt: "Galaxy in a Blender",
+    link: "https://mj-gallery.com/cd16b805-a354-4c70-a59e-26e2402a5364/grid_0.png"
+  },
+  {
+    prompt: "Galaxy in a Blender",
+    link: "https://mj-gallery.com/dfb8233c-8477-4d9c-987f-262e26e86eb0/grid_0.png"
+  },
+  {
+    prompt: "Galaxy in a Blender",
+    link: "https://mj-gallery.com/cd11a772-839e-47f0-922a-8873f41b1af4/grid_0.png"
+  },
+  {
+    prompt: "Cat Burgular",
+    link: "https://mj-gallery.com/f7469c1c-5aab-49e1-956b-4aade61990f4/grid_0.png"
+  },
+  {
+    prompt: "Aviator Cat",
+    link: "https://mj-gallery.com/dc103acd-47ba-4720-b7fd-52cef30235c0/grid_0.png"
+  },
+  {
+    prompt: "Aviator Cat",
+    link: "https://mj-gallery.com/9994a063-334c-4c95-ba17-b48253ea4d74/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/24a1b4b4-44e3-44ef-a781-3f395cf98007/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/07d688f0-8f86-4ca9-98ac-589dccf6a755/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/502af911-8870-4ebe-9af8-99974b2cfc31/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/98a0b4d6-51a3-4121-bb6f-36842c2b21f2/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/88e57e3d-d117-474f-9dbb-ee66e37536ed/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/d001d413-7480-4130-b9a8-c81659fd4949/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/2eca761a-0c6a-4d5f-9a6c-c57171e56c24/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/460cdd90-cb3a-434d-bd41-4b8f3fd81971/grid_0.png"
+  },
+  {
+    prompt: "Cat Warrior",
+    link: "https://mj-gallery.com/44735ae0-4d98-4b9a-9de6-963f5d450813/grid_0.png"
+  },
+  {
+    prompt: "Cat Warrior",
+    link: "https://mj-gallery.com/7d690cc1-1868-4096-820b-955ac658252f/grid_0.png"
+  },
+  {
+    prompt: "Cat Warrior",
+    link: "https://mj-gallery.com/97be1083-c887-4b38-8dd4-47ec6cd5a696/grid_0.png"
+  },
+  {
+    prompt: "Cat Warrior",
+    link: "https://mj-gallery.com/a0cd5dec-9234-46e4-9e46-2797986c8c07/grid_0.png"
+  },
+  {
+    prompt: "Cat Warrior",
+    link: "https://mj-gallery.com/e9b5fd66-3c3b-4367-98b6-b21f725f0dd7/grid_0.png"
+  },
+  {
+    prompt: "Musician Jam Session on Mushrooms",
+    link: "https://mj-gallery.com/f3d6e9f0-b610-4d81-b5aa-5fbae1009608/grid_0.png"
   }
 ];
+
+/*
+{
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  }
+*/

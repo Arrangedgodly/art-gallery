@@ -37,6 +37,7 @@ const cards = document.querySelector(".cards");
 let projectCount = 0;
 const leftArrow = document.querySelector(".fa-arrow-left");
 const rightArrow = document.querySelector(".fa-arrow-right");
+const index = Math.ceil(initialCards.length / 150);
 
 function checkArrows(num) {
   if (num === 0) {
@@ -46,7 +47,6 @@ function checkArrows(num) {
     leftArrow.setAttribute("style", "opacity: 1;");
     leftArrow.removeAttribute("disabled");
   };
-  let index = Math.ceil(initialCards.length / 150);
   if ((num + 1) >= (index)) {
     rightArrow.setAttribute("style", "opacity: 0;");
     rightArrow.setAttribute("disabled", "");
