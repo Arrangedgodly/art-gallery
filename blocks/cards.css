@@ -1,22 +1,10 @@
 .cards {
   width: 90%;
   margin: 2vh auto;
-  display: grid;
-  grid-template-columns: repeat(15, 1fr);
-  row-gap: 10px;
-  justify-items: center;
-  align-items: center;
 }
 
 @media screen and (max-width: 720px) {
   .cards {
-    grid-template-columns: repeat(10, 1fr);
     width: 85%;
-  }
-}
-
-@media screen and (max-width: 500px) {
-  .cards {
-    grid-template-columns: repeat(5, 1fr);
   }
 }

@@ -34,28 +34,7 @@ setInterval(changeHeaderImages, 1000);
 
 const cards = document.querySelector(".cards");
 
-let projectCount = 0;
-const leftArrow = document.querySelector(".fa-arrow-left");
-const rightArrow = document.querySelector(".fa-arrow-right");
-const index = Math.ceil(initialCards.length / 150);
-
-function checkArrows(num) {
-  if (num === 0) {
-    leftArrow.setAttribute("style", "opacity: 0;");
-    leftArrow.setAttribute("disabled", "");
-  } else if (num > 0) {
-    leftArrow.setAttribute("style", "opacity: 1;");
-    leftArrow.removeAttribute("disabled");
-  };
-  if ((num + 1) >= (index)) {
-    rightArrow.setAttribute("style", "opacity: 0;");
-    rightArrow.setAttribute("disabled", "");
-  } else if ((num + 1 ) < (index)) {
-    rightArrow.setAttribute("style", "opacity: 1;");
-    rightArrow.removeAttribute("disabled");
-  }
-}
-
+/*
 checkArrows(projectCount);
 
 const createCards = (num, array) => {
@@ -164,3 +143,5 @@ search.addEventListener("keyup", () => {
 searchForm.addEventListener("submit", (evt) => {
   evt.preventDefault();
 })
+
+*/

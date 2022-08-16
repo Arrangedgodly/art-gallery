@@ -20,19 +20,66 @@ function buildPage(currPage) {
   return cardArray;
 }
 
-for (let i = 1; i < numberOfPages; i++) {
+for (let i = 1; i < numberOfPages + 1; i++) {
   const pageTemplate = document
     .querySelector("#page")
     .content.querySelector(".page")
     .cloneNode(true);
   pageTemplate.classList.add(`page-${i}`);
+  if (i !== 1) {
+    pageTemplate.classList.add("page-hidden");
+  }
 
   const cardArray = buildPage(i);
-  pageTemplate.innerHTML = cardArray.forEach((data) => {
+  cardArray.forEach((data) => {
     const card = new Card(data, "#card");
     const cardElement = card.generateCard();
-    return cardElement;
+    pageTemplate.append(cardElement);
   });
 
   cards.append(pageTemplate);
 }
+
+let projectCount = 0;
+const leftArrow = document.querySelector(".fa-arrow-left");
+const rightArrow = document.querySelector(".fa-arrow-right");
+
+function checkArrows(num) {
+  if (num === 0) {
+    leftArrow.setAttribute("style", "opacity: 0;");
+    leftArrow.setAttribute("disabled", "");
+  } else if (num > 0) {
+    leftArrow.setAttribute("style", "opacity: 1;");
+    leftArrow.removeAttribute("disabled");
+  };
+  if ((num + 1) >= (numberOfPages)) {
+    rightArrow.setAttribute("style", "opacity: 0;");
+    rightArrow.setAttribute("disabled", "");
+  } else if ((num + 1 ) < (numberOfPages)) {
+    rightArrow.setAttribute("style", "opacity: 1;");
+    rightArrow.removeAttribute("disabled");
+  }
+}
+
+checkArrows(projectCount);
+
+function changePages(num) {
+  const activePage = document.querySelector(`.page-${projectCount + 1}`);
+  const nextPage = document.querySelector(`.page-${projectCount + 2}`);
+  const previousPage = document.querySelector(`.page-${projectCount}`);
+
+  activePage.classList.add("page-hidden");
+  if (num === 1) {
+    nextPage.classList.remove("page-hidden");
+    projectCount++;
+  }
+  if (num === -1) {
+    previousPage.classList.remove("page-hidden");
+    projectCount--;
+  }
+
+  checkArrows(projectCount);
+}
+
+rightArrow.addEventListener("click", () => changePages(1));
+leftArrow.addEventListener("click", () => changePages(-1));
