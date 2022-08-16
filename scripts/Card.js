@@ -35,6 +35,7 @@ export class Card {
 
     this._cardImage.src = this._link;
     this._cardImage.alt = `Prompt: "${this._prompt}"`;
+    this._cardImage.title = this._prompt;
 
     this._setEventListeners();
 

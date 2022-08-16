@@ -135,8 +135,9 @@ sortButton.addEventListener("click", handleSortButton);
 const searchForm = document.querySelector(".search-form");
 const search = searchForm.querySelector(".search");
 
-const searchCards = (data) => {
-  const prompt = data.prompt.toLowerCase();
+const searchCards = (div) => {
+  const image = div.querySelector(".img");
+  const prompt = image.title.toLowerCase();
   const value = search.value.toLowerCase();
   if (prompt.includes(value)) {
     return true;
@@ -147,12 +148,17 @@ const searchCards = (data) => {
 }
 
 search.addEventListener("keyup", () => {
-  cards.innerHTML = "";
+  const cardArray = Array.from(cards.querySelectorAll(".card"));
   projectCount = 0;
-  const filteredCards = initialCards.filter(searchCards);
-  console.log(filteredCards);
+  cardArray.forEach((div) => {
+    if (searchCards(div) === false) {
+      div.setAttribute("style", "display:none");
+    }
+    if (searchCards(div) === true) {
+      div.setAttribute("style", "display:flex");
+    }
+  });
   checkArrows(projectCount);
-  createCards(projectCount, filteredCards);
 });
 
 searchForm.addEventListener("submit", (evt) => {
