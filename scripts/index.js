@@ -5,7 +5,7 @@ import { fishImages } from "./fishImages.js";
 console.log(initialCards.length);
 console.log(fishImages.length);
 
-function shuffle(array) {
+export function shuffle(array) {
   let currentIndex = array.length,  randomIndex;
 
   while (currentIndex != 0) {

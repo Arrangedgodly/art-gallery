@@ -1,10 +1,13 @@
 import { initialCards } from "./initialCards.js";
 import { Card } from "./Card.js";
+import { shuffle } from "./index.js";
 
 const numberOfItems = initialCards.length;
-const numberPerPage = 150;
+const numberPerPage = 90;
 const numberOfPages = Math.ceil(numberOfItems / numberPerPage);
 const cards = document.querySelector(".cards");
+
+shuffle(initialCards);
 
 function buildPage(currPage) {
   let trimStart;
@@ -70,10 +73,18 @@ function changePages(num) {
 
   activePage.classList.add("page-hidden");
   if (num === 1) {
+    if (nextPage === null) {
+      activePage.classList.remove("page-hidden");6
+      return;
+    }
     nextPage.classList.remove("page-hidden");
     projectCount++;
   }
   if (num === -1) {
+    if (previousPage === null) {
+      activePage.classList.remove("page-hidden");
+      return;
+    }
     previousPage.classList.remove("page-hidden");
     projectCount--;
   }
