@@ -9,7 +9,7 @@ const cards = document.querySelector(".cards");
 
 shuffle(initialCards);
 
-function buildPage(currPage) {
+function retrievePageArray(currPage, array) {
   let trimStart;
   if (currPage === 1) {
     trimStart = 0;
@@ -18,11 +18,11 @@ function buildPage(currPage) {
   }
   
   const trimEnd = trimStart + numberPerPage;
-  const cardArray = initialCards.slice(trimStart, trimEnd);
-  console.log(cardArray);
+  const cardArray = array.slice(trimStart, trimEnd);
   return cardArray;
 }
 
+const buildPages = (array) => {
 for (let i = 1; i < numberOfPages + 1; i++) {
   const pageTemplate = document
     .querySelector("#page")
@@ -33,7 +33,7 @@ for (let i = 1; i < numberOfPages + 1; i++) {
     pageTemplate.classList.add("page-hidden");
   }
 
-  const cardArray = buildPage(i);
+  const cardArray = retrievePageArray(i, array);
   cardArray.forEach((data) => {
     const card = new Card(data, "#card");
     const cardElement = card.generateCard();
@@ -42,6 +42,9 @@ for (let i = 1; i < numberOfPages + 1; i++) {
 
   cards.append(pageTemplate);
 }
+}
+
+buildPages(initialCards);
 
 let projectCount = 0;
 const leftArrow = document.querySelector(".fa-arrow-left");
@@ -50,14 +53,14 @@ const rightArrow = document.querySelector(".fa-arrow-right");
 function checkArrows(num) {
   if (num === 0) {
     leftArrow.setAttribute("style", "opacity: 0;");
-    leftArrow.setAttribute("disabled", "");
+    leftArrow.setAttribute("disabled", "true");
   } else if (num > 0) {
     leftArrow.setAttribute("style", "opacity: 1;");
     leftArrow.removeAttribute("disabled");
   };
   if ((num + 1) >= (numberOfPages)) {
     rightArrow.setAttribute("style", "opacity: 0;");
-    rightArrow.setAttribute("disabled", "");
+    rightArrow.setAttribute("disabled", "true");
   } else if ((num + 1 ) < (numberOfPages)) {
     rightArrow.setAttribute("style", "opacity: 1;");
     rightArrow.removeAttribute("disabled");
@@ -94,3 +97,74 @@ function changePages(num) {
 
 rightArrow.addEventListener("click", () => changePages(1));
 leftArrow.addEventListener("click", () => changePages(-1));
+
+const refreshButton = document.querySelector(".refresh");
+
+const handleRefreshButton = () => {
+  shuffle(initialCards);
+  cards.innerHTML = "";
+  buildPages(initialCards);
+  projectCount = 0;
+  checkArrows(projectCount);
+}
+
+refreshButton.addEventListener("click", handleRefreshButton);
+
+let sortCounter = 0;
+const sortButton = document.querySelector(".sort");
+
+function handleSortButton() {
+  cards.innerHTML = "";
+  projectCount = 0;
+  checkArrows(projectCount);
+  if (sortCounter === 1) {
+    initialCards.reverse();
+    sortCounter--;
+  }
+  else if (sortCounter === 0) {
+    initialCards.sort(function (a, b) {
+      if (a.prompt < b.prompt) {
+        return -1;
+      }
+      if (a.prompt > b.prompt) {
+        return 1;
+      }
+      return 0;
+    });
+    sortCounter++;
+    }
+  buildPages(initialCards);
+}
+
+sortButton.addEventListener("click", handleSortButton);
+
+const searchForm = document.querySelector(".search-form");
+const search = searchForm.querySelector(".search");
+
+const searchCards = (data) => {
+  const prompt = data.prompt.toLowerCase();
+  const value = search.value.toLowerCase();
+  if (prompt.includes(value)) {
+    return true;
+  }
+  else {
+    return false;
+  }
+}
+
+search.addEventListener("keyup", () => {
+  cards.innerHTML = "";
+  projectCount = 0;
+  checkArrows(projectCount);
+  const searchedArray = [];
+  initialCards.forEach(element => {
+    if (searchCards(element) === true) {
+      searchedArray.push(element);
+    }
+  });
+  buildPages(searchedArray);
+});
+
+searchForm.addEventListener("submit", (evt) => {
+  evt.preventDefault();
+})

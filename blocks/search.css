@@ -1,6 +1,6 @@
 .search-form {
   grid-column-start: 3;
-  margin: auto auto 2vh auto;
+  margin: 1vh auto;
 }
 
 .search-button {

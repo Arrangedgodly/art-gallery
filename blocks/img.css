@@ -10,17 +10,16 @@
   z-index: 2;
   border-radius: 50%;
   margin: auto;
+  grid-row-start: 1;
+  grid-row-end: 2;
 }
 
 .img-head-left {
-  grid-row-start: 1;
-  grid-row-end: 3;
+  grid-column-start: 1;
 }
 
 .img-head-right {
   grid-column-start: 5;
-  grid-row-start: 1;
-  grid-row-end: 3;
 }
 
 .img-wrapper {

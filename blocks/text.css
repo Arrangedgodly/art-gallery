@@ -22,8 +22,8 @@
 }
 
 .text-main {
-  font-size: 6vw;
-  margin: 2vh auto 3vh auto;
+  font-size: 2.5vw;
+  margin: 1vh auto 1vh auto;
   font-weight: 500;
   max-height: 8vh;
 }
@@ -31,8 +31,8 @@
 .text-desc {
   display: flex;
   flex-wrap: nowrap;
-  font-size: 2vw;
-  margin: 2vh auto 2vh auto;
+  font-size: 1vw;
+  margin: 1vh auto 1vh auto;
   font-weight: 100;
   max-width: 100%;
 }
