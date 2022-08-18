@@ -283,5 +283,11 @@ export const fishImages = [
   },
   {
     link: "https://mj-gallery.com/8da71600-30e3-4f00-94ae-3b50249d027c/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/1d8c3585-536e-45a2-a411-be4fa43cfeeb/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/7ca40043-ec1d-44d2-ae9b-1262c318a3e1/grid_0.png"
   }
 ]

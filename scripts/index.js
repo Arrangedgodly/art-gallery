@@ -31,9 +31,3 @@ function changeHeaderImages() {
 }
 
 setInterval(changeHeaderImages, 1000);
-
-const header = document.querySelector(".header");
-const headerHeight = header.offsetHeight;
-
-const cards = document.querySelector(".cards");
-cards.setAttribute("style", `height:calc(100vh - ${headerHeight}px)`);

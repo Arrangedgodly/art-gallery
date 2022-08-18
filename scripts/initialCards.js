@@ -3146,6 +3146,266 @@ export const initialCards = [
   {
     prompt: "Musician Jam Session on Mushrooms",
     link: "https://mj-gallery.com/f3d6e9f0-b610-4d81-b5aa-5fbae1009608/grid_0.png"
+  },
+  {
+    prompt: "Galactic Piano",
+    link: "https://mj-gallery.com/339665e6-6703-4d05-97ed-46e8548bffdd/grid_0.png"
+  },
+  {
+    prompt: "Galactic Piano",
+    link: "https://mj-gallery.com/4739fb83-0605-427c-9942-1a41e9724000/grid_0.png"
+  },
+  {
+    prompt: "Purge Planet",
+    link: "https://mj-gallery.com/46047a5e-4165-4599-aae5-44e9de0c01e2/grid_0.png"
+  },
+  {
+    prompt: "Purge Planet",
+    link: "https://mj-gallery.com/e09c078a-6618-4b75-bce5-bd81bd3586b8/grid_0.png"
+  },
+  {
+    prompt: "Purge Planet",
+    link: "https://mj-gallery.com/5ad8d13b-9171-48fc-883e-31dfe43a4513/grid_0.png"
+  },
+  {
+    prompt: "Purge Planet",
+    link: "https://mj-gallery.com/e405724d-6afa-469a-8c3f-0572d4545589/grid_0.png"
+  },
+  {
+    prompt: "Purge Planet",
+    link: "https://mj-gallery.com/94f2437b-0476-4537-946f-62a91db15f62/grid_0.png"
+  },
+  {
+    prompt: "Vape Lord",
+    link: "https://mj-gallery.com/8baf0766-d08c-4e25-b308-7095a0e4b8b7/grid_0.png"
+  },
+  {
+    prompt: "Vape Lord",
+    link: "https://mj-gallery.com/391a0566-7dfe-4977-9d4f-8e254cbafa27/grid_0.png"
+  },
+  {
+    prompt: "Vape Lord",
+    link: "https://mj-gallery.com/58d35ef4-c7f5-480f-bfa0-5ec74b0a0322/grid_0.png"
+  },
+  {
+    prompt: "The Fool",
+    link: "https://mj-gallery.com/7c769f46-00de-4a8f-bd4d-5fa659210f20/grid_0.png"
+  },
+  {
+    prompt: "Snared by a Trap",
+    link: "https://mj-gallery.com/989174c1-ba0e-4168-a759-481b3518eb21/grid_0.png"
+  },
+  {
+    prompt: "Cloud City",
+    link: "https://mj-gallery.com/6b3d4ce8-3f44-4d9f-b775-c79b474a955a/grid_0.png"
+  },
+  {
+    prompt: "Snared by a Trap",
+    link: "https://mj-gallery.com/04c5a63c-5dd4-4e6d-8604-7812fb02cc04/grid_0.png"
+  },
+  {
+    prompt: "The Fool",
+    link: "https://mj-gallery.com/8257df41-0f5b-43a7-b3e5-c8c154155db8/grid_0.png"
+  },
+  {
+    prompt: "The Fool",
+    link: "https://mj-gallery.com/2589e35a-9984-4c00-9a2d-1abd055215a3/grid_0.png"
+  },
+  {
+    prompt: "The Fool",
+    link: "https://mj-gallery.com/54662a43-f61a-4bb8-b85c-95f47af3b74a/grid_0.png"
+  },
+  {
+    prompt: "The Fool",
+    link: "https://mj-gallery.com/0cbe7f6c-3ac6-4ec5-a3bd-9d3cb6a493cc/grid_0.png"
+  },
+  {
+    prompt: "The Fool",
+    link: "https://mj-gallery.com/85b94be1-541d-4a1e-9877-f3f358ce1987/grid_0.png"
+  },
+  {
+    prompt: "The Fool",
+    link: "https://mj-gallery.com/cc240b3f-183d-4438-8dd0-ee1528b13640/grid_0.png"
+  },
+  {
+    prompt: "The Fool",
+    link: "https://mj-gallery.com/5722e691-ddf1-4a38-ba04-08746a8a31b3/grid_0.png"
+  },
+  {
+    prompt: "The Fool",
+    link: "https://mj-gallery.com/8606c492-6a99-4d7f-8be0-39aa69ebc6a1/grid_0.png"
+  },
+  {
+    prompt: "Snared by a Trap",
+    link: "https://mj-gallery.com/aa5e3b92-7cdf-4172-a76a-e95e67679803/grid_0.png"
+  },
+  {
+    prompt: "Three of Cups",
+    link: "https://mj-gallery.com/9223b27b-bc53-406e-a659-8624b4d75f7c/grid_0.png"
+  },
+  {
+    prompt: "Capricorn / Libra",
+    link: "https://mj-gallery.com/bfa04e88-2c2e-4dd5-98bd-cf6d9e658b28/grid_0.png"
+  },
+  {
+    prompt: "Capricorn / Libra",
+    link: "https://mj-gallery.com/5d4829c1-1f10-4bbc-9f55-856f72a10a7e/grid_0.png"
+  },
+  {
+    prompt: "Capricorn",
+    link: "https://mj-gallery.com/1f36c9ea-54df-4116-914f-b257bce923e8/grid_0.png"
+  },
+  {
+    prompt: "Capricorn",
+    link: "https://mj-gallery.com/1766600e-90af-4616-9dca-bd26e973c661/grid_0.png"
+  },
+  {
+    prompt: "Libra",
+    link: "https://mj-gallery.com/565fec29-cafb-4a95-8759-7043832324af/grid_0.png"
+  },
+  {
+    prompt: "Deceiving Love",
+    link: "https://mj-gallery.com/561d7a09-1492-43f4-8e0d-52995926da59/grid_0.png"
+  },
+  {
+    prompt: "Deceiving Love",
+    link: "https://mj-gallery.com/133837b6-ccd1-4244-bb55-5e9dfb1bbe97/grid_0.png"
+  },
+  {
+    prompt: "Deceiving Love",
+    link: "https://mj-gallery.com/c2b1c4f6-852d-405a-bc22-5797319e6687/grid_0.png"
+  },
+  {
+    prompt: "Elton John Cat",
+    link: "https://mj-gallery.com/c00b670c-6b31-4f0d-85d5-116b23eff50a/grid_0.png"
+  },
+  {
+    prompt: "Elton John Cat",
+    link: "https://mj-gallery.com/cdc58219-5667-4b8b-aca3-61b0fb3eb029/grid_0.png"
+  },
+  {
+    prompt: "Elton John Cat",
+    link: "https://mj-gallery.com/29a1a8e3-838d-461c-b0f4-92251212333c/grid_0.png"
+  },
+  {
+    prompt: "Sleeping Kitty",
+    link: "https://mj-gallery.com/80595282-a38c-4fba-afd2-b025248bd1e6/grid_0.png"
+  },
+  {
+    prompt: "Sleeping Kitty",
+    link: "https://mj-gallery.com/3364aa47-aa42-4a60-9704-8afd9fad5356/grid_0.png"
+  },
+  {
+    prompt: "Sleeping Kitty",
+    link: "https://mj-gallery.com/dcf5c5a1-521f-4876-8e06-9199ebb1cdde/grid_0.png"
+  },
+  {
+    prompt: "Elton John Cat",
+    link: "https://mj-gallery.com/383cf3f8-de3c-4a55-832e-a5416e4166f4/grid_0.png"
+  },
+  {
+    prompt: "Elton John Cat",
+    link: "https://mj-gallery.com/2574ff27-cb12-43b1-ad77-e16c10f517fa/grid_0.png"
+  },
+  {
+    prompt: "Sleeping Kitty",
+    link: "https://mj-gallery.com/d1907b71-be42-4304-ab48-81b87d19731e/grid_0.png"
+  },
+  {
+    prompt: "Sleeping Kitty",
+    link: "https://mj-gallery.com/af29f9a6-2fa0-4460-90d0-bb4ca3a00ceb/grid_0.png"
+  },
+  {
+    prompt: "ScHoolboy Q",
+    link: "https://mj-gallery.com/5e115641-d11b-4f44-b0ff-48d184dd3d5b/grid_0.png"
+  },
+  {
+    prompt: "ScHoolboy Q",
+    link: "https://mj-gallery.com/3fd26cf9-ca1f-414d-b90a-b1011a2279e3/grid_0.png"
+  },
+  {
+    prompt: "Grandma Eating Hand Sanitizer",
+    link: "https://mj-gallery.com/b6a223bf-34de-4d22-81fa-1b05385e93b9/grid_0.png"
+  },
+  {
+    prompt: "Red Light District",
+    link: "https://mj-gallery.com/3093df72-39ab-4db4-8750-1f1b6adbe168/grid_0.png"
+  },
+  {
+    prompt: "Red Light District",
+    link: "https://mj-gallery.com/7a3186cf-8c80-4888-8757-e215e0e7dc27/grid_0.png"
+  },
+  {
+    prompt: "Ziplining Across the Galaxy",
+    link: "https://mj-gallery.com/5db955b1-b397-4d3a-bc07-4049eb4888c1/grid_0.png"
+  },
+  {
+    prompt: "Ziplining Across the Galaxy",
+    link: "https://mj-gallery.com/05f23f1e-6566-4d0f-8f93-5dd9ec5e6e3d/grid_0.png"
+  },
+  {
+    prompt: "Hanging Upside Down from a Jungle Tree",
+    link: "https://mj-gallery.com/503deac2-1b10-4408-a868-c981f8c1c402/grid_0.png"
+  },
+  {
+    prompt: "Your Dad's Feet",
+    link: "https://mj-gallery.com/09f49204-31ac-43e2-a03d-e206a1ffff4b/grid_0.png"
+  },
+  {
+    prompt: "Time to Deliver a Pizza Ball",
+    link: "https://mj-gallery.com/428d1411-0d73-429a-85f1-1e1e0536cb7e/grid_0.png"
+  },
+  {
+    prompt: "The Dirt Gallery",
+    link: "https://mj-gallery.com/01261d11-f79d-47eb-98ea-061afb2e02b5/grid_0.png"
+  },
+  {
+    prompt: "The Dirt Gallery",
+    link: "https://mj-gallery.com/340a1944-5d41-4f75-b981-5c940409da14/grid_0.png"
+  },
+  {
+    prompt: "Ant with Massive Boombox",
+    link: "https://mj-gallery.com/fc614793-e8e2-48fd-b949-2b71cf5752bd/grid_0.png"
+  },
+  {
+    prompt: "Belly Button Monster Eating Ice Cream",
+    link: "https://mj-gallery.com/fe3f28b9-6266-436d-9935-3a4e5410d52b/grid_0.png"
+  },
+  {
+    prompt: "Lightning Legs",
+    link: "https://mj-gallery.com/796e7a1b-08f5-43b2-a65d-5308db3e629e/grid_0.png"
+  },
+  {
+    prompt: "Espionage Aficionado",
+    link: "https://mj-gallery.com/8609a5c5-7c90-4b3c-9446-f326f6fe371f/grid_0.png"
+  },
+  {
+    prompt: "Espionage Aficionado",
+    link: "https://mj-gallery.com/285ba66e-53ac-425c-bf30-5b8e9b0103f9/grid_0.png"
+  },
+  {
+    prompt: "Espionage Aficionado",
+    link: "https://mj-gallery.com/f418678d-1178-44a6-884d-a9e3bd3c58ee/grid_0.png"
+  },
+  {
+    prompt: "Espionage Aficionado",
+    link: "https://mj-gallery.com/5ded47dc-05e8-464b-815d-65c2a455f9c3/grid_0.png"
+  },
+  {
+    prompt: "Espionage Aficionado",
+    link: "https://mj-gallery.com/ecce7fb8-d1b3-4f6c-8d33-fbc4678dc302/grid_0.png"
+  },
+  {
+    prompt: "Militant Warlord Cat",
+    link: "https://mj-gallery.com/7a9a69cf-8c12-43ca-970b-c0350dd36eeb/grid_0.png"
+  },
+  {
+    prompt: "Exploding Watermelon",
+    link: "https://mj-gallery.com/34886e57-9250-45a0-8f98-8541071ecabe/grid_0.png"
+  },
+  {
+    prompt: "Militant Warlord Cat",
+    link: "https://mj-gallery.com/f4018daa-a7a8-44c1-bea8-2a5c5ab2ad23/grid_0.png"
   }
 ];
 
