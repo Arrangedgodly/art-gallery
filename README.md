@@ -24,6 +24,8 @@
   * allow users to share links to individual images in a more streamlined manner
 - *User Submissions*
   * create an alternative page extension that allows users to submit images via a prompt and link set up
+- *Category Tags*
+  * add an additional data category to all of the images adding keyword categories, allowing the search feature to group like images together easier
   
  ## Live Link
  - You can find the art gallery live [here](https://artoffish.graydonwasil.com/)
