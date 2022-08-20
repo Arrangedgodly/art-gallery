@@ -3406,6 +3406,550 @@ export const initialCards = [
   {
     prompt: "Militant Warlord Cat",
     link: "https://mj-gallery.com/f4018daa-a7a8-44c1-bea8-2a5c5ab2ad23/grid_0.png"
+  },
+  {
+    prompt: "Militant Warlord Cat",
+    link: "https://mj-gallery.com/0985d648-81d8-4bb2-b596-c699c7f5656e/grid_0.png"
+  },
+  {
+    prompt: "Mario Hyperdetailed Realistic 4k Render",
+    link: "https://mj-gallery.com/e921d8b5-49f7-4dce-a180-115f7cebd559/grid_0.png"
+  },
+  {
+    prompt: "Luigi Hyperdetailed Realistic 4k Render",
+    link: "https://mj-gallery.com/a8c13737-887a-4054-88ab-4cd20165d2ff/grid_0.png"
+  },
+  {
+    prompt: "Mario Hyperdetailed Realistic 4k Render",
+    link: "https://mj-gallery.com/42129216-f9ee-474b-975b-3e19b843ca13/grid_0.png"
+  },
+  {
+    prompt: "Mario Hyperdetailed Realistic 4k Render",
+    link: "https://mj-gallery.com/90da1d77-2bf1-48cf-bdd4-5a287d9af0e8/grid_0.png"
+  },
+  {
+    prompt: "Mario Hyperdetailed Realistic 4k Render",
+    link: "https://mj-gallery.com/9ab43811-04b6-4a1c-b804-7646c8523458/grid_0.png"
+  },
+  {
+    prompt: "Mario Hyperdetailed Realistic 4k Render",
+    link: "https://mj-gallery.com/8045b5cd-b9c6-4228-8264-43350d06da75/grid_0.png"
+  },
+  {
+    prompt: "Purple Wasteland",
+    link: "https://mj-gallery.com/58754ca7-44ba-45a9-a193-fcc916bd93dc/grid_0.png"
+  },
+  {
+    prompt: "Purple Wasteland",
+    link: "https://mj-gallery.com/96ca64b7-c94e-4ed6-8b41-a140139a0c7e/grid_0.png"
+  },
+  {
+    prompt: "Purple Wasteland",
+    link: "https://mj-gallery.com/fa59e299-8f64-4791-a132-65523f853ac2/grid_0.png"
+  },
+  {
+    prompt: "Purple Wasteland",
+    link: "https://mj-gallery.com/717594df-13d7-4e48-91fa-9da5ab2ce2a7/grid_0.png"
+  },
+  {
+    prompt: "Purple Wasteland",
+    link: "https://mj-gallery.com/56531f9a-e4ac-406f-95ea-3d0d6ed8d48c/grid_0.png"
+  },
+  {
+    prompt: "Purple Wasteland",
+    link: "https://mj-gallery.com/a46203ad-1f50-4b8b-93f5-af7bff2ec40c/grid_0.png"
+  },
+  {
+    prompt: "Purple Wasteland",
+    link: "https://mj-gallery.com/c0379ed1-8daa-4cf1-a03b-ae800ce70304/grid_0.png"
+  },
+  {
+    prompt: "Bane Breaks the Bat",
+    link: "https://mj-gallery.com/1ccf6bf6-fe8d-44ca-8fc5-0f1a3449107a/grid_0.png"
+  },
+  {
+    prompt: "Uproarious Celebration",
+    link: "https://mj-gallery.com/75c25ee9-4702-4b79-b03b-aab5dcbb8667/grid_0.png"
+  },
+  {
+    prompt: "Ghost Evades Arrest",
+    link: "https://mj-gallery.com/ec5759ef-737e-45ea-ab87-96de59662068/grid_0.png"
+  },
+  {
+    prompt: "Ghost Evades Arrest",
+    link: "https://mj-gallery.com/2895dc04-869b-4324-be38-b685f09027a9/grid_0.png"
+  },
+  {
+    prompt: "Gelato Cake",
+    link: "https://mj-gallery.com/8263331a-50e7-4882-a3f5-75ea92843f99/grid_0.png"
+  },
+  {
+    prompt: "Gelato Cake",
+    link: "https://mj-gallery.com/c45ab330-f8f5-4f63-bf23-d3c954961769/grid_0.png"
+  },
+  {
+    prompt: "Pigs From Space",
+    link: "https://mj-gallery.com/3baf7e53-2f99-4ca5-b1ac-de9fcee4ff83/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Explosion Cinematic Hyperdetailed Render",
+    link: "https://mj-gallery.com/43280bcf-9c71-4509-88cd-c9414c44af42/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Explosion Cinematic Hyperdetailed Render",
+    link: "https://mj-gallery.com/e60af715-9e39-4928-b370-79d429ec4075/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Explosion Cinematic Hyperdetailed Render",
+    link: "https://mj-gallery.com/4553e7f3-1f80-4b55-8031-1f09f59abc0b/grid_0.png"
+  },
+  {
+    prompt: "Cosmic Gumbo",
+    link: "https://mj-gallery.com/44f7db89-8b05-476b-9b10-c8ef3a756047/grid_0.png"
+  },
+  {
+    prompt: "Cracking the Vault",
+    link: "https://mj-gallery.com/8d8d34c0-1ca8-41b4-ad6d-fb3b69c32d51/grid_0.png"
+  },
+  {
+    prompt: "Cracking the Vault",
+    link: "https://mj-gallery.com/a5188d1e-794e-4f7b-adc4-f30647aa7054/grid_0.png"
+  },
+  {
+    prompt: "Princess Peach Hyperdetailed Realistic Render",
+    link: "https://mj-gallery.com/89f447de-a233-4e44-8d09-56d30ffd2de3/grid_0.png"
+  },
+  {
+    prompt: "Princess Peach Hyperdetailed Realistic Render",
+    link: "https://mj-gallery.com/c41e31b9-44a8-4ba1-9a69-e32aeeaaa862/grid_0.png"
+  },
+  {
+    prompt: "Princess Peach Hyperdetailed Realistic Render",
+    link: "https://mj-gallery.com/872c28ba-eed2-4c0f-9a1b-b7de4f3c2533/grid_0.png"
+  },
+  {
+    prompt: "Invention of the Internet",
+    link: "https://mj-gallery.com/ed43f235-277b-4f2d-94a8-48c2faa39bdc/grid_0.png"
+  },
+  {
+    prompt: "Invention of the Internet",
+    link: "https://mj-gallery.com/e842f84c-b1ae-4169-b72b-73adfb087b4f/grid_0.png"
+  },
+  {
+    prompt: "Invention of the Internet",
+    link: "https://mj-gallery.com/023274af-0422-41e0-82be-99c25078e671/grid_0.png"
+  },
+  {
+    prompt: "Invention of the Internet",
+    link: "https://mj-gallery.com/b9ee5ba4-bff8-4304-a35b-af5293ee711f/grid_0.png"
+  },
+  {
+    prompt: "VATS Interface",
+    link: "https://mj-gallery.com/9447977a-7e29-4c54-bb70-ae18205eb14a/grid_0.png"
+  },
+  {
+    prompt: "Stack of Money",
+    link: "https://mj-gallery.com/e47b4016-4b42-4023-aff6-094d064098c0/grid_0.png"
+  },
+  {
+    prompt: "Stack of Money",
+    link: "https://mj-gallery.com/b9b6f866-4689-40ff-90f3-a3d95760a94c/grid_0.png"
+  },
+  {
+    prompt: "Computer Prisoners",
+    link: "https://mj-gallery.com/907b0edf-00f2-4c07-b671-90fa1f1abbc1/grid_0.png"
+  },
+  {
+    prompt: "Creatures of the Moon Synth",
+    link: "https://mj-gallery.com/473bcfa3-4654-4b98-9a7a-59eba269c20a/grid_0.png"
+  },
+  {
+    prompt: "Creatures of the Moon Synth",
+    link: "https://mj-gallery.com/8af97ce5-a8a9-4aa6-9002-fa263d147bcd/grid_0.png"
+  },
+  {
+    prompt: "Creatures of the Moon Synth",
+    link: "https://mj-gallery.com/6439af78-20b0-4e43-8ae8-ee1dab4e45f0/grid_0.png"
+  },
+  {
+    prompt: "Creatures of the Moon Synth",
+    link: "https://mj-gallery.com/cea67083-71b4-445b-9f7e-a1f22a51c036/grid_0.png"
+  },
+  {
+    prompt: "Creatures of the Moon Synth",
+    link: "https://mj-gallery.com/ca27c94e-feaa-4fe1-84f8-7cf2c55fb092/grid_0.png"
+  },
+  {
+    prompt: "Wading Through a Swamp",
+    link: "https://mj-gallery.com/0d78d63a-33c8-43a3-84ab-a1e44f6c0dc0/grid_0.png"
+  },
+  {
+    prompt: "Damnation on Earth",
+    link: "https://mj-gallery.com/c47c19bf-bffb-43fe-a6ce-a9f8e93d7a3e/grid_0.png"
+  },
+  {
+    prompt: "Damnation on Earth",
+    link: "https://mj-gallery.com/c2195d21-ad59-47e6-9bcf-ffbc077b2f36/grid_0.png"
+  },
+  {
+    prompt: "Damnation on Earth",
+    link: "https://mj-gallery.com/5e27532a-b732-4f94-be17-62d7c1b6d8ba/grid_0.png"
+  },
+  {
+    prompt: "Damnation on Earth",
+    link: "https://mj-gallery.com/fd04327f-c645-4a4e-8d03-c20fa0bcd595/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/4d74c457-f638-4108-a949-57a836a5fe40/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/a9e9bfe7-9fe6-4f6e-902d-2a5fb4388f91/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/4b718db0-1ed7-4dfd-871a-cebc2580ce89/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/6db7a3ab-0759-47d2-8e3d-b6f7db787eb3/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/f366af1c-07a9-49a7-8e0b-b039d2b24bcd/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/1046f654-0a46-4372-a773-f994d7a35787/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/74295c26-dfd4-4c6a-9a57-87fd3cea4f79/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/501931b3-3acf-40f5-9903-7ff6cd87ab80/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/8f866154-9a20-411f-88f2-75b883ee5dbd/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/b0563dde-d815-4d97-949a-cb27a5440545/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/7aff875e-fbdd-4530-b1e6-5d6d3391530f/grid_0.png"
+  },
+  {
+    prompt: "Legendary Creature",
+    link: "https://mj-gallery.com/36894999-0523-40d9-92f1-7b4962a3bc13/grid_0.png"
+  },
+  {
+    prompt: "Legendary Creature",
+    link: "https://mj-gallery.com/f5d10ac1-772f-4531-a7f7-b6e989d25b24/grid_0.png"
+  },
+  {
+    prompt: "Legendary Creature",
+    link: "https://mj-gallery.com/261f4d6b-00b3-4604-92fa-fb368ede2ed5/grid_0.png"
+  },
+  {
+    prompt: "Legendary Creature",
+    link: "https://mj-gallery.com/5d46ce99-6770-4af3-a2b4-88774273abe5/grid_0.png"
+  },
+  {
+    prompt: "Legendary Creature",
+    link: "https://mj-gallery.com/3f73b1e6-63b3-41a6-92f6-57cb58dcab30/grid_0.png"
+  },
+  {
+    prompt: "Legendary Creature",
+    link: "https://mj-gallery.com/889ad7c9-ea44-4984-9d7b-22ee35823647/grid_0.png"
+  },
+  {
+    prompt: "Legendary Creature",
+    link: "https://mj-gallery.com/e44d6a46-4b05-4350-8c95-bdd4026540c9/grid_0.png"
+  },
+  {
+    prompt: "Acid Rain",
+    link: "https://mj-gallery.com/87df7ccc-5c66-46ed-a22f-838c468c2b0e/grid_0.png"
+  },
+  {
+    prompt: "Acid Rain",
+    link: "https://mj-gallery.com/74cda4d9-d644-40fa-b429-a589cd2fde80/grid_0.png"
+  },
+  {
+    prompt: "Spewing Acid",
+    link: "https://mj-gallery.com/ffe71d35-3bf0-4f52-b926-2dd5d4449d7d/grid_0.png"
+  },
+  {
+    prompt: "Spewing Acid",
+    link: "https://mj-gallery.com/cf270257-0ac4-4ba4-a522-fad6d8f756dc/grid_0.png"
+  },
+  {
+    prompt: "Spewing Acid",
+    link: "https://mj-gallery.com/21384220-0fa1-4ae3-b77c-150153d07dd4/grid_0.png"
+  },
+  {
+    prompt: "Spewing Acid",
+    link: "https://mj-gallery.com/65bbb86d-5a27-4b03-86e9-3fb6a940b2ee/grid_0.png"
+  },
+  {
+    prompt: "Spewing Acid",
+    link: "https://mj-gallery.com/26ce5120-62f9-4beb-8d74-93fca9ae0dc9/grid_0.png"
+  },
+  {
+    prompt: "Spewing Acid",
+    link: "https://mj-gallery.com/2f863e8c-3d8a-4c47-a6a7-2b16c8716737/grid_0.png"
+  },
+  {
+    prompt: "Spewing Acid",
+    link: "https://mj-gallery.com/70004a3c-3a7c-4c83-81f9-d451925f28f1/grid_0.png"
+  },
+  {
+    prompt: "Spewing Acid",
+    link: "https://mj-gallery.com/fef1ba62-8b94-49df-b242-ad6c61320a1c/grid_0.png"
+  },
+  {
+    prompt: "Spewing Acid",
+    link: "https://mj-gallery.com/6cb0a447-8570-4a9e-bf18-02b8758b4fc9/grid_0.png"
+  },
+  {
+    prompt: "Cat Having Hairball",
+    link: "https://mj-gallery.com/920f8e39-ef9b-4e19-8886-c8977b1b1d57/grid_0.png"
+  },
+  {
+    prompt: "Waluigi",
+    link: "https://mj-gallery.com/0bf3deed-67bf-4237-b519-a0e02f8a7827/grid_0.png"
+  },
+  {
+    prompt: "Cat Having Hairball",
+    link: "https://mj-gallery.com/50cf8f4b-579c-4fad-83e8-8da5f5c4e0d0/grid_0.png"
+  },
+  {
+    prompt: "Waluigi",
+    link: "https://mj-gallery.com/2e947584-7d98-491d-9cb7-242fb7d49adf/grid_0.png"
+  },
+  {
+    prompt: "Waluigi",
+    link: "https://mj-gallery.com/0f0dc89f-e611-4e24-81e1-b032eda893f1/grid_0.png"
+  },
+  {
+    prompt: "Waluigi",
+    link: "https://mj-gallery.com/002b5e62-2eab-4cd8-8f4c-d51d801dc9fa/grid_0.png"
+  },
+  {
+    prompt: "Waluigi",
+    link: "https://mj-gallery.com/1d50333a-6c7e-4290-946f-baaf478f386c/grid_0.png"
+  },
+  {
+    prompt: "Waluigi",
+    link: "https://mj-gallery.com/9845ed2a-a039-43c6-9faa-7efe91013590/grid_0.png"
+  },
+  {
+    prompt: "Waluigi",
+    link: "https://mj-gallery.com/74b99629-38e1-463b-856d-1248b160d161/grid_0.png"
+  },
+  {
+    prompt: "Trolling Online",
+    link: "https://mj-gallery.com/328c6fc3-5030-4056-99fa-97f86df3c3a6/grid_0.png"
+  },
+  {
+    prompt: "Trolling Online",
+    link: "https://mj-gallery.com/28fa94e3-0736-4f8b-ac9a-956e1723ba3b/grid_0.png"
+  },
+  {
+    prompt: "Trolling Online",
+    link: "https://mj-gallery.com/57abd4fb-3c5b-4273-8747-b6facc3f9afa/grid_0.png"
+  },
+  {
+    prompt: "Trolling Online",
+    link: "https://mj-gallery.com/7c54effa-c889-4388-ab04-f72e31a68645/grid_0.png"
+  },
+  {
+    prompt: "Taxing the Poor",
+    link: "https://mj-gallery.com/e4883a62-863f-4dae-8912-60c4c1fc634e/grid_0.png"
+  },
+  {
+    prompt: "Waterfalls from Heaven",
+    link: "https://mj-gallery.com/dc0f03c2-ae11-40e3-b28d-f3dfbf27a483/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/4d74c457-f638-4108-a949-57a836a5fe40/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/b30fd442-861d-478c-b0e0-2200bfeac56f/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/3a9f146c-e994-4ea4-a314-606231e67254/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/a815827c-3d9d-4c3f-a875-c7d51a8564a6/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/7bff2f8d-8888-45c2-9180-7f49891ec74b/grid_0.png"
+  },
+  {
+    prompt: "Magic the Gathering",
+    link: "https://mj-gallery.com/b822b788-f15f-4ad5-a828-fb2a2b203771/grid_0.png"
+  },
+  {
+    prompt: "Vial of Immortality",
+    link: "https://mj-gallery.com/a6f5157e-835f-4111-98ff-71a557e4754a/grid_0.png"
+  },
+  {
+    prompt: "Vial of Immortality",
+    link: "https://mj-gallery.com/7c0ebcf3-e47d-4ca8-9ac8-5a93ce2ffab9/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Swamp",
+    link: "https://mj-gallery.com/4155bd3b-3bd2-4d44-88bb-33ccd657a011/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Swamp",
+    link: "https://mj-gallery.com/c2c6f507-8b6b-40f4-8f26-b0b89fc1f534/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Swamp",
+    link: "https://mj-gallery.com/a929e751-a4a3-4249-8435-183adc77dfb1/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Swamp",
+    link: "https://mj-gallery.com/8988d105-4651-478b-9f69-49662ae3862c/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Plains",
+    link: "https://mj-gallery.com/39525c59-9afe-4b81-8efb-2f27ba039ced/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Plains",
+    link: "https://mj-gallery.com/aaf17345-61a6-4abd-a09e-3a2331bb3f5c/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Forest",
+    link: "https://mj-gallery.com/1a96c0ac-8cad-4d3f-a497-e7ac1536c810/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Forest",
+    link: "https://mj-gallery.com/223ac89e-cc56-4394-a4cb-e26cce6943be/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Forest",
+    link: "https://mj-gallery.com/74642ad2-3105-48b6-aa33-e2b4e8467dc7/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Mountain",
+    link: "https://mj-gallery.com/26c59908-ed74-4317-b197-d603a3b1fb5b/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Mountain",
+    link: "https://mj-gallery.com/e6612fe0-1662-4c26-8592-a9a2b3313652/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Mountain",
+    link: "https://mj-gallery.com/ae356aff-c5e1-46ba-bf63-84d0e81595f4/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Island",
+    link: "https://mj-gallery.com/12f9587b-9d95-48a2-b936-cbf2c5c09fda/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Island",
+    link: "https://mj-gallery.com/d3f7bf87-b157-4870-9fc5-09b224dbe0e4/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Island",
+    link: "https://mj-gallery.com/a5d730c4-2b43-413c-99d9-81c0c20091f0/grid_0.png"
+  },
+  {
+    prompt: "Elden Forest",
+    link: "https://mj-gallery.com/0214a729-3cec-4709-acc7-9dd7322880b3/grid_0.png"
+  },
+  {
+    prompt: "Elden Mountain",
+    link: "https://mj-gallery.com/2ce8c24c-0d1d-4290-ade0-6c5bae7e663e/grid_0.png"
+  },
+  {
+    prompt: "Elden Island",
+    link: "https://mj-gallery.com/4ae9fb16-d806-42cb-bc5e-646e39ee4a2d/grid_0.png"
+  },
+  {
+    prompt: "Elden Swamp",
+    link: "https://mj-gallery.com/f2b849af-b61a-4fbd-89d8-88fae32bdecb/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Plains",
+    link: "https://mj-gallery.com/6e40292e-ec44-47f3-9342-fec60366a544/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Plains",
+    link: "https://mj-gallery.com/0e5161f4-d74d-4efd-97d5-620d957f8e69/grid_0.png"
+  },
+  {
+    prompt: "Elden Swamp",
+    link: "https://mj-gallery.com/3bced3c7-1e19-40f9-8351-ce04602e4f15/grid_0.png"
+  },
+  {
+    prompt: "Elden Island",
+    link: "https://mj-gallery.com/0e8e2969-9d4c-401e-bf11-aa0ae423523e/grid_0.png"
+  },
+  {
+    prompt: "Elden Swamp",
+    link: "https://mj-gallery.com/29909241-b8ec-4bbf-a7a3-269aa0523965/grid_0.png"
+  },
+  {
+    prompt: "Goblin Steals Loot",
+    link: "https://mj-gallery.com/0a2e8fb6-c999-4857-a1dd-128f80aa4c75/grid_0.png"
+  },
+  {
+    prompt: "Goblin Steals Loot",
+    link: "https://mj-gallery.com/96b5c9da-e14b-4d0f-9175-baec062226fe/grid_0.png"
+  },
+  {
+    prompt: "Elden Plains",
+    link: "https://mj-gallery.com/78c9245e-a397-40fe-b362-2e0c2a49f4ac/grid_0.png"
+  },
+  {
+    prompt: "Elden Plains",
+    link: "https://mj-gallery.com/912c10c8-2475-4907-913a-593b496d13cf/grid_0.png"
+  },
+  {
+    prompt: "Elden Forest",
+    link: "https://mj-gallery.com/b4b6aa48-c4eb-44b0-9696-7ba2f15560ba/grid_0.png"
+  },
+  {
+    prompt: "Elden Mountain",
+    link: "https://mj-gallery.com/48ba3a83-8ebb-4ca5-bb8e-6cb01227ccc3/grid_0.png"
+  },
+  {
+    prompt: "Elden Mountain",
+    link: "https://mj-gallery.com/9300ce73-42d8-42d9-ae97-66caffdb7be3/grid_0.png"
+  },
+  {
+    prompt: "Elden Mountain",
+    link: "https://mj-gallery.com/0c6924b2-34b8-4469-95ef-4a4d7ae1c98d/grid_0.png"
+  },
+  {
+    prompt: "Elden Island",
+    link: "https://mj-gallery.com/67c81586-7a36-42c2-9620-f3681b988f51/grid_0.png"
+  },
+  {
+    prompt: "Elden Island",
+    link: "https://mj-gallery.com/53cdc792-f4e6-46bb-a8fe-f89680de32bb/grid_0.png"
+  },
+  {
+    prompt: "Elden Island",
+    link: "https://mj-gallery.com/beedc98b-c156-4e2a-bfa6-d12f7356632a/grid_0.png"
+  },
+  {
+    prompt: "Elden Swamp",
+    link: "https://mj-gallery.com/e32f4530-1cc9-439e-95f3-fc89f4efbe9a/grid_0.png"
   }
 ];
 
