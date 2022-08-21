@@ -1,6 +1,6 @@
 import { initialCards } from "./initialCards.js";
 import { Card } from "./Card.js";
-import { shuffle } from "./index.js";
+import { shuffle } from "../src/index.js";
 
 const numberOfItems = initialCards.length;
 const numberPerPage = 90;

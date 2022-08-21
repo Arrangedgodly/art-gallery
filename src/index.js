@@ -1,5 +1,6 @@
-import { initialCards } from "./initialCards.js";
-import { fishImages } from "./fishImages.js";
+import "./styles/index.css";
+import { initialCards } from "../scripts/initialCards.js";
+import { fishImages } from "../scripts/fishImages.js";
 
 console.log(initialCards.length);
 console.log(fishImages.length);
