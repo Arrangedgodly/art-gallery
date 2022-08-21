@@ -9,6 +9,11 @@ const cards = document.querySelector(".cards");
 
 shuffle(initialCards);
 
+function getNumberOfPages(array) {
+  const arrayLength = array.length;
+  return Math.ceil(arrayLength / numberPerPage);
+}
+
 function retrievePageArray(currPage, array) {
   let trimStart;
   if (currPage === 1) {
@@ -23,7 +28,7 @@ function retrievePageArray(currPage, array) {
 }
 
 const buildPages = (array) => {
-for (let i = 1; i < numberOfPages + 1; i++) {
+for (let i = 1; i < getNumberOfPages(array) + 1; i++) {
   const pageTemplate = document
     .querySelector("#page")
     .content.querySelector(".page")

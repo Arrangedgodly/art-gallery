@@ -1,4 +1,3 @@
-import { Card } from "./Card.js";
 import { initialCards } from "./initialCards.js";
 import { fishImages } from "./fishImages.js";
 
