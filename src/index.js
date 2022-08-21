@@ -1,6 +1,9 @@
+import "./vendor/normalize.css";
 import "./styles/index.css";
-import { initialCards } from "../scripts/initialCards.js";
-import { fishImages } from "../scripts/fishImages.js";
+import { initialCards } from "./scripts/initialCards.js";
+import { fishImages } from "./scripts/fishImages.js";
+import { buildPages, checkArrows, changePages, handleRefreshButton, handleSortButton, searchCards } from "./scripts/page.js";
+import { escapeKeyHandler } from "./scripts/utlis.js";
 
 console.log(initialCards.length);
 console.log(fishImages.length);
@@ -31,3 +34,50 @@ function changeHeaderImages() {
 }
 
 setInterval(changeHeaderImages, 1000);
+
+let projectCount = 0;
+const leftArrow = document.querySelector(".fa-arrow-left");
+const rightArrow = document.querySelector(".fa-arrow-right");
+
+buildPages(initialCards);
+checkArrows(projectCount);
+
+rightArrow.addEventListener("click", () => changePages(1));
+leftArrow.addEventListener("click", () => changePages(-1));
+
+const refreshButton = document.querySelector(".refresh");
+refreshButton.addEventListener("click", handleRefreshButton);
+
+let sortCounter = 0;
+const sortButton = document.querySelector(".sort");
+sortButton.addEventListener("click", handleSortButton);
+
+const searchForm = document.querySelector(".search-form");
+const search = searchForm.querySelector(".search");
+
+search.addEventListener("keyup", () => {
+  cards.innerHTML = "";
+  projectCount = 0;
+  checkArrows(projectCount);
+  const searchedArray = [];
+  initialCards.forEach(element => {
+    if (searchCards(element) === true) {
+      searchedArray.push(element);
+    }
+  });
+  buildPages(searchedArray);
+});
+
+searchForm.addEventListener("submit", (evt) => {
+  evt.preventDefault();
+})
+
+document.addEventListener("keydown", escapeKeyHandler);
+
+document.addEventListener("mouseup", (e) => {
+  let openedModal = document.querySelector(".modal_opened");
+  if (openedModal === null) {return;}
+  else if (e.target === openedModal) {
+    openedModal.classList.remove("modal_opened");
+  };
+});

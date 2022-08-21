@@ -1,6 +1,6 @@
 import { initialCards } from "./initialCards.js";
 import { Card } from "./Card.js";
-import { shuffle } from "../src/index.js";
+import { shuffle } from "../index.js";
 
 const numberOfItems = initialCards.length;
 const numberPerPage = 90;
@@ -27,7 +27,7 @@ function retrievePageArray(currPage, array) {
   return cardArray;
 }
 
-const buildPages = (array) => {
+export const buildPages = (array) => {
 for (let i = 1; i < getNumberOfPages(array) + 1; i++) {
   const pageTemplate = document
     .querySelector("#page")
@@ -49,13 +49,11 @@ for (let i = 1; i < getNumberOfPages(array) + 1; i++) {
 }
 }
 
-buildPages(initialCards);
-
 let projectCount = 0;
 const leftArrow = document.querySelector(".fa-arrow-left");
 const rightArrow = document.querySelector(".fa-arrow-right");
 
-function checkArrows(num) {
+export function checkArrows(num) {
   if (num === 0) {
     leftArrow.setAttribute("style", "opacity: 0;");
     leftArrow.setAttribute("disabled", "true");
@@ -72,9 +70,7 @@ function checkArrows(num) {
   }
 }
 
-checkArrows(projectCount);
-
-function changePages(num) {
+export function changePages(num) {
   const activePage = document.querySelector(`.page-${projectCount + 1}`);
   const nextPage = document.querySelector(`.page-${projectCount + 2}`);
   const previousPage = document.querySelector(`.page-${projectCount}`);
@@ -100,12 +96,7 @@ function changePages(num) {
   checkArrows(projectCount);
 }
 
-rightArrow.addEventListener("click", () => changePages(1));
-leftArrow.addEventListener("click", () => changePages(-1));
-
-const refreshButton = document.querySelector(".refresh");
-
-const handleRefreshButton = () => {
+export const handleRefreshButton = () => {
   shuffle(initialCards);
   cards.innerHTML = "";
   buildPages(initialCards);
@@ -113,12 +104,9 @@ const handleRefreshButton = () => {
   checkArrows(projectCount);
 }
 
-refreshButton.addEventListener("click", handleRefreshButton);
-
 let sortCounter = 0;
-const sortButton = document.querySelector(".sort");
 
-function handleSortButton() {
+export function handleSortButton() {
   cards.innerHTML = "";
   projectCount = 0;
   checkArrows(projectCount);
@@ -141,12 +129,10 @@ function handleSortButton() {
   buildPages(initialCards);
 }
 
-sortButton.addEventListener("click", handleSortButton);
-
 const searchForm = document.querySelector(".search-form");
 const search = searchForm.querySelector(".search");
 
-const searchCards = (data) => {
+export const searchCards = (data) => {
   const prompt = data.prompt.toLowerCase();
   const value = search.value.toLowerCase();
   if (prompt.includes(value)) {
@@ -156,20 +142,3 @@ const searchCards = (data) => {
     return false;
   }
 }
-
-search.addEventListener("keyup", () => {
-  cards.innerHTML = "";
-  projectCount = 0;
-  checkArrows(projectCount);
-  const searchedArray = [];
-  initialCards.forEach(element => {
-    if (searchCards(element) === true) {
-      searchedArray.push(element);
-    }
-  });
-  buildPages(searchedArray);
-});
-
-searchForm.addEventListener("submit", (evt) => {
-  evt.preventDefault();
-})

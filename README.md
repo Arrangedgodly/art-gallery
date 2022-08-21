@@ -5,13 +5,27 @@
 - Images are generated via a premium Midjourney subscription and logged in a collection JSON file. JavaScript classes are utilized to generate the 'cards' on the page based on the JSON content.
 - **New Additions**
   * *Pagination*
-    - Pages are loaded discretely in the background simulateously. The user is displayed 90 images at a time, but once all images have been loaded, you can change between pages without entirely refreshing the content on the page
-  * *Refresh Button*
-    - Allows you to randomize the order the images are displayed across all pages. This function is also discretely called every time the page is refreshed, to ensure users get a fresh experience on each revisit
-  * *Sort Button*
-    - Has 2 alternative click functions. On first click, the images are sorted via their prompts A-Z. On second click, they are sorted Z-A
   * *Search Bar*
-    - Whenever a user types in the search, the page live updates to only include images with the user's query inside of the prompts.
+  * *Refresh Button*
+  * *Sort Button*
+
+## Updates
+  - *V. 1.0.5*
+    * Began reworking the project to build through Node, utilizing Webpack, Babel, and HTML/CSS Loaders with Nanofication and Autoprefixing.
+  - *V. 1.0.4*
+    * Added Pagination to the projects design.
+      - Pages are loaded discretely in the background simulateously. The user is displayed 90 images at a time, but once all images have been loaded, you can change between pages without entirely refreshing the content on the page
+  - *V. 1.0.3*
+    * Added the Search Bar functionality to the website.
+      - Whenever a user types in the search, the page live updates to only include images with the user's query inside of the prompts.
+  - *V. 1.0.2*
+    * Added the Sort and Reset Buttons to the website.
+      - Sort Button
+        * Has 2 alternative click functions. On first click, the images are sorted via their prompts A-Z. On second click, they are sorted Z-A
+      - Refresh Button
+        * Allows you to randomize the order the images are displayed across all pages. This function is also discretely called every time the page is refreshed, to ensure users get a fresh experience on each revisit
+  - *V. 1.0.1*
+    * First major release changes, mainly style centered. Dropped number of cards of the site from 150 to 90 to decrease load times, and rolled out a number of changes to optimize mobile viewing experience.
 
 ## Ideas for the Future
 - *Public Voting*
