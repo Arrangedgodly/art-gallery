@@ -128,17 +128,3 @@ export function handleSortButton() {
     }
   buildPages(initialCards);
 }
-
-const searchForm = document.querySelector(".search-form");
-const search = searchForm.querySelector(".search");
-
-export const searchCards = (data) => {
-  const prompt = data.prompt.toLowerCase();
-  const value = search.value.toLowerCase();
-  if (prompt.includes(value)) {
-    return true;
-  }
-  else {
-    return false;
-  }
-}

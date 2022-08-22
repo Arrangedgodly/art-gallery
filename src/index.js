@@ -2,11 +2,12 @@ import "./vendor/normalize.css";
 import "./styles/index.css";
 import { initialCards } from "./scripts/initialCards.js";
 import { fishImages } from "./scripts/fishImages.js";
-import { buildPages, checkArrows, changePages, handleRefreshButton, handleSortButton, searchCards } from "./scripts/page.js";
+import { buildPages, checkArrows, changePages, handleRefreshButton, handleSortButton } from "./scripts/page.js";
 import { escapeKeyHandler } from "./scripts/utlis.js";
 
 console.log(initialCards.length);
 console.log(fishImages.length);
+const cards = document.querySelector(".cards");
 
 export function shuffle(array) {
   let currentIndex = array.length,  randomIndex;
@@ -54,6 +55,17 @@ sortButton.addEventListener("click", handleSortButton);
 
 const searchForm = document.querySelector(".search-form");
 const search = searchForm.querySelector(".search");
+
+const searchCards = (data) => {
+  const prompt = data.prompt.toLowerCase();
+  const value = search.value.toLowerCase();
+  if (prompt.includes(value)) {
+    return true;
+  }
+  else {
+    return false;
+  }
+}
 
 search.addEventListener("keyup", () => {
   cards.innerHTML = "";
