@@ -3950,11 +3950,375 @@ export const initialCards = [
   {
     prompt: "Elden Swamp",
     link: "https://mj-gallery.com/e32f4530-1cc9-439e-95f3-fc89f4efbe9a/grid_0.png"
+  },
+  {
+    prompt: "Elden Forest",
+    link: "https://mj-gallery.com/63a4953b-f2c9-493d-a31b-c117087610bf/grid_0.png"
+  },
+  {
+    prompt: "Mystic Forest",
+    link: "https://mj-gallery.com/05061470-50df-479f-afb7-15ecab0732f4/grid_0.png"
+  },
+  {
+    prompt: "Mystic Forest",
+    link: "https://mj-gallery.com/437b28f5-e2d7-4ae0-bdeb-88ffd2f0ac74/grid_0.png"
+  },
+  {
+    prompt: "Mystic Island",
+    link: "https://mj-gallery.com/85fa5129-6302-49e4-9800-8beb61992004/grid_0.png"
+  },
+  {
+    prompt: "Mystic Island",
+    link: "https://mj-gallery.com/0ad77d14-22e3-46cf-bb09-dbd31035a3c5/grid_0.png"
+  },
+  {
+    prompt: "Mystic Swamp",
+    link: "https://mj-gallery.com/b7e42443-c702-4b08-a3aa-887902b0cbda/grid_0.png"
+  },
+  {
+    prompt: "Mystic Plains",
+    link: "https://mj-gallery.com/c5af1888-ffe9-4ce6-ade7-d85df9cb933a/grid_0.png"
+  },
+  {
+    prompt: "Mystic Plains",
+    link: "https://mj-gallery.com/7aa2b222-18c3-40eb-a14d-89bda0b2a86b/grid_0.png"
+  },
+  {
+    prompt: "Mystic Mountain",
+    link: "https://mj-gallery.com/ff7885e7-b5e5-4e88-a28c-c590938cbc77/grid_0.png"
+  },
+  {
+    prompt: "Mystic Mountain",
+    link: "https://mj-gallery.com/26d7ad98-bdcc-4460-89b8-893b7d0562fd/grid_0.png"
+  },
+  {
+    prompt: "Ethereal Island",
+    link: "https://mj-gallery.com/3f79b853-28c6-4a3c-b00d-6a1952f06459/grid_0.png"
+  },
+  {
+    prompt: "Ethereal Forest",
+    link: "https://mj-gallery.com/7a663139-58ba-4faf-8e28-13629dc994ef/grid_0.png"
+  },
+  {
+    prompt: "Ethreal Mountain",
+    link: "https://mj-gallery.com/d4fd9439-f94f-4883-8dfd-50e9c62d2c37/grid_0.png"
+  },
+  {
+    prompt: "Ethreal Mountain",
+    link: "https://mj-gallery.com/d39d82bf-7ed0-4bb8-af51-6171d463679c/grid_0.png"
+  },
+  {
+    prompt: "Ethereal Swamp",
+    link: "https://mj-gallery.com/b36cf6f1-d4ca-4f6d-9d23-b67e18c10673/grid_0.png"
+  },
+  {
+    prompt: "Ethereal Swamp",
+    link: "https://mj-gallery.com/81be37dd-2904-4b68-abe0-b40afd6e8bf0/grid_0.png"
+  },
+  {
+    prompt: "Ethereal Plains",
+    link: "https://mj-gallery.com/894bc24c-2420-437d-9c70-de3fef327795/grid_0.png"
+  },
+  {
+    prompt: "Mystic Forest",
+    link: "https://mj-gallery.com/72350c4e-322a-430e-9d1d-63fb629fc4a3/grid_0.png"
+  },
+  {
+    prompt: "Mystic Mountain",
+    link: "https://mj-gallery.com/c9b47900-0020-4a76-8b6c-82fa06077d08/grid_0.png"
+  },
+  {
+    prompt: "Mystic Mountain",
+    link: "https://mj-gallery.com/cd25c997-ef40-4135-bcc2-969a13e2fc6a/grid_0.png"
+  },
+  {
+    prompt: "Mystic Island",
+    link: "https://mj-gallery.com/e83d0483-77c4-4bd3-bf95-c3a42d71b4a7/grid_0.png"
+  },
+  {
+    prompt: "Mystic Island",
+    link: "https://mj-gallery.com/acaf0bff-f615-4b81-bdef-5424d2021889/grid_0.png"
+  },
+  {
+    prompt: "Mystic Plains",
+    link: "https://mj-gallery.com/15982367-7860-4f89-ad35-fe25fa87ef81/grid_0.png"
+  },
+  {
+    prompt: "Mystic Plains",
+    link: "https://mj-gallery.com/af75d3ea-af35-4461-924e-73da141e18b0/grid_0.png"
+  },
+  {
+    prompt: "Mystic Swamp",
+    link: "https://mj-gallery.com/513e72ef-544d-48c9-a9ac-93cdc6e5dd07/grid_0.png"
+  },
+  {
+    prompt: "Film Shoot Gone Awry",
+    link: "https://mj-gallery.com/2972fed1-8410-4bb3-9b17-6eb0bbe782ec/grid_0.png"
+  },
+  {
+    prompt: "Lurking Under Bridge",
+    link: "https://mj-gallery.com/d78557c6-6f74-4078-8109-8aef249a3498/grid_0.png"
+  },
+  {
+    prompt: "Nathan Fielder Receives a Nobel Peace Prize",
+    link: "https://mj-gallery.com/e1e32a4c-95e7-4d5d-b6a2-2e9e296b2ff0/grid_0.png"
+  },
+  {
+    prompt: "Eric Andre Interviews Ellen Degeneres",
+    link: "https://mj-gallery.com/a1a14588-4262-4198-afbd-bf1fb39afa2f/grid_0.png"
+  },
+  {
+    prompt: "Nathan for You",
+    link: "https://mj-gallery.com/d8024bb6-a648-4113-85f4-af04cbd8c4e1/grid_0.png"
+  },
+  {
+    prompt: "Damnation on Earth",
+    link: "https://mj-gallery.com/d68a3fbc-1655-4112-b0be-52896f0ce0e9/grid_0.png"
+  },
+  {
+    prompt: "Arresting the Cult",
+    link: "https://mj-gallery.com/876f1d83-3122-41eb-98ea-afa56a92a686/grid_0.png"
+  },
+  {
+    prompt: "Arresting the Cult",
+    link: "https://mj-gallery.com/beddda6f-90c3-4750-bce2-69e8b67e0dd9/grid_0.png"
+  },
+  {
+    prompt: "Fat Man with Beard, Round Glasses, and Baseball Hat",
+    link: "https://mj-gallery.com/7b52154a-1891-4aa2-9347-5f63b1a1d0d3/grid_0.png"
+  },
+  {
+    prompt: "Fat Man with Beard, Round Glasses, and Baseball Hat",
+    link: "https://mj-gallery.com/f895fc20-17fb-4456-b4d6-c518bb6ccb9f/grid_0.png"
+  },
+  {
+    prompt: "Fat Man with Beard, Round Glasses, and Baseball Hat",
+    link: "https://mj-gallery.com/9a4dc35d-3493-4d54-8f9c-68c91b026ebd/grid_0.png"
+  },
+  {
+    prompt: "Bob Odenkirk as John Wick",
+    link: "https://mj-gallery.com/22377d1e-a9ba-4165-87cc-894f4befc4ae/grid_0.png"
+  },
+  {
+    prompt: "Ending the Occult",
+    link: "https://mj-gallery.com/e56782f6-8d58-40f6-912c-157e26bf774b/grid_0.png"
+  },
+  {
+    prompt: "Ending the Occult",
+    link: "https://mj-gallery.com/a1c53cee-aff2-4568-85a0-639a6844cd5a/grid_0.png"
+  },
+  {
+    prompt: "Arresting the Cult",
+    link: "https://mj-gallery.com/23b7751e-ddee-4125-9794-c63ee2fb12a1/grid_0.png"
+  },
+  {
+    prompt: "Enchanted Forest",
+    link: "https://mj-gallery.com/04dc0ca0-9649-43bd-8507-65bfb79a2fdf/grid_0.png"
+  },
+  {
+    prompt: "Enchanted Island",
+    link: "https://mj-gallery.com/0d595e97-5d0b-4c9a-b1aa-8ff537218c3d/grid_0.png"
+  },
+  {
+    prompt: "Enchanted Swamp",
+    link: "https://mj-gallery.com/2fee4f9a-09f5-47bb-b137-981fc6ecfe3a/grid_0.png"
+  },
+  {
+    prompt: "Enchanted Swamp",
+    link: "https://mj-gallery.com/8ff0ec9d-b7f2-41a6-9026-50701ae03ab1/grid_0.png"
+  },
+  {
+    prompt: "Enchanted Plains",
+    link: "https://mj-gallery.com/19b154ec-cece-4df5-8074-4e4adc10fca4/grid_0.png"
+  },
+  {
+    prompt: "Enchanted Forest",
+    link: "https://mj-gallery.com/1028e393-f508-4f9c-b4af-f325dcc180bf/grid_0.png"
+  },
+  {
+    prompt: "Enchanted Mountain",
+    link: "https://mj-gallery.com/e2fa2ada-cce2-4368-83b5-05b5a077b740/grid_0.png"
+  },
+  {
+    prompt: "Enchanted Mountain",
+    link: "https://mj-gallery.com/4eab541a-b3fa-4d38-8afc-a0bf62e50f1c/grid_0.png"
+  },
+  {
+    prompt: "Thralls of the Dungeon",
+    link: "https://mj-gallery.com/f27e03d8-8400-47f4-ad12-5f752c2ee00a/grid_0.png"
+  },
+  {
+    prompt: "Thralls of the Dungeon",
+    link: "https://mj-gallery.com/f944b141-4d51-45ab-82de-b7d2da114045/grid_0.png"
+  },
+  {
+    prompt: "Thralls of the Dungeon",
+    link: "https://mj-gallery.com/d22605fd-a9d2-46ba-90c4-7fd81efcc7e0/grid_0.png"
+  },
+  {
+    prompt: "Thralls of the Dungeon",
+    link: "https://mj-gallery.com/e7957b3a-9b69-4933-a099-3e2291de49b8/grid_0.png"
+  },
+  {
+    prompt: "Thralls of the Dungeon",
+    link: "https://mj-gallery.com/41b59fe8-ef4b-48e5-97fe-69cbd9589773/grid_0.png"
+  },
+  {
+    prompt: "Thralls of the Dungeon",
+    link: "https://mj-gallery.com/b4e8d7de-8364-44d8-929c-4c2d05fb34dc/grid_0.png"
+  },
+  {
+    prompt: "Thralls of the Dungeon",
+    link: "https://mj-gallery.com/b4e1d47a-9807-4f2b-be51-a78f10a7e23b/grid_0.png"
+  },
+  {
+    prompt: "Thralls of the Dungeon",
+    link: "https://mj-gallery.com/bdbd2b72-aa6c-44f2-a140-30c7f9e61ef1/grid_0.png"
+  },
+  {
+    prompt: "Thralls of the Dungeon",
+    link: "https://mj-gallery.com/fc76fab4-80ee-4e3a-8ed0-8e55f08d3c42/grid_0.png"
+  },
+  {
+    prompt: "Denver Colorado 1985",
+    link: "https://mj-gallery.com/36f1320e-f7b4-4b86-9b24-126ff262a4e7/grid_0.png"
+  },
+  {
+    prompt: "Danny Devito on LSD",
+    link: "https://mj-gallery.com/a1bb0402-b85b-4e8b-895c-792b9af6dbcd/grid_0.png"
+  },
+  {
+    prompt: "Danny Devito on LSD",
+    link: "https://mj-gallery.com/bce3de20-b927-4972-b866-b6415c5c62a5/grid_0.png"
+  },
+  {
+    prompt: "Medusa Turning Victims to Stone",
+    link: "https://mj-gallery.com/3b74797f-c1c3-4ceb-a141-5be6fb435d64/grid_0.png"
+  },
+  {
+    prompt: "The Sopranos Anime",
+    link: "https://mj-gallery.com/b03048ac-4cde-4fb6-aac4-4c178da8ec42/grid_0.png"
+  },
+  {
+    prompt: "The Sopranos Anime",
+    link: "https://mj-gallery.com/08e24d97-2441-410a-91f2-7803825d4826/grid_0.png"
+  },
+  {
+    prompt: "Danny Devito on LSD",
+    link: "https://mj-gallery.com/c9b3df9b-93e1-4aab-b762-f3e6bd1d8d65/grid_0.png"
+  },
+  {
+    prompt: "Eating the Sun",
+    link: "https://mj-gallery.com/d4348d75-70db-4ccc-8e0c-e4510caf32dd/grid_0.png"
+  },
+  {
+    prompt: "Bullet Hole Through Dollar Bill",
+    link: "https://mj-gallery.com/21b0394b-3938-4d04-ad5a-03dd2b2541db/grid_0.png"
+  },
+  {
+    prompt: "Crying Clown Dollar Bill",
+    link: "https://mj-gallery.com/53f7e51c-4ba3-4a53-995e-c7e780be49dd/grid_0.png"
+  },
+  {
+    prompt: "Denver Colorado 1985",
+    link: "https://mj-gallery.com/1c81d0a5-c310-490e-8a0d-fb87f712657a/grid_0.png"
+  },
+  {
+    prompt: "Comet Exploding",
+    link: "https://mj-gallery.com/bb8b59a7-8b92-4ac6-b954-de897ae91b5b/grid_0.png"
+  },
+  {
+    prompt: "Comet Exploding",
+    link: "https://mj-gallery.com/1c5dab14-04d5-44b6-a83a-296ce53b049c/grid_0.png"
+  },
+  {
+    prompt: "Comet Exploding",
+    link: "https://mj-gallery.com/5d46e541-e02c-430c-a6a1-447550da372b/grid_0.png"
+  },
+  {
+    prompt: "Windshield Shattered Bullethole",
+    link: "https://mj-gallery.com/9b332b1f-bea5-46c4-bcf6-60aac65787c4/grid_0.png"
+  },
+  {
+    prompt: "Windshield Shattered Bullethole",
+    link: "https://mj-gallery.com/a060f6c7-02de-40ea-8665-c4f72839d7fc/grid_0.png"
+  },
+  {
+    prompt: "Windshield Shattered Bullethole",
+    link: "https://mj-gallery.com/b2f27822-cbc7-4ca8-a380-8bf2f7a2a982/grid_0.png"
+  },
+  {
+    prompt: "Rocket Colliding with Superhero",
+    link: "https://mj-gallery.com/92688e20-fa83-4f18-ab05-004a471c6d16/grid_0.png"
+  },
+  {
+    prompt: "Pouring Water on a Juicy Steak",
+    link: "https://mj-gallery.com/9201544c-9c98-4eee-8fb2-ef1720f81265/grid_0.png"
+  },
+  {
+    prompt: "Cybernetic Dinosaur Playing EDM Concert",
+    link: "https://mj-gallery.com/b825162e-d455-4ace-b325-da408936f66a/grid_0.png"
+  },
+  {
+    prompt: "Cybernetic Dinosaur Playing EDM Concert",
+    link: "https://mj-gallery.com/77381750-3993-4a99-9358-2d492c2a21d6/grid_0.png"
+  },
+  {
+    prompt: "Cybernetic Walrus",
+    link: "https://mj-gallery.com/fbf0e161-5cd8-4600-9830-2307e91cf3dd/grid_0.png"
   }
 ];
 
 /*
 {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
     prompt: "",
     link: ""
   },
