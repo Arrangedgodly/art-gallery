@@ -4266,6 +4266,438 @@ export const initialCards = [
   {
     prompt: "Cybernetic Walrus",
     link: "https://mj-gallery.com/fbf0e161-5cd8-4600-9830-2307e91cf3dd/grid_0.png"
+  },
+  {
+    prompt: "Bass Melt Your Face",
+    link: "https://mj-gallery.com/33d6f219-0c6d-4214-8df4-df71c345120d/grid_0.png"
+  },
+  {
+    prompt: "Bass Melt Your Face",
+    link: "https://mj-gallery.com/24a9b904-05e3-4a9e-af60-9da6b399e70c/grid_0.png"
+  },
+  {
+    prompt: "Bass Melt Your Face",
+    link: "https://mj-gallery.com/950f7bcc-f2cd-4ac6-b65f-c3bdcef39928/grid_0.png"
+  },
+  {
+    prompt: "Two Degenerates",
+    link: "https://mj-gallery.com/bbd07d9a-48ef-435c-a375-1cd861df0e77/grid_0.png"
+  },
+  {
+    prompt: "Two Degenerates",
+    link: "https://mj-gallery.com/2f8440a7-9be6-4e52-82ba-48e8f34eb954/grid_0.png"
+  },
+  {
+    prompt: "Two Degenerates",
+    link: "https://mj-gallery.com/1bb6eef6-98e1-4b3e-a75e-00ae3675e724/grid_0.png"
+  },
+  {
+    prompt: "Vape Lord",
+    link: "https://mj-gallery.com/87fa2ffb-b492-4004-9751-75d73198f796/grid_0.png"
+  },
+  {
+    prompt: "Vape Lord",
+    link: "https://mj-gallery.com/82f3d9f5-1e79-4725-b802-66d59a2fe9a6/grid_0.png"
+  },
+  {
+    prompt: "Vape Lord",
+    link: "https://mj-gallery.com/07c8c8fd-631f-461c-abd5-2ec89c21e233/grid_0.png"
+  },
+  {
+    prompt: "Vape Lord",
+    link: "https://mj-gallery.com/1f9a8047-e81c-4cd3-8842-84d4b8f5ea8b/grid_0.png"
+  },
+  {
+    prompt: "Vape Lord",
+    link: "https://mj-gallery.com/7a0f8615-60bb-42fa-9a1d-ba36d5f86734/grid_0.png"
+  },
+  {
+    prompt: "Vape Lord",
+    link: "https://mj-gallery.com/5d8bfd0d-6ac4-48f0-926f-14334775cde6/grid_0.png"
+  },
+  {
+    prompt: "The Boys are Back in Town",
+    link: "https://mj-gallery.com/32d21915-ed06-44a7-9ce1-753396bf9f08/grid_0.png"
+  },
+  {
+    prompt: "The Boys are Back in Town",
+    link: "https://mj-gallery.com/3de01edd-dee6-4069-9e30-c70ad28ffa58/grid_0.png"
+  },
+  {
+    prompt: "Two Degenerates",
+    link: "https://mj-gallery.com/cdb0f442-0262-4194-ac17-08944f5cdb22/grid_0.png"
+  },
+  {
+    prompt: "Falling into an Endless Hole",
+    link: "https://mj-gallery.com/1349271e-2519-4a8e-86a4-a933ddb36dac/grid_0.png"
+  },
+  {
+    prompt: "Spiraling Out of Control",
+    link: "https://mj-gallery.com/6d090361-5c19-4ae4-b70f-e03f736d391f/grid_0.png"
+  },
+  {
+    prompt: "Mario Hyperdetailed Render",
+    link: "https://mj-gallery.com/db926122-016a-4d6a-ad41-80cf5401cfb7/grid_0.png"
+  },
+  {
+    prompt: "Beetlejuice",
+    link: "https://mj-gallery.com/17208fe9-94a1-40f9-8f3d-b952072b2d42/grid_0.png"
+  },
+  {
+    prompt: "Because the Internet",
+    link: "https://mj-gallery.com/96526d80-655c-4344-8438-d81404293135/grid_0.png"
+  },
+  {
+    prompt: "Because the Internet",
+    link: "https://mj-gallery.com/c55e7f01-c6e0-4f7b-a6bd-612209fde0f8/grid_0.png"
+  },
+  {
+    prompt: "Stoner Kitty",
+    link: "https://mj-gallery.com/1075eeea-40b9-4c40-8e4b-92c40aeb8a26/grid_0.png"
+  },
+  {
+    prompt: "Orange Cat King",
+    link: "https://mj-gallery.com/7f3712b7-4c0f-4a01-b46f-1618992eb1d9/grid_0.png"
+  },
+  {
+    prompt: "Orange Cat King",
+    link: "https://mj-gallery.com/db395c53-ac68-4631-a93f-fa0674edab43/grid_0.png"
+  },
+  {
+    prompt: "Because the Internet",
+    link: "https://mj-gallery.com/4ea85a0a-1b4b-4712-bf2b-6a6a223a69e7/grid_0.png"
+  },
+  {
+    prompt: "King of the Wicked",
+    link: "https://mj-gallery.com/a3f2bfc1-8e5c-46f9-b2a9-acae51c0ac9d/grid_0.png"
+  },
+  {
+    prompt: "Rapper Performing in Hell",
+    link: "https://mj-gallery.com/6143ebd2-2e73-4c51-9906-28058f42693c/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/7e6df62f-8876-4cf0-be0f-566fcae2245d/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/942b2fa1-690a-4612-8be6-338251958152/grid_0.png"
+  },
+  {
+    prompt: "Stoner Kitty",
+    link: "https://mj-gallery.com/45f1ee62-a4d6-4c9e-a2c8-73d99cf5a709/grid_0.png"
+  },
+  {
+    prompt: "Stoner Kitty",
+    link: "https://mj-gallery.com/3432ac94-8e7d-47ba-a3b1-590f7f53e286/grid_0.png"
+  },
+  {
+    prompt: "Rapper Performing in Hell",
+    link: "https://mj-gallery.com/d6377574-5017-406c-9afe-638d22ca63a6/grid_0.png"
+  },
+  {
+    prompt: "King of the Wicked",
+    link: "https://mj-gallery.com/e3b42970-a7a2-4919-a957-16dab91e5999/grid_0.png"
+  },
+  {
+    prompt: "Alley Cats Making a Trade",
+    link: "https://mj-gallery.com/9c03d54a-a5c4-4e55-9466-5dc05efc4ff7/grid_0.png"
+  },
+  {
+    prompt: "Alley Cats Making a Trade",
+    link: "https://mj-gallery.com/a530bfca-439b-428d-80db-466c0c6454d1/grid_0.png"
+  },
+  {
+    prompt: "Rapper Performing in Hell",
+    link: "https://mj-gallery.com/e6695152-e5cc-400f-9d31-2e35293e0c40/grid_0.png"
+  },
+  {
+    prompt: "Rapper Performing in Hell",
+    link: "https://mj-gallery.com/15452dd5-4879-4c99-8bc9-1bbc6b8f9d3e/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/30337c7f-75df-44fd-aca9-aa9f01dd1c6f/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/41ba9b22-9c00-4c88-9438-569fb9c59cd8/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/5a7164d7-0f99-4690-b2dd-79793d076799/grid_0.png"
+  },
+  {
+    prompt: "King Kitty Lord of the Meatsticks",
+    link: "https://mj-gallery.com/a673cc10-5676-4690-8844-6d4e04ba5489/grid_0.png"
+  },
+  {
+    prompt: "King Kitty Lord of the Meatsticks",
+    link: "https://mj-gallery.com/c7125f34-f09d-48bc-a38f-66bfa50c352b/grid_0.png"
+  },
+  {
+    prompt: "Doctor Strange Cat Multiverse",
+    link: "https://mj-gallery.com/22803bed-52ee-402b-b269-f457af245048/grid_0.png"
+  },
+  {
+    prompt: "Rapper Performing in Hell",
+    link: "https://mj-gallery.com/f2caabb4-dfba-4551-8e99-b4c1bced78b4/grid_0.png"
+  },
+  {
+    prompt: "Rapper Performing in Hell",
+    link: "https://mj-gallery.com/74f5d711-fc3c-4692-8866-5c6f17994c42/grid_0.png"
+  },
+  {
+    prompt: "Cat Warlock",
+    link: "https://mj-gallery.com/e876236d-dff8-4061-aca2-d9f7051b75dc/grid_0.png"
+  },
+  {
+    prompt: "Doctor Strange Cat Multiverse",
+    link: "https://mj-gallery.com/0da303dd-8ea1-43da-97b6-fdfc60396d9c/grid_0.png"
+  },
+  {
+    prompt: "Horrors of Christmas",
+    link: "https://mj-gallery.com/97bb3897-d238-487a-a493-437126569424/grid_0.png"
+  },
+  {
+    prompt: "Horrors of Christmas",
+    link: "https://mj-gallery.com/7c33ab53-f346-4ebc-82a3-e5664a274444/grid_0.png"
+  },
+  {
+    prompt: "Falling into Trap",
+    link: "https://mj-gallery.com/7bac2c78-81bb-46f5-a4b5-d873937f5c15/grid_0.png"
+  },
+  {
+    prompt: "Nightmare Before Christmas",
+    link: "https://mj-gallery.com/958644ba-03c5-485b-b2eb-2b9c4b52d7e6/grid_0.png"
+  },
+  {
+    prompt: "Nightmare Before Christmas",
+    link: "https://mj-gallery.com/9afe4490-a982-4399-97b6-dfca3625a85d/grid_0.png"
+  },
+  {
+    prompt: "Love at First Sight",
+    link: "https://mj-gallery.com/2adabaeb-5b1e-42b9-927c-5f7e6ae5ae5c/grid_0.png"
+  },
+  {
+    prompt: "Laughter",
+    link: "https://mj-gallery.com/8444ed22-1d39-4f41-9069-99e8d0aea894/grid_0.png"
+  },
+  {
+    prompt: "Laughter",
+    link: "https://mj-gallery.com/aab0ea0d-21fb-4661-9baf-3dc930d01290/grid_0.png"
+  },
+  {
+    prompt: "Laughter",
+    link: "https://mj-gallery.com/ff707e7f-d6f9-432c-9e64-5b3d2a3a1d6d/grid_0.png"
+  },
+  {
+    prompt: "Laughter",
+    link: "https://mj-gallery.com/6c2ce55c-6e6a-43fe-b65f-000e36e46214/grid_0.png"
+  },
+  {
+    prompt: "Laughter",
+    link: "https://mj-gallery.com/5abc8b8b-f329-4eb5-86f0-289db8d52dc9/grid_0.png"
+  },
+  {
+    prompt: "Laughter",
+    link: "https://mj-gallery.com/54e77eb5-ea37-42b1-b3be-080cc8025dfb/grid_0.png"
+  },
+  {
+    prompt: "Laughter",
+    link: "https://mj-gallery.com/9b1e06b9-68d5-431c-b196-27f3a06e170f/grid_0.png"
+  },
+  {
+    prompt: "Rocky Horror Picture Show",
+    link: "https://mj-gallery.com/0659ee33-40ce-4eeb-b9fc-5d73203fc18c/grid_0.png"
+  },
+  {
+    prompt: "Rocky Horror Picture Show",
+    link: "https://mj-gallery.com/75ec872a-0a13-4069-ab8f-e1706153fcd3/grid_0.png"
+  },
+  {
+    prompt: "Rocky Horror Picture Show",
+    link: "https://mj-gallery.com/68055cf4-4255-46c6-aef9-f4287c92d8bb/grid_0.png"
+  },
+  {
+    prompt: "Rocky Horror Picture Show",
+    link: "https://mj-gallery.com/38fd7670-8d3c-4f5f-989e-20effc05e854/grid_0.png"
+  },
+  {
+    prompt: "Rocky Horror Picture Show",
+    link: "https://mj-gallery.com/8af6706c-fb89-4c1f-a887-e010dbb3dbeb/grid_0.png"
+  },
+  {
+    prompt: "Rocky Horror Picture Show",
+    link: "https://mj-gallery.com/9869c7c3-acc8-44b0-8081-4733f7ac985e/grid_0.png"
+  },
+  {
+    prompt: "Rocky Horror Picture Show",
+    link: "https://mj-gallery.com/b223c623-9fe7-4206-98b4-bc11f748d7ac/grid_0.png"
+  },
+  {
+    prompt: "Lured by Evil",
+    link: "https://mj-gallery.com/bf7ad480-6cbd-413c-a3ef-f05cdee6bc14/grid_0.png"
+  },
+  {
+    prompt: "Lured by Evil",
+    link: "https://mj-gallery.com/d45f6390-e9d7-49af-b558-caf4719ba4c4/grid_0.png"
+  },
+  {
+    prompt: "Laughter",
+    link: "https://mj-gallery.com/bfc53b9e-cd2d-4106-bbc8-209d2b76fbec/grid_0.png"
+  },
+  {
+    prompt: "Chibi, Astro, Elton",
+    link: "https://mj-gallery.com/96c0ef9d-a090-45cb-9d41-4518505ca296/grid_0.png"
+  },
+  {
+    prompt: "Chibi, Astro, Elton",
+    link: "https://mj-gallery.com/be758362-926c-40e3-99de-5018d6c2a9a2/grid_0.png"
+  },
+  {
+    prompt: "Chibi",
+    link: "https://mj-gallery.com/881b2389-4646-4442-ad77-f98fb28d6b4a/grid_0.png"
+  },
+  {
+    prompt: "Chibi",
+    link: "https://mj-gallery.com/6a986506-2060-47c9-aa35-58bf73b532bf/grid_0.png"
+  },
+  {
+    prompt: "Chibi",
+    link: "https://mj-gallery.com/567a50ae-5f17-4805-954a-deed5b18dbee/grid_0.png"
+  },
+  {
+    prompt: "Chibi",
+    link: "https://mj-gallery.com/fd4a84a3-728d-466b-b386-52d320527e2d/grid_0.png"
+  },
+  {
+    prompt: "Chibi",
+    link: "https://mj-gallery.com/6b216e86-9a04-43de-a65f-1770c2141697/grid_0.png"
+  },
+  {
+    prompt: "Elton",
+    link: "https://mj-gallery.com/db8ac9af-168f-44df-bc15-d71092d09f7a/grid_0.png"
+  },
+  {
+    prompt: "Elton",
+    link: "https://mj-gallery.com/7e60f644-cc67-4987-a058-48d73ca90a49/grid_0.png"
+  },
+  {
+    prompt: "Elton",
+    link: "https://mj-gallery.com/dbae7cde-8398-421d-b3ed-d419a83b953c/grid_0.png"
+  },
+  {
+    prompt: "Astro",
+    link: "https://mj-gallery.com/1cd8d11f-4546-4069-8a34-fe9718ddc2f8/grid_0.png"
+  },
+  {
+    prompt: "Chibi, Astro, Elton",
+    link: "https://mj-gallery.com/a68cf655-1176-46c9-8291-f803b783543b/grid_0.png"
+  },
+  {
+    prompt: "Astro",
+    link: "https://mj-gallery.com/74f97ee6-6323-498b-8d86-66f4f544c634/grid_0.png"
+  },
+  {
+    prompt: "Chibi",
+    link: "https://mj-gallery.com/e773dfa3-4ca8-4bb5-bf64-6d6ffbcb0bfe/grid_0.png"
+  },
+  {
+    prompt: "Astro",
+    link: "https://mj-gallery.com/45ed5d67-edfe-47ac-af40-be02f68508ed/grid_0.png"
+  },
+  {
+    prompt: "Love at First Sight",
+    link: "https://mj-gallery.com/8132ee91-161f-4adb-8703-f315e5716344/grid_0.png"
+  },
+  {
+    prompt: "Love at First Sight",
+    link: "https://mj-gallery.com/37173bed-b2e6-4459-9244-a4243cb89269/grid_0.png"
+  },
+  {
+    prompt: "Love at First Sight",
+    link: "https://mj-gallery.com/08524e7d-947b-4a06-aa9f-a4693cc90c1c/grid_0.png"
+  },
+  {
+    prompt: "Falling into Trap",
+    link: "https://mj-gallery.com/53bee535-6369-473e-888e-ee88215b23fb/grid_0.png"
+  },
+  {
+    prompt: "The Stars Align",
+    link: "https://mj-gallery.com/63d6f886-0a07-4fe8-8ff3-7a1108e12e4e/grid_0.png"
+  },
+  {
+    prompt: "The Stars Align",
+    link: "https://mj-gallery.com/da7f819d-95f6-4595-b42e-4a0f5ead6171/grid_0.png"
+  },
+  {
+    prompt: "The Stars Align",
+    link: "https://mj-gallery.com/e51434e2-c430-4611-95ce-b0b85a930573/grid_0.png"
+  },
+  {
+    prompt: "The Stars Align",
+    link: "https://mj-gallery.com/9a94e7d0-d781-4def-8ee6-b7f2657a5de7/grid_0.png"
+  },
+  {
+    prompt: "The Stars Align",
+    link: "https://mj-gallery.com/cdb8a538-40b4-4ee8-bf62-10f5b286407d/grid_0.png"
+  },
+  {
+    prompt: "Fallout Shelter",
+    link: "https://mj-gallery.com/f35a39dc-d8de-4237-af48-cf28a3482a31/grid_0.png"
+  },
+  {
+    prompt: "Fallout Shelter",
+    link: "https://mj-gallery.com/298b80b0-1605-4e1d-85ec-9e1f6c6868a8/grid_0.png"
+  },
+  {
+    prompt: "Fallout Shelter",
+    link: "https://mj-gallery.com/44f80b1e-6667-446f-8b0e-0c2f107e4188/grid_0.png"
+  },
+  {
+    prompt: "Winged Beast",
+    link: "https://mj-gallery.com/f33ed8bc-fa4e-4dbf-a0d5-f0ce96bc8f0f/grid_0.png"
+  },
+  {
+    prompt: "Winged Beast",
+    link: "https://mj-gallery.com/ed9b737e-488b-4193-887b-45f29d4ada6a/grid_0.png"
+  },
+  {
+    prompt: "Winged Beast",
+    link: "https://mj-gallery.com/59fdd2cc-be77-435f-8b7f-5bd5aded52f8/grid_0.png"
+  },
+  {
+    prompt: "Winged Beast",
+    link: "https://mj-gallery.com/ddadf9c4-100d-4d4a-a223-6847b5e15f0f/grid_0.png"
+  },
+  {
+    prompt: "Winged Beast",
+    link: "https://mj-gallery.com/d9c32138-6d77-47ed-89a1-04247ef01b3f/grid_0.png"
+  },
+  {
+    prompt: "Mountain with Arms and Waterfall Mouth",
+    link: "https://mj-gallery.com/4b1d25e3-8d74-422d-b213-2dc339ff57fd/grid_0.png"
+  },
+  {
+    prompt: "Mountain with Arms and Waterfall Mouth",
+    link: "https://mj-gallery.com/cf78cb7b-7eef-4faa-a975-53fc4a097a6f/grid_0.png"
+  },
+  {
+    prompt: "Mountain with Arms and Waterfall Mouth",
+    link: "https://mj-gallery.com/f5c6b5e6-868f-4730-ab3c-935950a7117e/grid_0.png"
+  },
+  {
+    prompt: "Fallout Shelter Experiment Gone Wrong",
+    link: "https://mj-gallery.com/ec9ce242-5cb0-4c34-a94e-660e0b558f62/grid_0.png"
+  },
+  {
+    prompt: "Fallout Shelter Experiment Gone Wrong",
+    link: "https://mj-gallery.com/ab8f773b-9b33-4e88-a904-769b06e73011/grid_0.png"
+  },
+  {
+    prompt: "Fallout Shelter Experiment Gone Wrong",
+    link: "https://mj-gallery.com/8b3a7dec-5261-4825-bbe5-5b5d1f426248/grid_0.png"
   }
 ];
 
