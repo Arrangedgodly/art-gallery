@@ -37,6 +37,15 @@
   max-width: 100%;
 }
 
+.text-subdesc {
+  display: flex;
+  flex-wrap: nowrap;
+  font-size: 1.25vw;
+  margin: 1vh auto 1vh auto;
+  font-weight: 100;
+  max-width: 100%;
+}
+
 @keyframes changeFontStyle {
   0% {
     font-style: italic;

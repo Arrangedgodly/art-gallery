@@ -5060,28 +5060,256 @@ export const initialCards = [
     link: "https://mj-gallery.com/6f2e987c-2769-4e78-954c-e349479a6314/grid_0.png"
   },
   {
-    prompt: "",
-    link: ""
+    prompt: "Heimerdinger MD",
+    link: "https://mj-gallery.com/8dcf3415-730f-4ecc-aa0d-6a5c53b505cf/grid_0.png"
   },
   {
-    prompt: "",
-    link: ""
+    prompt: "Hash Slinging Slasher",
+    link: "https://mj-gallery.com/16897d6a-f727-4315-883d-5a7c3efd4b75/grid_0.png"
   },
   {
-    prompt: "",
-    link: ""
+    prompt: "Hash Slinging Slasher",
+    link: "https://mj-gallery.com/5a09baf4-a8a0-4752-8540-79befa581d8e/grid_0.png"
   },
   {
-    prompt: "",
-    link: ""
+    prompt: "Hash Slinging Slasher",
+    link: "https://mj-gallery.com/6a5da395-6489-4d01-8761-3075f97b30b8/grid_0.png"
   },
   {
-    prompt: "",
-    link: ""
+    prompt: "Hash Slinging Slasher",
+    link: "https://mj-gallery.com/453a0451-4f5b-4e9c-98eb-30db473edada/grid_0.png"
   },
   {
-    prompt: "",
-    link: ""
+    prompt: "Hash Slinging Slasher",
+    link: "https://mj-gallery.com/b26e5e3f-6c6d-4445-93b7-cd274d2a5758/grid_0.png"
+  },
+  {
+    prompt: "Hash Slinging Slasher",
+    link: "https://mj-gallery.com/693df66c-8fd5-46ca-9a2c-1e401e1d6c3a/grid_0.png"
+  },
+  {
+    prompt: "Hash Slinging Slasher",
+    link: "https://mj-gallery.com/44e7d21a-8a15-4a76-b888-2294871f60a9/grid_0.png"
+  },
+  {
+    prompt: "Hash Slinging Slasher",
+    link: "https://mj-gallery.com/f5e91bc9-0028-42ad-88b2-f39c3116d9b9/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/40a9d4d9-6334-4a97-86b6-d5a4126378ca/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/07ec2c23-d578-46f2-a7a3-2b4b193325ac/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/31ce94e9-0a87-40c2-99d0-c9118a16459c/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/8201e367-2301-4146-a560-851e1a2e5327/grid_0.png"
+  },
+  {
+    prompt: "Heimerdinger MD",
+    link: "https://mj-gallery.com/29a5ba7b-b72d-42ad-bd53-e8502f6e25df/grid_0.png"
+  },
+  {
+    prompt: "Indiana Jones in Space",
+    link: "https://mj-gallery.com/77a9f505-f883-4e35-864b-fea39a4fbc73/grid_0.png"
+  },
+  {
+    prompt: "Indiana Jones in Space",
+    link: "https://mj-gallery.com/c8d8f268-5453-4daa-9e01-2540808b3fd4/grid_0.png"
+  },
+  {
+    prompt: "Indiana Jones in Space",
+    link: "https://mj-gallery.com/22e51f3f-fd59-4c36-a4c4-a0708c7633ee/grid_0.png"
+  },
+  {
+    prompt: "Hydraulic Press Skeleton",
+    link: "https://mj-gallery.com/73636280-3eb3-404e-bf95-6b84a118e14f/grid_0.png"
+  },
+  {
+    prompt: "Crusaders of Time",
+    link: "https://mj-gallery.com/af99d751-a22a-40d6-8d6a-f2a32952c581/grid_0.png"
+  },
+  {
+    prompt: "Hydraulic Press Skeleton",
+    link: "https://mj-gallery.com/f8477bef-078c-423f-a6bd-7184d5f91fe3/grid_0.png"
+  },
+  {
+    prompt: "Hydraulic Press Skeleton",
+    link: "https://mj-gallery.com/6f6f0c2f-fb83-4c3c-83c7-cfe2d06b8807/grid_0.png"
+  },
+  {
+    prompt: "Hydraulic Press Skeleton",
+    link: "https://mj-gallery.com/391d7d4e-2a30-46fd-ac0b-f1d63f39abff/grid_0.png"
+  },
+  {
+    prompt: "MRI of a Giant",
+    link: "https://mj-gallery.com/91fe48ab-ad53-4ca0-90ae-79d88bdf6cb5/grid_0.png"
+  },
+  {
+    prompt: "MRI of a Giant",
+    link: "https://mj-gallery.com/c91bd33c-4908-4077-bb5c-6be47bbf52af/grid_0.png"
+  },
+  {
+    prompt: "MRI of a Giant",
+    link: "https://mj-gallery.com/8edf293e-e796-4ade-b773-0d4ed5fdfa39/grid_0.png"
+  },
+  {
+    prompt: "MRI of a Giant",
+    link: "https://mj-gallery.com/ec6f74f4-a641-4f70-879b-b760e44a236f/grid_0.png"
+  },
+  {
+    prompt: "Skull of a Giant",
+    link: "https://mj-gallery.com/30526d52-de33-47da-a94d-8a1177b566ff/grid_0.png"
+  },
+  {
+    prompt: "Xray of a Giant",
+    link: "https://mj-gallery.com/9cca782d-843c-4873-a383-edbafe709396/grid_0.png"
+  },
+  {
+    prompt: "Xray of a Giant",
+    link: "https://mj-gallery.com/e7d669f1-7819-4c2d-815a-4ea46f3c05c0/grid_0.png"
+  },
+  {
+    prompt: "MRI of a Giant",
+    link: "https://mj-gallery.com/2fecf5ef-7b9a-4a47-8965-c0be041536f3/grid_0.png"
+  },
+  {
+    prompt: "MRI of a Giant",
+    link: "https://mj-gallery.com/a954e738-7861-4ec0-8386-855d6de2b0a0/grid_0.png"
+  },
+  {
+    prompt: "Xray of a Giant",
+    link: "https://mj-gallery.com/c5a04188-da27-4ae0-834c-8c2c33d37b6d/grid_0.png"
+  },
+  {
+    prompt: "Xray of a Giant",
+    link: "https://mj-gallery.com/c5b21472-541e-4c1e-b1a7-245ef062c8a6/grid_0.png"
+  },
+  {
+    prompt: "Xray of a Giant",
+    link: "https://mj-gallery.com/53a0a0c7-8baf-4d57-a4e5-3dddf226d80b/grid_0.png"
+  },
+  {
+    prompt: "Xray of a Unicorn",
+    link: "https://mj-gallery.com/d08d75b3-0847-4213-83f6-a3de08558ae2/grid_0.png"
+  },
+  {
+    prompt: "Cyber Vetruvian Man",
+    link: "https://mj-gallery.com/174d9956-fb58-4365-83d4-1b13fe55e17c/grid_0.png"
+  },
+  {
+    prompt: "Cyber Vetruvian Man",
+    link: "https://mj-gallery.com/9cb447c8-be94-4ae7-9a64-2fcbaefcff24/grid_0.png"
+  },
+  {
+    prompt: "Cyber Vetruvian Man",
+    link: "https://mj-gallery.com/87c58de9-ab91-4f24-a4ab-ae327f348463/grid_0.png"
+  },
+  {
+    prompt: "Skull of a Dinosaur",
+    link: "https://mj-gallery.com/976984f4-ec55-47e9-9948-8cfd4c756ef1/grid_0.png"
+  },
+  {
+    prompt: "Skull of a Dinosaur",
+    link: "https://mj-gallery.com/80bb0ae7-0ce5-40f4-a37e-93874e471d40/grid_0.png"
+  },
+  {
+    prompt: "Skull of a Dinosaur",
+    link: "https://mj-gallery.com/403899df-066a-4087-8800-012bcc3115a2/grid_0.png"
+  },
+  {
+    prompt: "Dinosaur Graveyard",
+    link: "https://mj-gallery.com/d05c1155-57c5-493f-b53f-0753c905c1f1/grid_0.png"
+  },
+  {
+    prompt: "Dinosaur Graveyard",
+    link: "https://mj-gallery.com/7dbb3405-8e90-493c-a4ef-f1f83428666d/grid_0.png"
+  },
+  {
+    prompt: "Dinosaur Graveyard",
+    link: "https://mj-gallery.com/8f22765a-392e-4440-9a4b-5955ea70e19d/grid_0.png"
+  },
+  {
+    prompt: "Skull of a Dinosaur",
+    link: "https://mj-gallery.com/62fff914-1d5d-43ea-b656-dfbb3bb17389/grid_0.png"
+  },
+  {
+    prompt: "Skull of a Dinosaur",
+    link: "https://mj-gallery.com/8974e5f3-c59f-4e22-b02f-46372c8e3a17/grid_0.png"
+  },
+  {
+    prompt: "Board Games",
+    link: "https://mj-gallery.com/74fe9707-4417-49a4-888e-df31959c0f58/grid_0.png"
+  },
+  {
+    prompt: "Nerds Playing Board Games",
+    link: "https://mj-gallery.com/b5fd0d4e-3582-4c75-8c3a-45c9d563a2d3/grid_0.png"
+  },
+  {
+    prompt: "Nerds Playing Board Games",
+    link: "https://mj-gallery.com/90d135a1-7161-455b-9026-b6b207ad3ebd/grid_0.png"
+  },
+  {
+    prompt: "Super Sweaty Nerd",
+    link: "https://mj-gallery.com/ded9e40e-5763-4633-be55-973d489ae82f/grid_0.png"
+  },
+  {
+    prompt: "Linux Penguin Cyberpunk",
+    link: "https://mj-gallery.com/7918e638-3f66-42c2-93dd-c6ea8d85a251/grid_0.png"
+  },
+  {
+    prompt: "Linux Penguin Cyberpunk",
+    link: "https://mj-gallery.com/f7804afd-eaec-4c14-94ca-917aeb79775e/grid_0.png"
+  },
+  {
+    prompt: "Linux Penguin Cyberpunk",
+    link: "https://mj-gallery.com/8855bf57-841c-4018-9c28-cbdbd650dad0/grid_0.png"
+  },
+  {
+    prompt: "Linux Penguin Cyberpunk",
+    link: "https://mj-gallery.com/a45630a8-d913-4f1c-a359-907593166999/grid_0.png"
+  },
+  {
+    prompt: "Linux Penguin Cyberpunk",
+    link: "https://mj-gallery.com/9ae8c3f7-f7ae-4ba4-bec5-eeeeb0505c14/grid_0.png"
+  },
+  {
+    prompt: "Sterioided Goblin",
+    link: "https://mj-gallery.com/9fcb07f9-54c4-4e1a-9721-67ea64d6f498/grid_0.png"
+  },
+  {
+    prompt: "Sterioided Goblin",
+    link: "https://mj-gallery.com/4bccc485-5ed1-4634-8bb1-c8e755180bf8/grid_0.png"
+  },
+  {
+    prompt: "Sleepwalking",
+    link: "https://mj-gallery.com/a2baae15-7a9c-473a-ad94-39bdef5b46d5/grid_0.png"
+  },
+  {
+    prompt: "Sleepwalking",
+    link: "https://mj-gallery.com/bc1ff87c-960f-411e-aa7f-70b63e560bb1/grid_0.png"
+  },
+  {
+    prompt: "Sleepwalking",
+    link: "https://mj-gallery.com/3cc879b4-489c-4e82-82a7-f60d6ea6ef84/grid_0.png"
+  },
+  {
+    prompt: "Sleepwalking",
+    link: "https://mj-gallery.com/02829306-8017-49a1-9fc4-3b5a4f0b257f/grid_0.png"
+  },
+  {
+    prompt: "Shadows Watching",
+    link: "https://mj-gallery.com/2590a5c5-5eca-4eed-ade4-8851dd81514b/grid_0.png"
+  },
+  {
+    prompt: "Shadows Watching",
+    link: "https://mj-gallery.com/6e767a68-3759-4d31-8fc1-9f7f6a5421e1/grid_0.png"
   }
 ];
 

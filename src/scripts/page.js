@@ -3,7 +3,7 @@ import { Card } from "./Card.js";
 import { shuffle } from "../index.js";
 
 const numberOfItems = initialCards.length;
-const numberPerPage = 126;
+const numberPerPage = 72;
 const numberOfPages = Math.ceil(numberOfItems / numberPerPage);
 const cards = document.querySelector(".cards");
 

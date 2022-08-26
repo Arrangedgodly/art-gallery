@@ -5,8 +5,9 @@ import { fishImages } from "./scripts/fishImages.js";
 import { buildPages, checkArrows, changePages, handleRefreshButton, handleSortButton } from "./scripts/page.js";
 import { escapeKeyHandler } from "./scripts/utlis.js";
 
-console.log(initialCards.length);
-console.log(fishImages.length);
+const headerProjectCount = document.querySelector(".text-subdesc");
+headerProjectCount.textContent = `${initialCards.length} Images and Counting`;
+
 const cards = document.querySelector(".cards");
 
 export function shuffle(array) {

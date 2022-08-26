@@ -1,6 +1,9 @@
 .cards {
-  width: 90%;
+  width: 95%;
   margin: 2vh auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media screen and (max-width: 720px) {
