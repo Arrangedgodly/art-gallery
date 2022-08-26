@@ -4698,6 +4698,390 @@ export const initialCards = [
   {
     prompt: "Fallout Shelter Experiment Gone Wrong",
     link: "https://mj-gallery.com/8b3a7dec-5261-4825-bbe5-5b5d1f426248/grid_0.png"
+  },
+  {
+    prompt: "Fallout Shelter Experiment Gone Wrong",
+    link: "https://mj-gallery.com/0c8550c3-fc0c-4f9a-9fdc-40faea2aef6e/grid_0.png"
+  },
+  {
+    prompt: "Fallout Shelter Experiment Gone Wrong",
+    link: "https://mj-gallery.com/8fc5b403-2523-4875-bda8-84e8d3bf4455/grid_0.png"
+  },
+  {
+    prompt: "Fallout Shelter Experiment Gone Wrong",
+    link: "https://mj-gallery.com/5e152f58-41d0-4b60-95c5-b735a5440d30/grid_0.png"
+  },
+  {
+    prompt: "Reinhardt Carrying Torbjorn",
+    link: "https://mj-gallery.com/0ca7650b-4131-4648-93dd-87c5b6afc173/grid_0.png"
+  },
+  {
+    prompt: "Reinhardt Carrying Torbjorn",
+    link: "https://mj-gallery.com/0ce51ad3-24cc-4910-a2ba-b1f138dced50/grid_0.png"
+  },
+  {
+    prompt: "Reinhardt Carrying Torbjorn",
+    link: "https://mj-gallery.com/3d35ea6c-adc3-45f8-b116-ec26c6e7bc1d/grid_0.png"
+  },
+  {
+    prompt: "Park Destroyed by Radiation",
+    link: "https://mj-gallery.com/bdfb46c5-1d7c-44c7-95a3-26c41b8c7e34/grid_0.png"
+  },
+  {
+    prompt: "Park Destroyed by Radiation",
+    link: "https://mj-gallery.com/38f59689-2ad8-4fc8-ad93-f83561a3902c/grid_0.png"
+  },
+  {
+    prompt: "Park Destroyed by Radiation",
+    link: "https://mj-gallery.com/5faffaf4-e138-4bf7-b285-1f36ffd775c5/grid_0.png"
+  },
+  {
+    prompt: "Park Destroyed by Radiation",
+    link: "https://mj-gallery.com/f34880c9-d01e-41ae-ad9f-0f827bff7d3c/grid_0.png"
+  },
+  {
+    prompt: "Park Destroyed by Radiation",
+    link: "https://mj-gallery.com/1ae8ce4c-d2c1-4ad1-b5d4-a53e07dbaf6b/grid_0.png"
+  },
+  {
+    prompt: "Park Destroyed by Radiation",
+    link: "https://mj-gallery.com/6c2d1443-d7e8-4f84-8f1e-e5985acffaaa/grid_0.png"
+  },
+  {
+    prompt: "Simple Ricks Wafer Cookies",
+    link: "https://mj-gallery.com/702f0035-9a97-475d-a99a-410410d62e5c/grid_0.png"
+  },
+  {
+    prompt: "Post Apocalyptic Playground",
+    link: "https://mj-gallery.com/3e82f91e-4d6e-4560-b99d-a6db9e5da1a4/grid_0.png"
+  },
+  {
+    prompt: "Post Apocalyptic Playground",
+    link: "https://mj-gallery.com/abc71598-5f47-4f96-ae8b-fe58581b2662/grid_0.png"
+  },
+  {
+    prompt: "Post Apocalyptic Playground",
+    link: "https://mj-gallery.com/1c56a2b0-e6ad-44b9-bc54-85fa398abb42/grid_0.png"
+  },
+  {
+    prompt: "Post Apocalyptic Playground",
+    link: "https://mj-gallery.com/32ee1905-a622-4f32-a5ea-a9d57ac614ec/grid_0.png"
+  },
+  {
+    prompt: "Post Apocalyptic Playground",
+    link: "https://mj-gallery.com/1f2a6532-d7a0-4f04-8358-060878f6dcd3/grid_0.png"
+  },
+  {
+    prompt: "Post Apocalyptic Playground",
+    link: "https://mj-gallery.com/650207ce-d28b-4d9e-b4e8-abde3da4cc46/grid_0.png"
+  },
+  {
+    prompt: "Eternal Sunshine on the Spotless Mind",
+    link: "https://mj-gallery.com/7d87c48f-8d24-40cb-b478-2c519aa55a39/grid_0.png"
+  },
+  {
+    prompt: "Eternal Sunshine on the Spotless Mind",
+    link: "https://mj-gallery.com/3e84c3c0-9f70-4865-8200-eec8707c4e9b/grid_0.png"
+  },
+  {
+    prompt: "Eternal Sunshine on the Spotless Mind",
+    link: "https://mj-gallery.com/9d8f0123-010b-4f03-bf46-c43ace500045/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Island",
+    link: "https://mj-gallery.com/7d9d5764-05a0-4a35-a947-a7f27aa47ec5/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Island",
+    link: "https://mj-gallery.com/bc25fe1d-8c28-4d77-85cb-7bbe3925f09c/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Mountain",
+    link: "https://mj-gallery.com/b1497943-9ee1-4133-9f90-3dcaf5a99637/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Mountain",
+    link: "https://mj-gallery.com/10ab8299-95f7-4143-9e4b-22782f7db71e/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Forest",
+    link: "https://mj-gallery.com/de2afbe1-e4fe-42e3-9109-871d1ec080b4/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Forest",
+    link: "https://mj-gallery.com/207299e2-1160-446b-ad33-7cd7ec4d51bb/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Plains",
+    link: "https://mj-gallery.com/fc2c82c4-ee9a-4b82-9aa4-594638771605/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Plains",
+    link: "https://mj-gallery.com/13d18db2-c0a5-4db4-b7b8-a9f1403bc2ed/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Swamp",
+    link: "https://mj-gallery.com/078f7eee-1c65-4b4d-940c-8d9e0d8bb2b6/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Swamp",
+    link: "https://mj-gallery.com/44ae2f1f-a0ae-49e1-a729-8ee3fcab3c6a/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Swamp",
+    link: "https://mj-gallery.com/c6190c82-49bb-46f3-b017-c1b3f6c1b226/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Swamp",
+    link: "https://mj-gallery.com/e4161963-784a-4057-b375-2a1c623772bd/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Swamp",
+    link: "https://mj-gallery.com/b11328d0-7773-4c01-9ae1-c5a979e3d41b/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Swamp",
+    link: "https://mj-gallery.com/5ab8c53f-d131-4e17-8ae2-d1cd97578313/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Swamp",
+    link: "https://mj-gallery.com/0ffec631-997e-42f1-b46b-d4cd0b1f73f6/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Swamp",
+    link: "https://mj-gallery.com/80e255cc-8532-4599-a87f-2f37a0099166/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Swamp",
+    link: "https://mj-gallery.com/a4b94c74-d740-4866-af5b-a36f42b69ebb/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Plains",
+    link: "https://mj-gallery.com/b5496d46-eeaf-4f84-a96a-32d39a5707bf/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Plains",
+    link: "https://mj-gallery.com/50caf89e-32fa-4667-a466-52b7e6581464/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Plains",
+    link: "https://mj-gallery.com/e6d74257-7bd8-4c29-a92a-afd3873e3219/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Plains",
+    link: "https://mj-gallery.com/75548011-36a4-43d2-a67e-69b7ffc93c57/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Swamp",
+    link: "https://mj-gallery.com/023b45eb-c020-43b6-938e-5a609acc0271/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Forest",
+    link: "https://mj-gallery.com/9305b4d0-7d86-40c3-b8c1-e0e980adc45b/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Forest",
+    link: "https://mj-gallery.com/5e86d975-d242-4ea7-9885-1a416501616d/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Mountain",
+    link: "https://mj-gallery.com/22494ce9-42f4-4598-8513-891b6139b2cf/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Mountain",
+    link: "https://mj-gallery.com/b128b92b-be16-434d-85ff-6d1c457dd3ec/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Forest",
+    link: "https://mj-gallery.com/c39dfe0c-4a0f-4f11-a7ea-c6092c8d8e40/grid_0.png"
+  },
+  {
+    prompt: "Apocalpyse Mountain",
+    link: "https://mj-gallery.com/097902ac-519a-41d1-83cd-b1cd353f98fd/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/a5c285b8-c65b-423d-9c87-689877894eda/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/58428d82-2382-4210-b881-6430c21a2fc2/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/d20787f3-8a17-4836-b42c-be1b48c9f058/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/fae93c19-5fbc-4a92-8082-832b34b309cf/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/d2d892e7-2645-4ae5-89ff-b91ced03904f/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/29e1e2da-4db6-48be-9dad-2013ce4b0846/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/6bc338b6-b798-438a-a5f3-744ea8a7d6ee/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/ed40f2d3-dcc0-410c-b6e9-b6f710bce508/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/1fa2ecc9-d174-426c-abb1-77d057630988/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/746a5ee5-2d18-4a5a-b007-ec815278da23/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/c7dcee19-d82e-4c0e-9b76-263d665e1387/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/971cfded-8fd3-4d7e-a37c-55362ba46412/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/8ae9435e-13f4-4ee7-9906-d7adea92bd90/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/e0fec82c-521f-4d26-ba72-d5c400263369/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/79150aac-1f65-4ffb-b0a5-77a822eedd92/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/83cd488f-f5ee-4391-87c0-68c0895c9e36/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/daf19201-777c-4bd4-920e-775669dbdbcf/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/b808b526-652c-437c-b8b3-0ad5a900d3cd/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/a0530dba-ec57-4b76-b179-4dffa7d3fa65/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/06381851-578f-4592-9c1a-722c2de6b34f/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/9ca30695-1998-46f2-bb11-1bafc8a95c2c/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/75900135-83ac-4865-b0c7-d2c58e84cf94/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/11b72d1b-2df6-4090-8b80-c1b06afa8916/grid_0.png"
+  },
+  {
+    prompt: "Dank Rare Pepe Meme",
+    link: "https://mj-gallery.com/9ad60e84-6428-4657-b109-f915a1e8a7ec/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/43096f4f-e989-4d6b-82ff-68132b6cb316/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/9123dc79-9d5f-42f2-9dce-3d76ebb9374e/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/b51002ea-6ed8-4476-af6d-fe84dcbab19f/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/3f1d0b9f-099f-4501-bfd8-116bbc2cfd7d/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/ebddeda8-412d-463f-a228-8c3cdf589285/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/f14ff483-9adb-4e64-afd9-73e87d7ec591/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/337cb3dc-cef3-4bdb-874f-441a5bb1bdd0/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/325b208a-edab-44f6-8303-53c213d141ef/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/33c158c8-4b7c-4fb4-9ba7-8e678437934a/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/22dc651b-482e-44e1-a46f-56f1d7553470/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/fa60932f-10ba-421c-81d1-54fb4799d502/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/c72c535b-dc0c-4b56-9e27-5be79c343ed2/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/aee1101b-174b-4782-8080-9dfa440f380f/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/b9abe735-61c3-4a54-a578-18cc8518e90f/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/a617609f-20fb-4504-9af5-6f0d6da50447/grid_0.png"
+  },
+  {
+    prompt: "Pepe the Frog",
+    link: "https://mj-gallery.com/6f2e987c-2769-4e78-954c-e349479a6314/grid_0.png"
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
+  },
+  {
+    prompt: "",
+    link: ""
   }
 ];
 
