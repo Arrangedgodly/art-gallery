@@ -5310,6 +5310,450 @@ export const initialCards = [
   {
     prompt: "Shadows Watching",
     link: "https://mj-gallery.com/6e767a68-3759-4d31-8fc1-9f7f6a5421e1/grid_0.png"
+  },
+  {
+    prompt: "Shadows Watching",
+    link: "https://mj-gallery.com/172baff0-cd81-4914-809f-1bdba2acb508/grid_0.png"
+  },
+  {
+    prompt: "Shadows Watching",
+    link: "https://mj-gallery.com/0f207274-5bf6-4a1d-864e-42f2ddd88238/grid_0.png"
+  },
+  {
+    prompt: "Shadows Watching",
+    link: "https://mj-gallery.com/8a800339-7c72-40a7-9a2f-1a79727eb661/grid_0.png"
+  },
+  {
+    prompt: "Photo Realistic Troll",
+    link: "https://mj-gallery.com/dd4064f2-477d-4017-964a-6dae009abf81/grid_0.png"
+  },
+  {
+    prompt: "Photo Realistic Troll",
+    link: "https://mj-gallery.com/058cba79-97fc-4db0-9c89-d67452f3601a/grid_0.png"
+  },
+  {
+    prompt: "Wario Mugshot",
+    link: "https://mj-gallery.com/9347378d-5a6c-4f74-b233-312c3d07154c/grid_0.png"
+  },
+  {
+    prompt: "Wario Mugshot",
+    link: "https://mj-gallery.com/d3da5a2a-c68c-4b26-92d5-1a00e3b2ea05/grid_0.png"
+  },
+  {
+    prompt: "Wario Mugshot",
+    link: "https://mj-gallery.com/c5989fcb-b664-4dcb-875d-06ee3ae2b466/grid_0.png"
+  },
+  {
+    prompt: "Wario Mugshot",
+    link: "https://mj-gallery.com/d0fbe6c3-4ed8-4886-9db9-40d3a1d64a96/grid_0.png"
+  },
+  {
+    prompt: "Wario Head Gangster",
+    link: "https://mj-gallery.com/1127ccb5-7f59-44a5-b153-8eb9ee206434/grid_0.png"
+  },
+  {
+    prompt: "Wario Head Gangster",
+    link: "https://mj-gallery.com/7ec93805-998e-45ee-8bf8-7a5df30f13de/grid_0.png"
+  },
+  {
+    prompt: "Wario Head Gangster",
+    link: "https://mj-gallery.com/5e0fe28c-1e03-4048-b1f4-4af71f53c66d/grid_0.png"
+  },
+  {
+    prompt: "Wario Head Gangster",
+    link: "https://mj-gallery.com/d63db0d8-39ec-4d18-b367-b1874ba61605/grid_0.png"
+  },
+  {
+    prompt: "Wario Head Gangster",
+    link: "https://mj-gallery.com/f27523bc-ac14-440b-9f59-87fba48b7d5c/grid_0.png"
+  },
+  {
+    prompt: "Wario Head Gangster",
+    link: "https://mj-gallery.com/79d714ec-7578-449c-bb1d-ac5e299cd4f4/grid_0.png"
+  },
+  {
+    prompt: "Wario Head Gangster",
+    link: "https://mj-gallery.com/f5c48d33-2045-431e-b08a-19b49daabd22/grid_0.png"
+  },
+  {
+    prompt: "Death of a Gangster",
+    link: "https://mj-gallery.com/be0ca3d6-5cb4-4d0a-8e4a-caab3984be56/grid_0.png"
+  },
+  {
+    prompt: "MC Kraken",
+    link: "https://mj-gallery.com/5bbab478-df07-4b72-9dd9-dc7d4eebed71/grid_0.png"
+  },
+  {
+    prompt: "Wario Head Gangster",
+    link: "https://mj-gallery.com/2bb5834f-bdc6-4fb0-96bb-2dd189db7dc6/grid_0.png"
+  },
+  {
+    prompt: "Gangster",
+    link: "https://mj-gallery.com/bf117ff5-c88a-495a-a8de-8dd3734a2950/grid_0.png"
+  },
+  {
+    prompt: "Gangster",
+    link: "https://mj-gallery.com/0e170c66-dd00-44ba-bfc5-9b312714fb16/grid_0.png"
+  },
+  {
+    prompt: "MC Kraken",
+    link: "https://mj-gallery.com/93db6f10-6d84-41cb-8d72-6a1d55489ffd/grid_0.png"
+  },
+  {
+    prompt: "Gangster's Paradise",
+    link: "https://mj-gallery.com/c4e1452d-d0e9-440f-857d-9c32ea8c3760/grid_0.png"
+  },
+  {
+    prompt: "Jungle Hotel",
+    link: "https://mj-gallery.com/8f7aed61-e526-4324-8abb-890aa4485ebb/grid_0.png"
+  },
+  {
+    prompt: "Gangster's Paradise",
+    link: "https://mj-gallery.com/38e29f77-2081-4162-abb0-6e89eba05538/grid_0.png"
+  },
+  {
+    prompt: "Gangster's Paradise",
+    link: "https://mj-gallery.com/c9dedcc7-b4fc-44ce-9730-70ba70ffc32d/grid_0.png"
+  },
+  {
+    prompt: "Kraken Holding a Microphone",
+    link: "https://mj-gallery.com/39861c6c-984b-47f1-a8f9-63293960f14c/grid_0.png"
+  },
+  {
+    prompt: "Kraken Holding a Microphone",
+    link: "https://mj-gallery.com/8dbb04ce-3f38-425d-a43b-55850b100164/grid_0.png"
+  },
+  {
+    prompt: "Kraken Holding a Microphone",
+    link: "https://mj-gallery.com/03fe4fda-a191-4614-8b5e-4a561982bc25/grid_0.png"
+  },
+  {
+    prompt: "Jungle Hotel",
+    link: "https://mj-gallery.com/5900b3c4-2499-4336-9031-c5d3976b4abc/grid_0.png"
+  },
+  {
+    prompt: "Jungle Hotel",
+    link: "https://mj-gallery.com/29690eae-ad2c-4091-8907-4c075719484d/grid_0.png"
+  },
+  {
+    prompt: "Jungle Hotel",
+    link: "https://mj-gallery.com/296edfde-27db-4fbb-aa4a-8bb8e308c941/grid_0.png"
+  },
+  {
+    prompt: "Jungle Hotel",
+    link: "https://mj-gallery.com/49086aed-6132-460d-9e94-75302407e318/grid_0.png"
+  },
+  {
+    prompt: "Jungle Hotel",
+    link: "https://mj-gallery.com/2de7f022-1a5a-41dd-bebe-0fccc37b1f30/grid_0.png"
+  },
+  {
+    prompt: "Jungle Hotel",
+    link: "https://mj-gallery.com/03be257e-60a7-40da-a8df-3a198ca7c8fb/grid_0.png"
+  },
+  {
+    prompt: "Jungle Hotel",
+    link: "https://mj-gallery.com/c733cd7b-54b1-40ed-a509-1e2aef4c5214/grid_0.png"
+  },
+  {
+    prompt: "Jungle Hotel",
+    link: "https://mj-gallery.com/ce9d99af-8d62-4741-9935-5e0b2aff3173/grid_0.png"
+  },
+  {
+    prompt: "Scenic Hotel with Ocean Overlook",
+    link: "https://mj-gallery.com/c7a38325-872a-40b9-af63-50b370b12b38/grid_0.png"
+  },
+  {
+    prompt: "Oceanic Masterpiece",
+    link: "https://mj-gallery.com/10c821d3-7921-466d-ba5e-dc5439d2b3bd/grid_0.png"
+  },
+  {
+    prompt: "Oceanic Masterpiece",
+    link: "https://mj-gallery.com/ecc39b75-3263-4976-bef7-104e59bc400d/grid_0.png"
+  },
+  {
+    prompt: "Oceanic Masterpiece",
+    link: "https://mj-gallery.com/9da49246-128b-4ff4-a3e8-110bdcae4327/grid_0.png"
+  },
+  {
+    prompt: "Oceanic Masterpiece",
+    link: "https://mj-gallery.com/f6000931-838a-4e05-98f7-4407b1033c88/grid_0.png"
+  },
+  {
+    prompt: "Demon Chibi Anime Girl",
+    link: "https://mj-gallery.com/7cb47207-e88e-4c12-8ce5-ec825cc6ed8d/grid_0.png"
+  },
+  {
+    prompt: "Anarchy",
+    link: "https://mj-gallery.com/df8334f6-3fcd-4f69-94e7-79e610a8e45c/grid_0.png"
+  },
+  {
+    prompt: "Anarchy",
+    link: "https://mj-gallery.com/ec7c439c-88aa-495b-9cdb-aee34d8ae201/grid_0.png"
+  },
+  {
+    prompt: "Anarchy",
+    link: "https://mj-gallery.com/f047ee59-6da9-466d-a536-ee2292168454/grid_0.png"
+  },
+  {
+    prompt: "Lochness Monster",
+    link: "https://mj-gallery.com/b7497a5d-ecef-48b9-a242-43cd929cf40e/grid_0.png"
+  },
+  {
+    prompt: "Eric Cartman",
+    link: "https://mj-gallery.com/9af34b7d-338a-4a2c-bdd4-dd57ec8724cd/grid_0.png"
+  },
+  {
+    prompt: "Eric Cartman",
+    link: "https://mj-gallery.com/9f09303a-1450-4f8f-b06d-f7c7811f74ca/grid_0.png"
+  },
+  {
+    prompt: "Playstation Controller",
+    link: "https://mj-gallery.com/8464b230-72c3-4e95-a622-683c74e9060b/grid_0.png"
+  },
+  {
+    prompt: "Playstation Controller",
+    link: "https://mj-gallery.com/8be363fd-e66b-4783-8ad2-c75fd2994c0c/grid_0.png"
+  },
+  {
+    prompt: "Playstation Controller",
+    link: "https://mj-gallery.com/17fffbcd-6155-4dd9-b29a-97769a608564/grid_0.png"
+  },
+  {
+    prompt: "Healing Potion",
+    link: "https://mj-gallery.com/5a95a4c9-336a-4ac9-852a-c20e1c494b4b/grid_0.png"
+  },
+  {
+    prompt: "Healing Potion",
+    link: "https://mj-gallery.com/0a125650-f089-40db-be9e-52c7ce2c14a9/grid_0.png"
+  },
+  {
+    prompt: "Healing Potion",
+    link: "https://mj-gallery.com/1a002428-1c9e-4c77-a617-389c7c0fe539/grid_0.png"
+  },
+  {
+    prompt: "Healing Potion",
+    link: "https://mj-gallery.com/2887eca4-c1f9-4a71-bca5-89cca719fa43/grid_0.png"
+  },
+  {
+    prompt: "Healing Potion",
+    link: "https://mj-gallery.com/75ddd14a-7bde-4164-803c-973cbcf23188/grid_0.png"
+  },
+  {
+    prompt: "Healing Potion",
+    link: "https://mj-gallery.com/d801fc7d-c228-40a8-9de7-06e994668061/grid_0.png"
+  },
+  {
+    prompt: "Healing Potion",
+    link: "https://mj-gallery.com/2ede5683-bf6e-444a-931b-9783257d77f5/grid_0.png"
+  },
+  {
+    prompt: "Healing Potion",
+    link: "https://mj-gallery.com/1e5adf63-e961-4527-a4e1-77f6d3752faf/grid_0.png"
+  },
+  {
+    prompt: "Playstation Controller",
+    link: "https://mj-gallery.com/d37a3c44-b125-4f93-b7c2-b185ef3979e8/grid_0.png"
+  },
+  {
+    prompt: "Twizzled",
+    link: "https://mj-gallery.com/9469d7cd-061d-4fa2-b50a-fc594bc30fba/grid_0.png"
+  },
+  {
+    prompt: "Twizzled",
+    link: "https://mj-gallery.com/9850cef9-365b-47d6-919d-84ef23381dae/grid_0.png"
+  },
+  {
+    prompt: "Twizzled",
+    link: "https://mj-gallery.com/c3b82e89-3f72-4373-a157-41f016ffb834/grid_0.png"
+  },
+  {
+    prompt: "Scarface",
+    link: "https://mj-gallery.com/31ebc415-4da0-410f-bdff-405c38a34abf/grid_0.png"
+  },
+  {
+    prompt: "Scarface",
+    link: "https://mj-gallery.com/5d450266-5b66-4220-b7cb-3a40e797ac0c/grid_0.png"
+  },
+  {
+    prompt: "Scarface",
+    link: "https://mj-gallery.com/6ab77c28-e224-4c8f-8941-0555831aecbf/grid_0.png"
+  },
+  {
+    prompt: "Darth Vader",
+    link: "https://mj-gallery.com/9448e9bc-0420-4cbb-a2ea-fe0c502e70fa/grid_0.png"
+  },
+  {
+    prompt: "Darth Vader",
+    link: "https://mj-gallery.com/d60d42eb-2701-4be7-845e-43930be7752b/grid_0.png"
+  },
+  {
+    prompt: "Darth Vader",
+    link: "https://mj-gallery.com/f05ccc98-9085-417f-a8f3-3320f0f25e03/grid_0.png"
+  },
+  {
+    prompt: "Darth Vader",
+    link: "https://mj-gallery.com/f7bb5934-46d9-4eb9-a052-84c56d6da3d0/grid_0.png"
+  },
+  {
+    prompt: "Clone",
+    link: "https://mj-gallery.com/86274a80-cf0d-42f5-8a6e-7a316b4acff9/grid_0.png"
+  },
+  {
+    prompt: "Clone",
+    link: "https://mj-gallery.com/533ed5b5-4eb0-4c6b-b108-fcdd02252fc3/grid_0.png"
+  },
+  {
+    prompt: "Sith Brandishing Lightsaber",
+    link: "https://mj-gallery.com/d068b024-52b2-4ffa-9648-453ecb8d9fd0/grid_0.png"
+  },
+  {
+    prompt: "Darth Maul",
+    link: "https://mj-gallery.com/b14bad6e-ac1d-4b11-8922-0a9590b9cbf1/grid_0.png"
+  },
+  {
+    prompt: "Sith Brandishing Lightsaber",
+    link: "https://mj-gallery.com/d09bdc7b-1625-4218-b175-62c17b73e80e/grid_0.png"
+  },
+  {
+    prompt: "X Wing Space Battle",
+    link: "https://mj-gallery.com/d5e5e892-8662-4c8d-aaa8-3bf5cacb0540/grid_0.png"
+  },
+  {
+    prompt: "X Wing Space Battle",
+    link: "https://mj-gallery.com/8bfac80e-ad42-46f6-aa6c-f0ca0c77ed90/grid_0.png"
+  },
+  {
+    prompt: "Cyber Ninja",
+    link: "https://mj-gallery.com/53405710-f7f4-4f37-896b-12748f053b42/grid_0.png"
+  },
+  {
+    prompt: "Ninja Leader",
+    link: "https://mj-gallery.com/cf24a7a7-0bc6-431a-a04b-e2e236e431b7/grid_0.png"
+  },
+  {
+    prompt: "Ninja Leader",
+    link: "https://mj-gallery.com/4bd30acb-ec18-4d12-b689-c5d0f4c4a312/grid_0.png"
+  },
+  {
+    prompt: "Cyber Ninja",
+    link: "https://mj-gallery.com/64955e91-3bfd-4362-9c6b-ee654740a07f/grid_0.png"
+  },
+  {
+    prompt: "Ninja Leader",
+    link: "https://mj-gallery.com/03721b58-754f-40a2-bf68-cc2157976205/grid_0.png"
+  },
+  {
+    prompt: "Cyber Ninja",
+    link: "https://mj-gallery.com/b310ba8b-23b0-46e1-b6b5-b1b5df5e2b38/grid_0.png"
+  },
+  {
+    prompt: "Ninjitsu",
+    link: "https://mj-gallery.com/838630c3-f778-4c9a-8dff-f54d3e1e6233/grid_0.png"
+  },
+  {
+    prompt: "Kung Fu with Armor",
+    link: "https://mj-gallery.com/a588d37f-6120-4a40-aece-af9624f44477/grid_0.png"
+  },
+  {
+    prompt: "Ninjitsu",
+    link: "https://mj-gallery.com/b21cfc32-18d5-49e3-8b95-e5a514130c83/grid_0.png"
+  },
+  {
+    prompt: "Ninjitsu",
+    link: "https://mj-gallery.com/c58095d1-1e23-4cee-be38-44f85298f6db/grid_0.png"
+  },
+  {
+    prompt: "Kung Fu Walrus",
+    link: "https://mj-gallery.com/e5e3779b-3c3b-478d-9829-ff230cd79144/grid_0.png"
+  },
+  {
+    prompt: "High Res Landscape Photograph",
+    link: "https://mj-gallery.com/d2dd89a7-6570-4ea7-9770-03d752b70598/grid_0.png"
+  },
+  {
+    prompt: "Kung Fu Walrus",
+    link: "https://mj-gallery.com/65af8148-7dc6-4703-9452-26d9afab2c7a/grid_0.png"
+  },
+  {
+    prompt: "High Res Landscape Photograph",
+    link: "https://mj-gallery.com/b30ab152-6551-4be9-ba2a-0408300885c7/grid_0.png"
+  },
+  {
+    prompt: "High Res Landscape Photograph",
+    link: "https://mj-gallery.com/fcafff4d-412b-474d-9fb3-d3e36b94a2ba/grid_0.png"
+  },
+  {
+    prompt: "High Res Landscape Photograph",
+    link: "https://mj-gallery.com/638debe4-b53d-462c-8447-5a97846cc983/grid_0.png"
+  },
+  {
+    prompt: "High Res Landscape Photograph",
+    link: "https://mj-gallery.com/5de35b54-8ee7-48c4-a5d3-f5840bc77083/grid_0.png"
+  },
+  {
+    prompt: "Tobias Funke",
+    link: "https://mj-gallery.com/1fd35873-e01c-4f8e-bcb9-2fcf3fa8d528/grid_0.png"
+  },
+  {
+    prompt: "GOB Bluth",
+    link: "https://mj-gallery.com/55762119-ad66-4995-972b-645d2150eebe/grid_0.png"
+  },
+  {
+    prompt: "The Court Jester",
+    link: "https://mj-gallery.com/0530f104-e00d-4b7b-b6d9-e8ed2ea1a6c0/grid_0.png"
+  },
+  {
+    prompt: "The Court Jester",
+    link: "https://mj-gallery.com/c1b900e5-9206-4f63-a621-c6ed14733641/grid_0.png"
+  },
+  {
+    prompt: "The Court Jester",
+    link: "https://mj-gallery.com/089cfb17-5588-479d-a006-0a2972d90c36/grid_0.png"
+  },
+  {
+    prompt: "Costigan, Sullivan, Frank Costello",
+    link: "https://mj-gallery.com/5ffa9c00-090f-4ca7-86e6-2720edf164ff/grid_0.png"
+  },
+  {
+    prompt: "Fighting for Attention",
+    link: "https://mj-gallery.com/cbd7d5ca-d5ab-4560-b036-b45fea99f3d3/grid_0.png"
+  },
+  {
+    prompt: "Jalepeno Poppers",
+    link: "https://mj-gallery.com/0e8403a5-4647-4b6d-815c-975932ff7b60/grid_0.png"
+  },
+  {
+    prompt: "Ship in a Bottle",
+    link: "https://mj-gallery.com/1cff07b9-c759-4c6b-8e8f-38e5efaa3f3f/grid_0.png"
+  },
+  {
+    prompt: "Ship in a Bottle",
+    link: "https://mj-gallery.com/305e4425-e002-4605-8e34-8a6c0064998a/grid_0.png"
+  },
+  {
+    prompt: "Ship in a Bottle",
+    link: "https://mj-gallery.com/8cac9ec1-cdd8-4e0d-84d0-acf179b0c858/grid_0.png"
+  },
+  {
+    prompt: "Ship in a Bottle",
+    link: "https://mj-gallery.com/18560756-bfbb-46c0-8a72-e577c5087b37/grid_0.png"
+  },
+  {
+    prompt: "Ship in a Bottle",
+    link: "https://mj-gallery.com/f133faf9-6898-41cd-af8a-0ecdb9081370/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/84768663-f925-4a54-89f0-6c3ba677601e/grid_0.png"
+  },
+  {
+    prompt: "Lego Batman",
+    link: "https://mj-gallery.com/b1780297-a1de-4db9-a048-8fe149f404ac/grid_0.png"
+  },
+  {
+    prompt: "Lego Batman",
+    link: "https://mj-gallery.com/213e65b9-e37d-4767-b2d4-4f9a20a005df/grid_0.png"
   }
 ];
 
