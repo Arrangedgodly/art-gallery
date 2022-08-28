@@ -5754,6 +5754,178 @@ export const initialCards = [
   {
     prompt: "Lego Batman",
     link: "https://mj-gallery.com/213e65b9-e37d-4767-b2d4-4f9a20a005df/grid_0.png"
+  },
+  {
+    prompt: "Lego Batman",
+    link: "https://mj-gallery.com/001a2633-e6f8-483e-9b8e-ecee51ce38b0/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/cf97a530-52eb-4f26-8585-a089d66af4d6/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/332a8886-6f20-4158-9681-f92e793b4e6e/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/b09a6424-566c-4088-bcd7-f21f20b00fe7/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/9a4164c3-b804-4038-b28b-ac6a7871cacb/grid_0.png"
+  },
+  {
+    prompt: "Gin and Juice",
+    link: "https://mj-gallery.com/b81e3a8f-fc86-4510-81cb-b4ad37340329/grid_0.png"
+  },
+  {
+    prompt: "Fountain Pen Spilling Ink",
+    link: "https://mj-gallery.com/fbc7a980-ea3a-4638-8bc2-470262f9ecfa/grid_0.png"
+  },
+  {
+    prompt: "Faded Poloroid Photos",
+    link: "https://mj-gallery.com/a5dda902-d9bc-45c9-a4cb-0e1e4da4845a/grid_0.png"
+  },
+  {
+    prompt: "Fountain Pen Spilling Ink",
+    link: "https://mj-gallery.com/36b7f9f0-73f8-41e3-9ad5-1ba413f38113/grid_0.png"
+  },
+  {
+    prompt: "Sketch of a Manic Man",
+    link: "https://mj-gallery.com/5d592549-da87-4e8e-80da-b3b9bf518a33/grid_0.png"
+  },
+  {
+    prompt: "Sketch Book Drawing of a Manic Man",
+    link: "https://mj-gallery.com/300f547c-6023-480c-b13b-fbc5f805a7d7/grid_0.png"
+  },
+  {
+    prompt: "Sketch Book Drawing of a Manic Man",
+    link: "https://mj-gallery.com/03ebcc59-adcd-45b8-ac2a-2137b74d02c0/grid_0.png"
+  },
+  {
+    prompt: "Sketch Book Drawing of a Manic Man",
+    link: "https://mj-gallery.com/177ed7db-85c3-44ed-9112-f7ce07a3d265/grid_0.png"
+  },
+  {
+    prompt: "Sketch Book Drawing of a Manic Man",
+    link: "https://mj-gallery.com/9fe1e571-ff4e-4536-9713-fa77e24f8e78/grid_0.png"
+  },
+  {
+    prompt: "Sketch Book Drawing of a Manic Man",
+    link: "https://mj-gallery.com/208c6870-cca4-47ec-9713-757a5c96524e/grid_0.png"
+  },
+  {
+    prompt: "Faded Poloroid Photos",
+    link: "https://mj-gallery.com/56cc74e1-b30d-48c2-a5d6-ea31cb9e19c1/grid_0.png"
+  },
+  {
+    prompt: "Faded Poloroid Photos",
+    link: "https://mj-gallery.com/c9ed14ed-fab5-4157-a513-4ac93df12947/grid_0.png"
+  },
+  {
+    prompt: "Faded Poloroid Photos",
+    link: "https://mj-gallery.com/3982940f-2f09-49e2-941a-98651b06f267/grid_0.png"
+  },
+  {
+    prompt: "Faded Poloroid Photos",
+    link: "https://mj-gallery.com/39c1ee8b-5aaa-4bf7-b8eb-9b7df132743e/grid_0.png"
+  },
+  {
+    prompt: "Faded Poloroid Photos",
+    link: "https://mj-gallery.com/2bd87000-61f0-43ff-9fe1-cab0062d71bc/grid_0.png"
+  },
+  {
+    prompt: "Gin and Juice",
+    link: "https://mj-gallery.com/21857442-5cc4-42c3-b9bc-0e57ba303e6d/grid_0.png"
+  },
+  {
+    prompt: "Painting in the Style of Salvador Dali",
+    link: "https://mj-gallery.com/029c07a2-9bb9-4b15-bee1-5e4fdddea201/grid_0.png"
+  },
+  {
+    prompt: "Painting in the Style of Salvador Dali",
+    link: "https://mj-gallery.com/1d3f3097-0ab4-486f-8687-a2e1a8366393/grid_0.png"
+  },
+  {
+    prompt: "Painting in the Style of Salvador Dali",
+    link: "https://mj-gallery.com/b824893c-87af-46c3-91ff-9ec22d3f20ea/grid_0.png"
+  },
+  {
+    prompt: "Painting in the Style of Salvador Dali",
+    link: "https://mj-gallery.com/9d8c9111-40cf-4386-b5ed-b211a69c39bf/grid_0.png"
+  },
+  {
+    prompt: "Painting in the Style of Salvador Dali",
+    link: "https://mj-gallery.com/61a3e43e-5930-4fbf-95c9-f1a7bdf852a5/grid_0.png"
+  },
+  {
+    prompt: "Melting Clock",
+    link: "https://mj-gallery.com/a5025dc1-1bf7-46c3-b6a7-758fa2e36c13/grid_0.png"
+  },
+  {
+    prompt: "Melting Clock",
+    link: "https://mj-gallery.com/86d527e8-efed-478f-bd8a-485f96fddee8/grid_0.png"
+  },
+  {
+    prompt: "Big Bird Playing Electric Guitar",
+    link: "https://mj-gallery.com/b8da6017-d1ea-4eb2-b3a6-4ba85ec13acf/grid_0.png"
+  },
+  {
+    prompt: "Big Bird Playing Electric Guitar",
+    link: "https://mj-gallery.com/617b29ec-f50a-4f10-96dc-30c8f09da2bc/grid_0.png"
+  },
+  {
+    prompt: "Big Bird Playing Electric Guitar",
+    link: "https://mj-gallery.com/d85c93ad-0665-4560-81fb-731f330167c1/grid_0.png"
+  },
+  {
+    prompt: "Pasta Hair",
+    link: "https://mj-gallery.com/dfa71f9d-9c22-4b46-af8d-78478f11bced/grid_0.png"
+  },
+  {
+    prompt: "Pasta Hair",
+    link: "https://mj-gallery.com/1deec8df-1e9a-47ee-bb29-4cd6b632a542/grid_0.png"
+  },
+  {
+    prompt: "Italian Buffet",
+    link: "https://mj-gallery.com/f3a69586-d21b-4376-813d-7d058d57e132/grid_0.png"
+  },
+  {
+    prompt: "Italian Buffet",
+    link: "https://mj-gallery.com/05544606-908f-4ff2-8d1e-f2ae58431cf2/grid_0.png"
+  },
+  {
+    prompt: "Dumping Pasta on a Car",
+    link: "https://mj-gallery.com/d5a7a6a1-c043-49d8-bf6b-40b49829a7d3/grid_0.png"
+  },
+  {
+    prompt: "Dumping Pasta on a Car",
+    link: "https://mj-gallery.com/c8a8d811-7b9a-473a-b408-bc3ad333d2fc/grid_0.png"
+  },
+  {
+    prompt: "Dumping Pasta on a Car",
+    link: "https://mj-gallery.com/178202d8-54a0-478c-a751-6b6b49207e85/grid_0.png"
+  },
+  {
+    prompt: "Dumping Pasta on a Car",
+    link: "https://mj-gallery.com/6cefbe50-d4c9-42f4-8cfe-9ff0a7a4e24f/grid_0.png"
+  },
+  {
+    prompt: "Flying Spaghetti Monster",
+    link: "https://mj-gallery.com/744ce301-804d-4616-989f-02cfdeab4e7b/grid_0.png"
+  },
+  {
+    prompt: "Flying Spaghetti Monster",
+    link: "https://mj-gallery.com/dc6545a3-45fa-413c-be3a-48619f314638/grid_0.png"
+  },
+  {
+    prompt: "Flying Spaghetti Monster",
+    link: "https://mj-gallery.com/ef09507b-561e-4046-9b02-3045ebd8e39d/grid_0.png"
+  },
+  {
+    prompt: "Flying Spaghetti Monster",
+    link: "https://mj-gallery.com/a08c688f-165e-45c8-87df-2fb4abc3f96b/grid_0.png"
   }
 ];
 
