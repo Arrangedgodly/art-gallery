@@ -5754,6 +5754,294 @@ export const initialCards = [
   {
     prompt: "Lego Batman",
     link: "https://mj-gallery.com/213e65b9-e37d-4767-b2d4-4f9a20a005df/grid_0.png"
+  },
+  {
+    prompt: "Pharah",
+    link: "https://mj-gallery.com/332ae67b-fb4b-4cb3-b153-81775e7e04e0/grid_0.png"
+  },
+  {
+    prompt: "Mei",
+    link: "https://mj-gallery.com/fed205b6-9ac7-4426-9651-f2187a02968a/grid_0.png"
+  },
+  {
+    prompt: "Roadhog",
+    link: "https://mj-gallery.com/c4ae6819-c812-41c7-a6a2-997592e2673f/grid_0.png"
+  },
+  {
+    prompt: "Roadhog",
+    link: "https://mj-gallery.com/dbb76521-a409-42dd-a208-979e0e2bdd87/grid_0.png"
+  },
+  {
+    prompt: "Roadhog",
+    link: "https://mj-gallery.com/d918b54b-5a56-4532-b610-827a7b74ee48/grid_0.png"
+  },
+  {
+    prompt: "Roadhog",
+    link: "https://mj-gallery.com/1052b8f0-59b3-4704-a4bb-d556b3697fb6/grid_0.png"
+  },
+  {
+    prompt: "Roadhog",
+    link: "https://mj-gallery.com/55d7a6b8-3360-4451-8564-99480de1c179/grid_0.png"
+  },
+  {
+    prompt: "Junkrat",
+    link: "https://mj-gallery.com/c43b7354-d66e-499d-ae99-246260d98a29/grid_0.png"
+  },
+  {
+    prompt: "Junkrat",
+    link: "https://mj-gallery.com/4f336299-d4b4-463e-983b-5e385e759e5d/grid_0.png"
+  },
+  {
+    prompt: "Junkrat",
+    link: "https://mj-gallery.com/32deaa22-fcb1-4d2d-8df9-13c5030bae9a/grid_0.png"
+  },
+  {
+    prompt: "Junkrat",
+    link: "https://mj-gallery.com/03defd29-aca1-44d6-ab40-985f447eb9a1/grid_0.png"
+  },
+  {
+    prompt: "Junkrat",
+    link: "https://mj-gallery.com/6e0d847e-0bf4-4ee4-adc6-c2eb31ecba69/grid_0.png"
+  },
+  {
+    prompt: "Doomfist",
+    link: "https://mj-gallery.com/3a9ee4e3-a35d-41f7-9ff9-f8ec870b2fb0/grid_0.png"
+  },
+  {
+    prompt: "D.Va",
+    link: "https://mj-gallery.com/9dfe7782-2da6-4642-8dcc-d637e39dc350/grid_0.png"
+  },
+  {
+    prompt: "Flatbush Zombies",
+    link: "https://mj-gallery.com/d331ea65-f4f8-447c-9ed1-e6305755427b/grid_0.png"
+  },
+  {
+    prompt: "Ziggs Throwing Ult",
+    link: "https://mj-gallery.com/c2295e95-3fcd-4153-9e9e-e3e42653cc06/grid_0.png"
+  },
+  {
+    prompt: "Ziggs Throwing Ult",
+    link: "https://mj-gallery.com/c8d8cd37-bab0-4221-a2ed-4cb5093edfd6/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty",
+    link: "https://mj-gallery.com/88fec614-a1e7-4f60-a56f-b57111bed8d5/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty",
+    link: "https://mj-gallery.com/1bf82567-b03b-41f5-b27c-5d669f049284/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty The Matrix",
+    link: "https://mj-gallery.com/e31aead2-663d-4166-971a-4f0b49fff3e5/grid_0.png"
+  },
+  {
+    prompt: "The Matrix",
+    link: "https://mj-gallery.com/90f98951-b440-4e32-97d0-11460e5197f0/grid_0.png"
+  },
+  {
+    prompt: "The Lighthouse Robert Eggers",
+    link: "https://mj-gallery.com/4c81eeba-42b9-4959-9d46-8d8643ee6e0d/grid_0.png"
+  },
+  {
+    prompt: "Doomfist Wins the Game",
+    link: "https://mj-gallery.com/26e91797-6c4d-44f9-b3f2-c3f2695f4d56/grid_0.png"
+  },
+  {
+    prompt: "Arranged Godly",
+    link: "https://mj-gallery.com/425b1e8f-44a4-490d-b59d-d3c5fa9adccc/grid_0.png"
+  },
+  {
+    prompt: "Arranged Godly",
+    link: "https://mj-gallery.com/f95d7e65-6643-4656-8323-f723b593a06c/grid_0.png"
+  },
+  {
+    prompt: "Arranged Godly",
+    link: "https://mj-gallery.com/29305d61-3475-47b2-be30-74bcd307e875/grid_0.png"
+  },
+  {
+    prompt: "Arranged Godly",
+    link: "https://mj-gallery.com/0b2b9353-857c-4522-be79-b93edbc5b533/grid_0.png"
+  },
+  {
+    prompt: "Arranged Godly",
+    link: "https://mj-gallery.com/62a8257f-54ca-461a-b999-6af93c30002a/grid_0.png"
+  },
+  {
+    prompt: "Arranged Godly",
+    link: "https://mj-gallery.com/fc235cd5-8d40-40a5-8aff-a39cf67262ba/grid_0.png"
+  },
+  {
+    prompt: "Arranged Godly",
+    link: "https://mj-gallery.com/506a3b56-a6ca-4392-b1d8-dc74f0eb28e5/grid_0.png"
+  },
+  {
+    prompt: "Arranged Godly",
+    link: "https://mj-gallery.com/a83ff172-992c-4e52-96f3-42a953fede98/grid_0.png"
+  },
+  {
+    prompt: "Roadhog",
+    link: "https://mj-gallery.com/9fb60ae6-4440-43a4-b0ae-d99fdeb51bd8/grid_0.png"
+  },
+  {
+    prompt: "Junkrat",
+    link: "https://mj-gallery.com/c9490ccf-7ca9-4b8a-b2cb-b8c33e272a08/grid_0.png"
+  },
+  {
+    prompt: "Darth Vader",
+    link: "https://mj-gallery.com/5b7b2234-9c80-4987-963b-944500ac8624/grid_0.png"
+  },
+  {
+    prompt: "Roadhog",
+    link: "https://mj-gallery.com/0873d47d-3af8-41b9-a2eb-5502297b5ab2/grid_0.png"
+  },
+  {
+    prompt: "Roadhog",
+    link: "https://mj-gallery.com/6de94c65-1708-4b99-8927-7e5c80aa80a0/grid_0.png"
+  },
+  {
+    prompt: "Junkrat",
+    link: "https://mj-gallery.com/df712fe2-1367-40e6-ad2f-ca4de59addd2/grid_0.png"
+  },
+  {
+    prompt: "Junkrat",
+    link: "https://mj-gallery.com/7f50074e-3558-4c8d-bfb4-a63a78ef8aaf/grid_0.png"
+  },
+  {
+    prompt: "Junkrat",
+    link: "https://mj-gallery.com/e304f7f6-4b22-46f8-a9c5-b1f5352fd539/grid_0.png"
+  },
+  {
+    prompt: "Cyber Ninja",
+    link: "https://mj-gallery.com/32571fcd-d676-4788-a539-e4d9de011cdb/grid_0.png"
+  },
+  {
+    prompt: "Crocs and Tuxedo",
+    link: "https://mj-gallery.com/010b0672-3e8c-4dec-9c79-ee24f1541130/grid_0.png"
+  },
+  {
+    prompt: "Roadhog",
+    link: "https://mj-gallery.com/937db31a-6f8e-4fca-891f-c1cac8a72f49/grid_0.png"
+  },
+  {
+    prompt: "Cyber Ninja",
+    link: "https://mj-gallery.com/3fbac3db-ed26-4bb6-b22d-71d1d5dad7b6/grid_0.png"
+  },
+  {
+    prompt: "Cyber Ninja",
+    link: "https://mj-gallery.com/7e165fda-b9b3-42f8-afd3-bf80d48be962/grid_0.png"
+  },
+  {
+    prompt: "Cyber Ninja",
+    link: "https://mj-gallery.com/d5477547-f591-44ea-acd8-ee402b050fe1/grid_0.png"
+  },
+  {
+    prompt: "Cyber Ninja",
+    link: "https://mj-gallery.com/30a399c4-ab6f-4f10-9dd4-191e0e5a4047/grid_0.png"
+  },
+  {
+    prompt: "Cyber Ninja",
+    link: "https://mj-gallery.com/788fb66a-5201-4998-8a9e-93d564294ce8/grid_0.png"
+  },
+  {
+    prompt: "Cyber Ninja",
+    link: "https://mj-gallery.com/83142059-412d-4457-9ce9-0307a7b675bc/grid_0.png"
+  },
+  {
+    prompt: "Cyber Ninja",
+    link: "https://mj-gallery.com/0e1637f9-30da-4311-ae76-b4872ab37d2f/grid_0.png"
+  },
+  {
+    prompt: "Fancy Crocs",
+    link: "https://mj-gallery.com/20d984c6-8cc0-48c9-ac38-e98bdb0311d0/grid_0.png"
+  },
+  {
+    prompt: "Fancy Crocs",
+    link: "https://mj-gallery.com/d45971c0-6d2e-4c28-9f8e-d9602c8abd07/grid_0.png"
+  },
+  {
+    prompt: "JFK as a Robot",
+    link: "https://mj-gallery.com/6a7a5e20-13c5-4548-a04f-bb8cdae10557/grid_0.png"
+  },
+  {
+    prompt: "JFK as a Robot",
+    link: "https://mj-gallery.com/4cf897d2-9cd7-4b5a-9e94-cf7f67341875/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty",
+    link: "https://mj-gallery.com/7b7f2eb6-0af0-4e68-bfe8-fb23f54dfeb9/grid_0.png"
+  },
+  {
+    prompt: "Internet Troll",
+    link: "https://mj-gallery.com/aa40c328-4337-41ae-ba7f-f9edff1d3d31/grid_0.png"
+  },
+  {
+    prompt: "Eric Andre as Ronald McDonald",
+    link: "https://mj-gallery.com/5ec11e10-f402-487f-b544-1533e5b7862d/grid_0.png"
+  },
+  {
+    prompt: "Eric Andre as Ronald McDonald",
+    link: "https://mj-gallery.com/dfcdfd4e-f812-48d5-9fd1-b6284c7aedcc/grid_0.png"
+  },
+  {
+    prompt: "Eric Andre as Ronald McDonald",
+    link: "https://mj-gallery.com/1ccc1048-2c16-4f6e-8d62-8bddef996aca/grid_0.png"
+  },
+  {
+    prompt: "Eric Andre as Ronald McDonald",
+    link: "https://mj-gallery.com/4e60d114-b7ed-44e5-848b-8a69ea626411/grid_0.png"
+  },
+  {
+    prompt: "Eric Andre as Ronald McDonald",
+    link: "https://mj-gallery.com/ff3d36bb-6f8d-4390-b076-4db710fab132/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty",
+    link: "https://mj-gallery.com/c90027c7-77f3-439c-80c7-13c84bfc589d/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty",
+    link: "https://mj-gallery.com/08a575ee-3e84-4c1b-bfe8-a0ceda14cbad/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty",
+    link: "https://mj-gallery.com/30294387-b51e-40f7-bf15-2a3b1cafcaa8/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty",
+    link: "https://mj-gallery.com/1e106ee1-5078-4e98-a56a-4d3627caada1/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty",
+    link: "https://mj-gallery.com/04384142-4f19-4cab-948d-06e5e36b7e14/grid_0.png"
+  },
+  {
+    prompt: "Rick and Morty",
+    link: "https://mj-gallery.com/f8376339-e7c5-4949-a4b0-dfdf648edb18/grid_0.png"
+  },
+  {
+    prompt: "Faded Polaroid Photo of Gangsters Making a Trade",
+    link: "https://mj-gallery.com/88b4537b-913c-4925-a124-00ff0ca91c77/grid_0.png"
+  },
+  {
+    prompt: "Faded Polaroid Photo of Gangsters Making a Trade",
+    link: "https://mj-gallery.com/6caa0418-e2d1-4073-997d-033f8366272e/grid_0.png"
+  },
+  {
+    prompt: "Faded Polaroid Photo of Gangsters Making a Trade",
+    link: "https://mj-gallery.com/3d5a3dc0-6fcb-48ac-a9b1-6ae523aaed8d/grid_0.png"
+  },
+  {
+    prompt: "Faded Polaroid Photo of Gangsters Making a Trade",
+    link: "https://mj-gallery.com/cba87502-d41b-46f7-b3d3-408c55b3e583/grid_0.png"
+  },
+  {
+    prompt: "Spaceship Made of Garbage",
+    link: "https://mj-gallery.com/7b3e8107-6c81-46bd-8329-50a1efdf4721/grid_0.png"
+  },
+  {
+    prompt: "Spaceship Made of Garbage",
+    link: "https://mj-gallery.com/cfba58de-e58c-40d1-ab30-bc3a0d2508c6/grid_0.png"
   }
 ];
 
