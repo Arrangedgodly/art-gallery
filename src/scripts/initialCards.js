@@ -6466,6 +6466,82 @@ export const initialCards = [
   {
     prompt: "Dwarven City",
     link: "https://mj-gallery.com/9b3f6e6d-3b79-4adc-b3f2-0137d9a09842/grid_0.png"
+  },
+  {
+    prompt: "Dwarven City",
+    link: "https://mj-gallery.com/be705f60-a038-40d7-bdd0-06dd0f992ed9/grid_0.png"
+  },
+  {
+    prompt: "Dwarven City",
+    link: "https://mj-gallery.com/b67445c5-2fa3-42e5-afaa-0a2dddbf90c3/grid_0.png"
+  },
+  {
+    prompt: "Dwarven City",
+    link: "https://mj-gallery.com/134ff3e8-f3f1-46f9-a8d1-3eadbe59d5ca/grid_0.png"
+  },
+  {
+    prompt: "Dwarven City",
+    link: "https://mj-gallery.com/59ef0d09-18f1-4280-ad6e-6908b616f48a/grid_0.png"
+  },
+  {
+    prompt: "Medival Castle",
+    link: "https://mj-gallery.com/c8f4304b-2d12-4016-a18e-cf8b50c441d9/grid_0.png"
+  },
+  {
+    prompt: "Hobbit Hole",
+    link: "https://mj-gallery.com/3da93ef2-4f32-4407-b2da-57ddf7d743e7/grid_0.png"
+  },
+  {
+    prompt: "Hobbit Hole",
+    link: "https://mj-gallery.com/0085c7f1-06bf-4123-b865-56f3613794d1/grid_0.png"
+  },
+  {
+    prompt: "Hobbit Hole",
+    link: "https://mj-gallery.com/fcba4c46-d9ab-4cbb-880b-d6eb7e2447b7/grid_0.png"
+  },
+  {
+    prompt: "Hobbit Hole",
+    link: "https://mj-gallery.com/b7ab04de-bd0b-47a6-b4bc-280506ca02ea/grid_0.png"
+  },
+  {
+    prompt: "Pirate Battle",
+    link: "https://mj-gallery.com/61ba834b-d47e-49df-8052-65b06a931624/grid_0.png"
+  },
+  {
+    prompt: "Aesop Rock",
+    link: "https://mj-gallery.com/bcec86bb-9921-46b2-95dd-afca98c69666/grid_0.png"
+  },
+  {
+    prompt: "Mines of Moria",
+    link: "https://mj-gallery.com/779de528-b4ea-4314-bcbd-6e0d23ada342/grid_0.png"
+  },
+  {
+    prompt: "Mines of Moria",
+    link: "https://mj-gallery.com/cf7d579e-ffd2-4938-b664-6a47a25fb8fa/grid_0.png"
+  },
+  {
+    prompt: "Mines of Moria",
+    link: "https://mj-gallery.com/b66d7c3a-cd78-4162-96de-ab992583c8dd/grid_0.png"
+  },
+  {
+    prompt: "Mines of Moria",
+    link: "https://mj-gallery.com/f8cf6116-7595-4e42-9a0b-c92aa02d164c/grid_0.png"
+  },
+  {
+    prompt: "Aesop Rock",
+    link: "https://mj-gallery.com/9e9fac5a-a958-4070-b70e-cb2dd6260814/grid_0.png"
+  },
+  {
+    prompt: "Aesop Rock",
+    link: "https://mj-gallery.com/ca9d7c99-b2d5-4c00-8a73-95f41a7e11e9/grid_0.png"
+  },
+  {
+    prompt: "Volcano Erupting Lava",
+    link: "https://mj-gallery.com/d4314899-51ac-42c2-a44e-153360a3b4e4/grid_0.png"
+  },
+  {
+    prompt: "Aftermath of Nuclear Blast",
+    link: "https://mj-gallery.com/1d130981-93b6-4649-834c-103c3b4631eb/grid_0.png"
   }
 ];
 
