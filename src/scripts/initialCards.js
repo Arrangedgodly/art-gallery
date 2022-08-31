@@ -6214,6 +6214,258 @@ export const initialCards = [
   {
     prompt: "Flying Spaghetti Monster",
     link: "https://mj-gallery.com/a08c688f-165e-45c8-87df-2fb4abc3f96b/grid_0.png"
+  },
+  {
+    prompt: "The Matrix",
+    link: "https://mj-gallery.com/a2995157-e789-40da-abee-e45ebce02e51/grid_0.png"
+  },
+  {
+    prompt: "The Matrix",
+    link: "https://mj-gallery.com/1133b43f-0760-430c-b47d-ded948a264cd/grid_0.png"
+  },
+  {
+    prompt: "Haunted Castle",
+    link: "https://mj-gallery.com/02b28db1-1673-4e91-8676-bf60a50d0ca8/grid_0.png"
+  },
+  {
+    prompt: "Haunted Castle",
+    link: "https://mj-gallery.com/74a735e9-71ea-4499-8bc4-ebf40c85bd15/grid_0.png"
+  },
+  {
+    prompt: "Haunted Castle",
+    link: "https://mj-gallery.com/77e93064-5c5a-4a71-955b-5943bf4c903c/grid_0.png"
+  },
+  {
+    prompt: "Haunted Castle",
+    link: "https://mj-gallery.com/bae63c1d-49ea-42a1-afea-85d8f33842d3/grid_0.png"
+  },
+  {
+    prompt: "Texas Chainsaw Cyberpunk",
+    link: "https://mj-gallery.com/e4e37232-1e47-4528-b121-eb36eb0702fa/grid_0.png"
+  },
+  {
+    prompt: "Mr Meeseeks",
+    link: "https://mj-gallery.com/ce716d8e-8fb5-4d37-a759-2630d22d8197/grid_0.png"
+  },
+  {
+    prompt: "Texas Chainsaw Cyberpunk",
+    link: "https://mj-gallery.com/79677ab0-9ddf-47ab-8274-c2411d5664b4/grid_0.png"
+  },
+  {
+    prompt: "Texas Chainsaw Cyberpunk",
+    link: "https://mj-gallery.com/eb910406-c1f7-4b78-a3e3-ac18147d50c5/grid_0.png"
+  },
+  {
+    prompt: "Texas Chainsaw Cyberpunk",
+    link: "https://mj-gallery.com/6c8f8911-177a-4f0c-a821-52ae6e95ee03/grid_0.png"
+  },
+  {
+    prompt: "Texas Chainsaw Cyberpunk",
+    link: "https://mj-gallery.com/569d73fd-5eb1-4665-896c-afb60fe3e5c3/grid_0.png"
+  },
+  {
+    prompt: "Mr Meeseeks",
+    link: "https://mj-gallery.com/f8bd3255-a981-42c2-b1be-0f8550f06272/grid_0.png"
+  },
+  {
+    prompt: "Mr Meeseeks",
+    link: "https://mj-gallery.com/c77bf40f-e3a6-4039-9e60-c8148b4bbe79/grid_0.png"
+  },
+  {
+    prompt: "Mr Meeseeks",
+    link: "https://mj-gallery.com/b9868813-777b-49ed-86d0-ad5416ab3b82/grid_0.png"
+  },
+  {
+    prompt: "Futuristic Paradise",
+    link: "https://mj-gallery.com/e1137914-a775-43e7-977c-fb7ffc7e2dae/grid_0.png"
+  },
+  {
+    prompt: "Futuristic Paradise",
+    link: "https://mj-gallery.com/405753f0-6c0d-4e90-a571-e7a39684bb25/grid_0.png"
+  },
+  {
+    prompt: "Futuristic Paradise",
+    link: "https://mj-gallery.com/59620cda-c477-4774-adc1-d2d64ad2b085/grid_0.png"
+  },
+  {
+    prompt: "Futuristic Paradise",
+    link: "https://mj-gallery.com/dadf3d39-73c3-4e4f-b08d-ace757e73db7/grid_0.png"
+  },
+  {
+    prompt: "Futuristic Paradise",
+    link: "https://mj-gallery.com/b8e87ff0-9357-4c4d-a88c-5065faaf054a/grid_0.png"
+  },
+  {
+    prompt: "Futuristic Paradise",
+    link: "https://mj-gallery.com/19791d5f-daa2-49c0-9749-fb64890bf5b7/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/54ee0d17-1066-4a3d-9528-3020bc5a64da/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/43a4d08a-422a-4831-8351-36ac60e65e84/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/9d6e8962-f3eb-4e7a-af8b-b3b21b81d48e/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/dc5130be-e2c5-4056-b919-6ffb9d30abd2/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/5168c484-27b1-4187-9bca-89067a36bfce/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/f16a0c85-69e4-476d-9dbf-e2fab09012c3/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/c44cfa42-f93e-43b4-bb01-70c057879a4c/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/4019f785-d360-4c0a-9f28-304f03421f58/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/2325cd55-b3d8-459d-aef1-91b9f7bbba13/grid_0.png"
+  },
+  {
+    prompt: "Morning Dew Amongst the Sand Dunes",
+    link: "https://mj-gallery.com/b7df071a-7315-4721-9a4d-663ef726b055/grid_0.png"
+  },
+  {
+    prompt: "Animar, Soul of Elements",
+    link: "https://mj-gallery.com/2664870d-68a1-4cf5-a959-ac9cf4d8ef3d/grid_0.png"
+  },
+  {
+    prompt: "Futuristic Paradise",
+    link: "https://mj-gallery.com/003741bd-b43b-4201-91f6-3569b624230c/grid_0.png"
+  },
+  {
+    prompt: "Animar, Soul of Elements",
+    link: "https://mj-gallery.com/bdf987bf-8cb0-4c40-a1ef-5b4a3b90f13d/grid_0.png"
+  },
+  {
+    prompt: "Animar, Soul of Elements",
+    link: "https://mj-gallery.com/bf657b31-636d-4f16-8844-bac299343c8d/grid_0.png"
+  },
+  {
+    prompt: "Animar, Soul of Elements",
+    link: "https://mj-gallery.com/a837954f-7f42-4ee8-96c5-b38934f78c79/grid_0.png"
+  },
+  {
+    prompt: "Animar, Soul of Elements",
+    link: "https://mj-gallery.com/ed23ac2a-2f6c-4280-8725-b086483c213e/grid_0.png"
+  },
+  {
+    prompt: "Animar, Soul of Elements",
+    link: "https://mj-gallery.com/7739cec6-3ce2-4115-b7df-9c6390ad4147/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/c3ba9ffb-900b-495f-b7fa-685c3a80a9c0/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/87fd2743-22a5-4d9f-ba18-6d9bb45400a3/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/051cdfb1-4706-4576-93c8-12fb4db10c2c/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/a24aac84-e575-4e3f-bd80-439e8f5e5b11/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/fedfe082-e15b-4dff-9405-8c637b8763be/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/ba6b9899-ab36-4d39-8bab-aef63976fc15/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/6c2724b2-f183-469c-827e-368b095a610b/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/d05741a4-554d-4682-a58c-a2838414a497/grid_0.png"
+  },
+  {
+    prompt: "At World's End",
+    link: "https://mj-gallery.com/13c1a36e-0c78-476b-945c-a8784b1aa092/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/d070eb87-53c2-43f7-8b7d-7e264dd237c4/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/872410d2-e11b-46dd-941b-5395d1783bde/grid_0.png"
+  },
+  {
+    prompt: "Galactic Space",
+    link: "https://mj-gallery.com/676086a5-7685-4e2e-9bb2-6d174779c217/grid_0.png"
+  },
+  {
+    prompt: "Futuristic Paradise",
+    link: "https://mj-gallery.com/a8a02609-e1b5-49a3-8770-4476d93be86e/grid_0.png"
+  },
+  {
+    prompt: "Futuristic Paradise",
+    link: "https://mj-gallery.com/cf5b2f81-9df9-4349-b58c-3a8495ad238d/grid_0.png"
+  },
+  {
+    prompt: "Futuristic Paradise",
+    link: "https://mj-gallery.com/136ac9cc-fcb8-4865-8e4e-e3572a0d82ab/grid_0.png"
+  },
+  {
+    prompt: "Galaxy in a Glass Bubble",
+    link: "https://mj-gallery.com/7b4b6e81-9251-467f-8287-2977c14bc4ff/grid_0.png"
+  },
+  {
+    prompt: "Canon Beach Oregon",
+    link: "https://mj-gallery.com/a2b3cd45-cee6-4b08-b33e-39aa2456ee34/grid_0.png"
+  },
+  {
+    prompt: "Canon Beach Oregon",
+    link: "https://mj-gallery.com/08f1552d-397c-470c-9566-62c47aab9c6a/grid_0.png"
+  },
+  {
+    prompt: "Necromancer",
+    link: "https://mj-gallery.com/4d5754bb-1ca0-45fa-afed-eeefb430f75e/grid_0.png"
+  },
+  {
+    prompt: "Pirate Battle",
+    link: "https://mj-gallery.com/901891d0-a1d2-432b-861b-ea192c3a61c1/grid_0.png"
+  },
+  {
+    prompt: "Pirate Battle",
+    link: "https://mj-gallery.com/141fab4f-c02a-4271-8fd8-9a00ac070e2b/grid_0.png"
+  },
+  {
+    prompt: "Northern Lights",
+    link: "https://mj-gallery.com/7099728e-92f3-4d3b-bdf9-032459ab4a1f/grid_0.png"
+  },
+  {
+    prompt: "Northern Lights",
+    link: "https://mj-gallery.com/54926b59-a9e2-40f2-9883-32fb947bb049/grid_0.png"
+  },
+  {
+    prompt: "Medival Castle",
+    link: "https://mj-gallery.com/6fe498c4-f808-48ea-a838-91a8ed33dd1c/grid_0.png"
+  },
+  {
+    prompt: "Dwarven City",
+    link: "https://mj-gallery.com/9b3f6e6d-3b79-4adc-b3f2-0137d9a09842/grid_0.png"
   }
 ];
 

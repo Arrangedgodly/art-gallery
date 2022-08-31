@@ -57,16 +57,20 @@ export function checkArrows(num) {
   if (num === 0) {
     leftArrow.setAttribute("style", "opacity: 0;");
     leftArrow.setAttribute("disabled", "true");
+    checkPageStatus();
   } else if (num > 0) {
     leftArrow.setAttribute("style", "opacity: 1;");
     leftArrow.removeAttribute("disabled");
+    checkPageStatus();
   };
   if ((num + 1) >= (numberOfPages)) {
     rightArrow.setAttribute("style", "opacity: 0;");
     rightArrow.setAttribute("disabled", "true");
+    checkPageStatus();
   } else if ((num + 1 ) < (numberOfPages)) {
     rightArrow.setAttribute("style", "opacity: 1;");
     rightArrow.removeAttribute("disabled");
+    checkPageStatus();
   }
 }
 
@@ -78,7 +82,7 @@ export function changePages(num) {
   activePage.classList.add("page-hidden");
   if (num === 1) {
     if (nextPage === null) {
-      activePage.classList.remove("page-hidden");6
+      activePage.classList.remove("page-hidden");
       return;
     }
     nextPage.classList.remove("page-hidden");
@@ -127,4 +131,23 @@ export function handleSortButton() {
     sortCounter++;
     }
   buildPages(initialCards);
+}
+
+const checkPageStatus = () => {
+  const pages = Array.from(document.querySelectorAll(".page"));
+  pages.forEach((page) => {
+    if (page.classList.contains("page-hidden")) {
+      const cards = Array.from(page.querySelectorAll(".card"));
+      cards.forEach((card) => {
+        const cardImage = card.querySelector(".img");
+        cardImage.setAttribute("loading", "lazy");
+      });
+    } else {
+      const cards = Array.from(page.querySelectorAll(".card"));
+      cards.forEach((card) => {
+        const cardImage = card.querySelector(".img");
+        cardImage.setAttribute("loading", "eager");
+      });
+    }
+  })
 }
