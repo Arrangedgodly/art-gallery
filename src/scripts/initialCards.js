@@ -6542,6 +6542,194 @@ export const initialCards = [
   {
     prompt: "Aftermath of Nuclear Blast",
     link: "https://mj-gallery.com/1d130981-93b6-4649-834c-103c3b4631eb/grid_0.png"
+  },
+  {
+    prompt: "Volcano Erupting Lava",
+    link: "https://mj-gallery.com/ef2f0a97-a82f-4bfd-b0ff-1b5e62ecbf49/grid_0.png"
+  },
+  {
+    prompt: "Aftermath of Nuclear Blast",
+    link: "https://mj-gallery.com/06ee28ad-44ef-40d3-ada8-fcc4945613b2/grid_0.png"
+  },
+  {
+    prompt: "Aftermath of Nuclear Blast",
+    link: "https://mj-gallery.com/7954fa29-881d-4afb-866d-4454151bca62/grid_0.png"
+  },
+  {
+    prompt: "Aftermath of Nuclear Blast",
+    link: "https://mj-gallery.com/e8ab3b79-a239-474d-81d0-c29ca50af6a3/grid_0.png"
+  },
+  {
+    prompt: "Aftermath of Nuclear Blast",
+    link: "https://mj-gallery.com/0b125666-1b60-4106-aaf8-95d391cada81/grid_0.png"
+  },
+  {
+    prompt: "Bermuda Triangle Storm",
+    link: "https://mj-gallery.com/71ee7107-9904-4bc6-8121-392980a21753/grid_0.png"
+  },
+  {
+    prompt: "Bermuda Triangle Storm",
+    link: "https://mj-gallery.com/25eb75a3-6d4f-439b-886e-904bbf2cc547/grid_0.png"
+  },
+  {
+    prompt: "Shadows are Watching",
+    link: "https://mj-gallery.com/4949562c-0d6a-47f1-9ed0-6090a62183da/grid_0.png"
+  },
+  {
+    prompt: "Shadows are Watching",
+    link: "https://mj-gallery.com/ab4c9af0-84f7-48c3-b0e5-9f817719c4a9/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Blast",
+    link: "https://mj-gallery.com/326ca7d6-a209-41aa-9081-6ddc1dbf5dce/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Blast",
+    link: "https://mj-gallery.com/23d6b5b8-2c36-4488-a9ae-f171e115a269/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Blast",
+    link: "https://mj-gallery.com/09499920-53d8-4303-9017-91cc11dfb59a/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Blast",
+    link: "https://mj-gallery.com/9d9939cc-de90-474e-9b76-839ecaa76406/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Blast",
+    link: "https://mj-gallery.com/e45f754d-1ed3-449f-9d3a-3f6be6fb9bbd/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Blast",
+    link: "https://mj-gallery.com/7cc7f3a5-ee2c-4f57-b7dc-a2f3adda1642/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Blast",
+    link: "https://mj-gallery.com/863171a2-6f9f-4656-8976-c99610a248ac/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Blast",
+    link: "https://mj-gallery.com/af938b54-85b9-43f4-8a14-f3093a7e3b3a/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Blast",
+    link: "https://mj-gallery.com/e82e7ad9-7d96-4706-ae79-4ea33d72834b/grid_0.png"
+  },
+  {
+    prompt: "Man Falling into Endless Hole",
+    link: "https://mj-gallery.com/7c883139-80cb-48e1-9f1f-05642dfc503a/grid_0.png"
+  },
+  {
+    prompt: "Man Falling into Endless Hole",
+    link: "https://mj-gallery.com/635e4493-25be-482f-8887-6118df17fafc/grid_0.png"
+  },
+  {
+    prompt: "Man Falling into Endless Hole",
+    link: "https://mj-gallery.com/8f6e6783-a5f8-4360-84a0-7212a1bc171e/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/d09e515a-ebd1-4c95-88e3-aa015a161b7a/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/50d36801-601d-45ed-81bc-16e8bfd3df5b/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/6770946a-12c8-4ef9-9991-ff291c7aa16a/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/ede93696-2f69-4fee-8cbb-e12bc5c874ea/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/10c72792-40e5-426c-8de0-fc93f07f7ac3/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/41d4f456-80a7-4ada-8ac9-8dd621ed8d92/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/97291823-8ff1-483b-9bd4-6b95ba5e9077/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/b7278224-99e6-4375-8b44-229f12978bd1/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/08d3b1f3-5634-490d-9220-f81f7683f81d/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/c8507783-0705-4759-b2a9-ea6295430a04/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/62050437-4fba-4815-a9cc-00767fde33f1/grid_0.png"
+  },
+  {
+    prompt: "Interstellar Teleportation",
+    link: "https://mj-gallery.com/f651c32e-a5eb-4730-addf-ed2fcc0dd14d/grid_0.png"
+  },
+  {
+    prompt: "Cliff Overlooking Cave Entrance",
+    link: "https://mj-gallery.com/97488f89-7633-40a2-81ce-40a7bc4eac68/grid_0.png"
+  },
+  {
+    prompt: "Cliff Overlooking Cave Entrance",
+    link: "https://mj-gallery.com/52396963-ad35-438e-aab3-e78be60c5630/grid_0.png"
+  },
+  {
+    prompt: "Cliff Overlooking Cave Entrance",
+    link: "https://mj-gallery.com/6adb76ab-45b0-4441-a4b8-1d98f5893e89/grid_0.png"
+  },
+  {
+    prompt: "Cliff Overlooking Cave Entrance",
+    link: "https://mj-gallery.com/d09b05f0-6905-4abd-bcbb-c1a25785a1dd/grid_0.png"
+  },
+  {
+    prompt: "Cliff Overlooking Cave Entrance",
+    link: "https://mj-gallery.com/43a16dbd-d64b-442b-a721-ec5e311bf554/grid_0.png"
+  },
+  {
+    prompt: "Cliff Overlooking Cave Entrance",
+    link: "https://mj-gallery.com/a1a45fb6-9d0d-46d7-95c3-7c5d5f62502c/grid_0.png"
+  },
+  {
+    prompt: "Cliff Overlooking Cave Entrance",
+    link: "https://mj-gallery.com/37c2d8d9-3336-4fc4-ae86-44ded827b508/grid_0.png"
+  },
+  {
+    prompt: "Cliff Overlooking Cave Entrance",
+    link: "https://mj-gallery.com/685bbd2f-3b20-4c8b-bbfa-4d2b3caa8ca9/grid_0.png"
+  },
+  {
+    prompt: "Cliff Overlooking Cave Entrance",
+    link: "https://mj-gallery.com/3c97d192-a620-4afb-abc3-dddefb4b396f/grid_0.png"
+  },
+  {
+    prompt: "Cliff Overlooking Cave Entrance",
+    link: "https://mj-gallery.com/fdf66f6a-3a14-4c6c-aebf-a47392ed2826/grid_0.png"
+  },
+  {
+    prompt: "Cliff Overlooking Cave Entrance",
+    link: "https://mj-gallery.com/2ccc7e54-e25a-4965-95fb-93f8883c9480/grid_0.png"
+  },
+  {
+    prompt: "The Crypt",
+    link: "https://mj-gallery.com/ba5c95dd-80d1-4de4-a4c9-de60cb4ea340/grid_0.png"
+  },
+  {
+    prompt: "The Crypt",
+    link: "https://mj-gallery.com/e86a163b-e8ae-4481-94ac-88f2cec89619/grid_0.png"
+  },
+  {
+    prompt: "Labyrinth",
+    link: "https://mj-gallery.com/95e57dc4-ccf2-46b8-a188-0ae54d2fe3d3/grid_0.png"
   }
 ];
 
