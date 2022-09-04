@@ -6730,6 +6730,614 @@ export const initialCards = [
   {
     prompt: "Labyrinth",
     link: "https://mj-gallery.com/95e57dc4-ccf2-46b8-a188-0ae54d2fe3d3/grid_0.png"
+  },
+  {
+    prompt: "Brink of Insanity",
+    link: "https://mj-gallery.com/10f10e31-65a0-4142-b30e-e193b99d5929/grid_0.png"
+  },
+  {
+    prompt: "Brink of Insanity",
+    link: "https://mj-gallery.com/30a9a4de-69de-4c5d-8d77-9a35e0c0f29d/grid_0.png"
+  },
+  {
+    prompt: "Brink of Insanity",
+    link: "https://mj-gallery.com/4c7f004a-c1f6-41be-b28d-d618a88a1b7f/grid_0.png"
+  },
+  {
+    prompt: "Brink of Insanity",
+    link: "https://mj-gallery.com/56fb91ec-6aa7-4cc0-a8b2-81d1f0888d28/grid_0.png"
+  },
+  {
+    prompt: "Brink of Insanity",
+    link: "https://mj-gallery.com/b78f4dba-8760-42a1-b5b5-613dc43219d6/grid_0.png"
+  },
+  {
+    prompt: "Brink of Insanity",
+    link: "https://mj-gallery.com/7ccaed63-227c-4ba0-adbb-c3e3d78c7e76/grid_0.png"
+  },
+  {
+    prompt: "Brink of Insanity",
+    link: "https://mj-gallery.com/14404fe8-0487-4164-a77a-b891b36ef3b6/grid_0.png"
+  },
+  {
+    prompt: "Chamber of Secrets",
+    link: "https://mj-gallery.com/07cc1969-0d94-4389-9acb-f7142d4abf86/grid_0.png"
+  },
+  {
+    prompt: "Chamber of Secrets",
+    link: "https://mj-gallery.com/7792762f-e9b7-49bd-ab17-1be44c19f039/grid_0.png"
+  },
+  {
+    prompt: "Skeleton King",
+    link: "https://mj-gallery.com/c676aea7-59b3-4bd1-b444-017a1046a7cb/grid_0.png"
+  },
+  {
+    prompt: "Peter Griffin",
+    link: "https://mj-gallery.com/3f7e0b7b-d0c0-42c2-be56-55d784326927/grid_0.png"
+  },
+  {
+    prompt: "Peter Griffin",
+    link: "https://mj-gallery.com/8306a5f5-d116-4e78-b1e3-f5ea105fa0e7/grid_0.png"
+  },
+  {
+    prompt: "Pink Floyd",
+    link: "https://mj-gallery.com/2678c391-9b7b-4b01-a305-f1fb76be1eca/grid_0.png"
+  },
+  {
+    prompt: "Pink Floyd",
+    link: "https://mj-gallery.com/3a282200-6cff-476b-a73c-e37e5eb3a7f6/grid_0.png"
+  },
+  {
+    prompt: "Dinosaur Rave",
+    link: "https://mj-gallery.com/18ae98b5-edd5-4521-8565-e9c4ce77737f/grid_0.png"
+  },
+  {
+    prompt: "Dinosaur Rave",
+    link: "https://mj-gallery.com/9ddb5929-8c0b-4c43-b1e6-4254900836bd/grid_0.png"
+  },
+  {
+    prompt: "Run Like Hell",
+    link: "https://mj-gallery.com/fc43bc60-bd2d-4616-9964-2832bf4a33c4/grid_0.png"
+  },
+  {
+    prompt: "Pink Floyd",
+    link: "https://mj-gallery.com/b94690fc-ed74-4007-83ad-a258c451dbb7/grid_0.png"
+  },
+  {
+    prompt: "Pink Floyd",
+    link: "https://mj-gallery.com/81847b4f-f4b1-47fa-8e9d-b14cc01a2462/grid_0.png"
+  },
+  {
+    prompt: "Halloween Cat",
+    link: "https://mj-gallery.com/75bb23f7-472f-49cd-ae50-52929e704dc6/grid_0.png"
+  },
+  {
+    prompt: "Halloween Cat",
+    link: "https://mj-gallery.com/01062c3e-c441-4e13-a8df-af2ccbffb469/grid_0.png"
+  },
+  {
+    prompt: "Halloween Cat",
+    link: "https://mj-gallery.com/01ce0983-33d1-4c16-a612-2c43043f32ff/grid_0.png"
+  },
+  {
+    prompt: "Halloween Cat",
+    link: "https://mj-gallery.com/21520a96-65d1-48b0-a8c0-84e44c80893b/grid_0.png"
+  },
+  {
+    prompt: "Halloween Cat",
+    link: "https://mj-gallery.com/26284b96-ab64-4aa6-9031-1f99d8db8e37/grid_0.png."
+  },
+  {
+    prompt: "Cat Under Bridge",
+    link: "https://mj-gallery.com/c9e65521-f4cb-4a29-af3b-bd2c8183b28e/grid_0.png"
+  },
+  {
+    prompt: "Cat Under Bridge",
+    link: "https://mj-gallery.com/4417d92c-0f7f-4aa5-8554-b52fcd2a33d5/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Carnival",
+    link: "https://mj-gallery.com/73bed1bc-0668-4006-bb13-f419e70d0f2e/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Carnival",
+    link: "https://mj-gallery.com/598d8510-3b36-4410-99c6-27b88ccfb04f/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Carnival",
+    link: "https://mj-gallery.com/02e8856e-f445-4d92-8384-c37cc5cc1fb8/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Carnival",
+    link: "https://mj-gallery.com/585f9b16-f2fd-4389-b510-069e46ecaa0d/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Carnival",
+    link: "https://mj-gallery.com/bfcf3105-12b7-4c95-a88a-fa85bc9a17b4/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Carnival",
+    link: "https://mj-gallery.com/85c72d65-0ee0-4476-80ce-86d899906e17/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Carnival",
+    link: "https://mj-gallery.com/0e3efff4-0db1-481e-93fd-bbb919ce9b06/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Carnival",
+    link: "https://mj-gallery.com/7255180e-1754-4c59-98fc-17ced9e23abe/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Carnival",
+    link: "https://mj-gallery.com/f2530eb0-2c9b-4010-bc0a-72a8e71e7e05/grid_0.png"
+  },
+  {
+    prompt: "Psychedelic Carnival",
+    link: "https://mj-gallery.com/bfe97341-24ae-4ce8-a68c-85888dd036e4/grid_0.png"
+  },
+  {
+    prompt: "Brink of Insanity",
+    link: "https://mj-gallery.com/b1207c29-ebf8-4d8e-9eb7-71638f6b1056/grid_0.png"
+  },
+  {
+    prompt: "Brink of Insanity",
+    link: "https://mj-gallery.com/801b2256-fbfe-4060-bb29-5aecd992954a/grid_0.png"
+  },
+  {
+    prompt: "Tight Rope Over Pits of Despair",
+    link: "https://mj-gallery.com/e6000c04-422b-41d4-b528-909958b08cbb/grid_0.png"
+  },
+  {
+    prompt: "Tight Rope Over Pits of Despair",
+    link: "https://mj-gallery.com/ff77fa91-6ae3-412e-848d-8abba7663527/grid_0.png"
+  },
+  {
+    prompt: "Vaporwave",
+    link: "https://mj-gallery.com/19f405a2-166a-4800-9af7-89840c9508c0/grid_0.png"
+  },
+  {
+    prompt: "Vaporwave",
+    link: "https://mj-gallery.com/b89bad87-28bb-41ca-a89f-9c1ec1a294aa/grid_0.png"
+  },
+  {
+    prompt: "Vaporwave",
+    link: "https://mj-gallery.com/999c36a7-2faf-4f07-9350-0d7b3dc5effd/grid_0.png"
+  },
+  {
+    prompt: "Vaporwave",
+    link: "https://mj-gallery.com/d85499ff-c3c7-41fe-b7e4-e90723f9f56f/grid_0.png"
+  },
+  {
+    prompt: "Vaporwave",
+    link: "https://mj-gallery.com/d81c2468-ac65-4e1f-adcc-3fa77b85a6f9/grid_0.png"
+  },
+  {
+    prompt: "Vaporwave",
+    link: "https://mj-gallery.com/95e4caa9-492c-482e-8cd1-81eb93bffd5b/grid_0.png"
+  },
+  {
+    prompt: "Vaporwave",
+    link: "https://mj-gallery.com/8f5f263f-6450-4076-b538-43da7a204883/grid_0.png"
+  },
+  {
+    prompt: "Vaporwave",
+    link: "https://mj-gallery.com/4fb7a3f6-feee-4d25-9d8a-3b2156a212c4/grid_0.png"
+  },
+  {
+    prompt: "Vaporwave",
+    link: "https://mj-gallery.com/19df05a3-7154-40c3-a2f5-521b5709e393/grid_0.png"
+  },
+  {
+    prompt: "Cry Baby Triggered",
+    link: "https://mj-gallery.com/6e925c3e-e854-42ab-8e93-567cbc2e0348/grid_0.png"
+  },
+  {
+    prompt: "Cry Baby Triggered",
+    link: "https://mj-gallery.com/5da5b6c4-0f0d-4575-9d17-17d7a81df5f2/grid_0.png"
+  },
+  {
+    prompt: "Cry Baby Triggered",
+    link: "https://mj-gallery.com/69b492dc-1030-4dd1-809b-80240d08519a/grid_0.png"
+  },
+  {
+    prompt: "Cry Baby Triggered",
+    link: "https://mj-gallery.com/c2bb8552-e856-4e15-8714-c8577f7d45df/grid_0.png"
+  },
+  {
+    prompt: "Cry Baby Triggered",
+    link: "https://mj-gallery.com/72fa303d-35f3-4560-bd3b-5c0df8d0b8a2/grid_0.png"
+  },
+  {
+    prompt: "Space Galleon",
+    link: "https://mj-gallery.com/ff9d6d34-267c-4068-b298-e2f7b6fb0bf5/grid_0.png"
+  },
+  {
+    prompt: "Space Galleon",
+    link: "https://mj-gallery.com/ffcbab2c-452a-4e92-9017-3a8787e25de5/grid_0.png"
+  },
+  {
+    prompt: "Space Galleon",
+    link: "https://mj-gallery.com/80c4cb71-4992-4369-9500-99eb108baa1e/grid_0.png"
+  },
+  {
+    prompt: "Trolled",
+    link: "https://mj-gallery.com/47996ff8-695a-4b43-a5de-313a698129aa/grid_0.png"
+  },
+  {
+    prompt: "Triggered and Crying",
+    link: "https://mj-gallery.com/99e248ee-3ec9-41f7-b31f-089b3ad7bc64/grid_0.png"
+  },
+  {
+    prompt: "Goblins Ransack Villagers",
+    link: "https://mj-gallery.com/98bf3ff5-5d04-4458-8ea6-9ecda0b8cb5f/grid_0.png"
+  },
+  {
+    prompt: "Goblins Ransack Villagers",
+    link: "https://mj-gallery.com/5864fca8-a2b3-46e4-aa2a-bfd2467f6ca4/grid_0.png"
+  },
+  {
+    prompt: "Goblins Ransack Villagers",
+    link: "https://mj-gallery.com/378e6569-a756-4b13-92ac-dcc177d7518c/grid_0.png"
+  },
+  {
+    prompt: "Goblins Ransack Villagers",
+    link: "https://mj-gallery.com/722f86a3-2831-47d7-bef9-9d0f0809fd3d/grid_0.png"
+  },
+  {
+    prompt: "Goblins Ransack Villagers",
+    link: "https://mj-gallery.com/441b641b-b729-4e20-88a9-d71dfc8fee73/grid_0.png"
+  },
+  {
+    prompt: "Goblins Ransack Villagers",
+    link: "https://mj-gallery.com/f47ce90e-1cec-4f49-a528-3de7df1a4a45/grid_0.png"
+  },
+  {
+    prompt: "Goblins Ransack Villagers",
+    link: "https://mj-gallery.com/0418061f-ba0e-4d31-971c-13776de4ceed/grid_0.png"
+  },
+  {
+    prompt: "Goblins Ransack Villagers",
+    link: "https://mj-gallery.com/d3f582e6-cb97-47b2-9123-ff581d14c465/grid_0.png"
+  },
+  {
+    prompt: "Goblins Ransack Villagers",
+    link: "https://mj-gallery.com/c5562bb0-fb7e-4dea-8cc7-bd6a3f24e073/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/74406fd2-d5c3-4b3b-8af6-1a35592b7d5d/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/71fd8307-5bfe-4e59-9b58-b08577ab40de/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/376e40a9-0504-4797-abf0-643180fd2972/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/27a9a851-eeda-410e-ac55-47ee42f0c0c7/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/12d40229-9895-45dd-be20-99283b3eb743/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/c23cedb6-2487-4587-bdd5-c0a3608c6cd2/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/43c8bf62-1145-4b91-9c8a-a122aab13f49/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/10cee28a-3db4-4307-87c3-8e6e74127d33/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/f9a0b718-9760-4427-96c3-d19833a9652d/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/e3c821a4-d1e4-42cc-a9e1-8457378761e6/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/771668eb-106a-4225-b958-477f217fbc3e/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/700adb50-acf8-4731-a5e3-54fb5db93c60/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/4597449f-da87-4661-a6c1-cbb3fc80095e/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/dff2256f-b4fb-4f8d-a372-b719d3321b72/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/f4864863-4635-4bbc-89d7-0eb292600189/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/a6125c34-7074-438e-9872-e8023c1d9a9c/grid_0.png"
+  },
+  {
+    prompt: "Aliens Invading",
+    link: "https://mj-gallery.com/a80bfd5a-7e2f-4498-a379-05847b8332fb/grid_0.png"
+  },
+  {
+    prompt: "Heretics Get Their Punishment",
+    link: "https://mj-gallery.com/ac73908e-7cdf-40f2-951d-12b7ab65dced/grid_0.png"
+  },
+  {
+    prompt: "Heretics Get Their Punishment",
+    link: "https://mj-gallery.com/ceec8941-4860-46de-9b53-ca95f79a663b/grid_0.png"
+  },
+  {
+    prompt: "Heretics Get Their Punishment",
+    link: "https://mj-gallery.com/a7863feb-6f30-4715-9114-12c73a5b3637/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/2ce57d62-8867-43e0-b429-811fc161aaad/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/ea4cf224-972d-4b11-87a4-c9b23717abef/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/29c7f538-7693-47af-a19c-ab5f253959bc/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/1d10fbb8-c41b-4edd-95f2-6d0ae3d7c057/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/629ebff4-c378-4791-a557-37e36e1fd840/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/7a58de1f-236c-4b0e-9b5b-81873ac28919/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/d9edb208-a7ee-4bbd-9111-8aa9ca633dda/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/229df8bd-b3fd-4485-86e0-65c015eb6055/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/8f011433-3b85-40ed-b836-f2db6db13c5d/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/a7806693-fbda-4f7f-a392-3428cd03dee8/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/851ee04e-6793-49d3-8620-e4d5f5036a03/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/9a2f68ac-035b-4e2c-9572-fdb45112dcdc/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/8da0d226-21e7-4303-8b94-446566382731/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/497efd98-b673-4c69-bc07-e317268074c7/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/ef62fc6e-6498-44ab-a1d1-53c07fd03ee4/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/23d0a098-b45d-444a-9b2e-a70279376951/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/7e4e43ae-62f6-4fc5-81d8-5a0d01cf9270/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/49a69f1d-1960-4f2f-ba3e-bc725c0832c8/grid_0.png"
+  },
+  {
+    prompt: "Dr Zoidberg",
+    link: "https://mj-gallery.com/2740c53a-2c20-4748-aafb-9c5f56dcdb47/grid_0.png"
+  },
+  {
+    prompt: "The Dirt Gallery",
+    link: "https://mj-gallery.com/851332de-8ea1-4389-ab30-8d355277bfae/grid_0.png"
+  },
+  {
+    prompt: "Freaky Orange",
+    link: "https://mj-gallery.com/2b72e086-3a38-492f-bdba-e2ff41f094b9/grid_0.png"
+  },
+  {
+    prompt: "The Dirt Gallery",
+    link: "https://mj-gallery.com/45a97657-bda6-45f1-b4c1-7fe95a7a7b77/grid_0.png"
+  },
+  {
+    prompt: "Isometric Rick and Morty",
+    link: "https://mj-gallery.com/82ee4b75-f7f6-4a81-bad5-87b0e810b65a/grid_0.png"
+  },
+  {
+    prompt: "Silver Surfer",
+    link: "https://mj-gallery.com/f431e7fc-58f8-4b7b-acde-be9691e457a8/grid_0.png"
+  },
+  {
+    prompt: "Isometric Rick and Morty",
+    link: "https://mj-gallery.com/48c87341-fd83-4c49-95eb-876ee0ad147d/grid_0.png"
+  },
+  {
+    prompt: "Isometric Rick and Morty",
+    link: "https://mj-gallery.com/8777fe73-940d-4999-94cb-a8229247f07f/grid_0.png"
+  },
+  {
+    prompt: "Isometric Rick and Morty",
+    link: "https://mj-gallery.com/e3b556bb-f880-424c-a197-91242f7ccd6a/grid_0.png"
+  },
+  {
+    prompt: "Isometric Rick and Morty",
+    link: "https://mj-gallery.com/ef63e76f-1cc9-455e-a7aa-bc758f282d49/grid_0.png"
+  },
+  {
+    prompt: "Isometric Rick and Morty",
+    link: "https://mj-gallery.com/5d9b6aa8-20d2-4d0b-9a4c-7afb93cece3e/grid_0.png"
+  },
+  {
+    prompt: "Isometric Rick and Morty",
+    link: "https://mj-gallery.com/a931aa69-59ed-4a54-aaf8-7b76c9645198/grid_0.png"
+  },
+  {
+    prompt: "Isometric Playing Card with Silver Surfer Art",
+    link: "https://mj-gallery.com/b2d97253-66e0-46cc-beab-d4dc9a329e93/grid_0.png"
+  },
+  {
+    prompt: "Silver Surfer",
+    link: "https://mj-gallery.com/1228750c-710d-4c61-b742-6789fa1514a5/grid_0.png"
+  },
+  {
+    prompt: "Hyperdetailed Glowing Border Rick and Morty Zombies",
+    link: "https://mj-gallery.com/b434c42a-4adf-470b-9ca1-77a4178ee924/grid_0.png"
+  },
+  {
+    prompt: "Hyperdetailed Glowing Border Rick and Morty Zombies",
+    link: "https://mj-gallery.com/6c1fcba6-b407-4548-8e77-b3281c299f84/grid_0.png"
+  },
+  {
+    prompt: "Hyperdetailed Glowing Border Rick and Morty Zombies",
+    link: "https://mj-gallery.com/25e6b5bf-1379-4e00-8e39-c7d0ba567d7f/grid_0.png"
+  },
+  {
+    prompt: "Hyperdetailed Glowing Border Rick and Morty Zombies",
+    link: "https://mj-gallery.com/88220c87-3ac2-4cec-bbdd-977d835f17e1/grid_0.png"
+  },
+  {
+    prompt: "Hyperdetailed Glowing Border Rick and Morty Zombies",
+    link: "https://mj-gallery.com/5c28513b-7f7d-4d3c-bd31-c30692457d7c/grid_0.png"
+  },
+  {
+    prompt: "Hyperdetailed Glowing Border Rick and Morty Zombies",
+    link: "https://mj-gallery.com/dc57ffcd-ff74-451f-b6ae-ca15423c3bee/grid_0.png"
+  },
+  {
+    prompt: "Hyperdetailed Glowing Border Rick and Morty Zombies",
+    link: "https://mj-gallery.com/f5045dcf-7120-4677-a259-7d3f130dabb1/grid_0.png"
+  },
+  {
+    prompt: "Hyperdetailed Glowing Border Rick and Morty Zombies",
+    link: "https://mj-gallery.com/1feb1a82-6bfc-4109-8522-98845cf1180c/grid_0.png"
+  },
+  {
+    prompt: "Hyperdetailed Glowing Border Rick and Morty Zombies",
+    link: "https://mj-gallery.com/37f1125f-4476-4961-9525-481f94e1d199/grid_0.png"
+  },
+  {
+    prompt: "Isometric 3d Factory Model",
+    link: "https://mj-gallery.com/5fa1282b-b8bb-4a76-af76-03757c32922a/grid_0.png"
+  },
+  {
+    prompt: "Isometric Playing Card with Silver Surfer Art",
+    link: "https://mj-gallery.com/1adb937f-546c-4f8c-83fa-4ef4c1e39c9e/grid_0.png"
+  },
+  {
+    prompt: "Empire State Building View of NYC",
+    link: "https://mj-gallery.com/87c5dfbd-5346-41c7-9a8f-00dcdac0c793/grid_0.png"
+  },
+  {
+    prompt: "Empire State Building View of NYC",
+    link: "https://mj-gallery.com/58037d7b-ab94-4859-b68a-aad577a67ab7/grid_0.png"
+  },
+  {
+    prompt: "Empire State Building View of NYC",
+    link: "https://mj-gallery.com/ac22209d-4225-4850-bdfe-a1bfce51b0f8/grid_0.png"
+  },
+  {
+    prompt: "Empire State Building View of NYC",
+    link: "https://mj-gallery.com/70ee782e-c83d-408a-9d1d-291e787d8de7/grid_0.png"
+  },
+  {
+    prompt: "Empire State Building View of NYC",
+    link: "https://mj-gallery.com/72211937-43cf-494e-a112-753489f5fc81/grid_0.png"
+  },
+  {
+    prompt: "Mario Land Isometric 3d",
+    link: "https://mj-gallery.com/ec9ba825-1264-4df9-840a-68b6a38bb317/grid_0.png"
+  },
+  {
+    prompt: "Mario Land Isometric 3d",
+    link: "https://mj-gallery.com/017be6dd-9f99-4287-898f-bdf2aa2d50e8/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Fallout",
+    link: "https://mj-gallery.com/3b146d53-f090-4345-94f2-4de829ac254c/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Fallout",
+    link: "https://mj-gallery.com/2082f5f1-ae83-439e-b585-8b47b6594821/grid_0.png"
+  },
+  {
+    prompt: "Nuclear Fallout",
+    link: "https://mj-gallery.com/dafe2a0a-123e-4d36-850b-fb611ca42526/grid_0.png"
+  },
+  {
+    prompt: "Seattle Washington",
+    link: "https://mj-gallery.com/b550a2ff-4396-466a-b82d-26dbcd535041/grid_0.png"
+  },
+  {
+    prompt: "Echo League of Legends",
+    link: "https://mj-gallery.com/d84d15e9-3640-4118-84bd-08bd038bb5ef/grid_0.png"
+  },
+  {
+    prompt: "Echo League of Legends",
+    link: "https://mj-gallery.com/07801160-ec1e-48cd-8c01-86826185ad72/grid_0.png"
+  },
+  {
+    prompt: "Fallout Shelter",
+    link: "https://mj-gallery.com/455265f8-1aec-45db-8baf-c4c552ba44ad/grid_0.png"
+  },
+  {
+    prompt: "Get Schwifty",
+    link: "https://mj-gallery.com/829e6746-9740-4443-b5fb-af0ffba3cda7/grid_0.png"
+  },
+  {
+    prompt: "Get Schwifty",
+    link: "https://mj-gallery.com/234475f7-e463-45cf-af86-dff26c78f27b/grid_0.png"
+  },
+  {
+    prompt: "Get Schwifty",
+    link: "https://mj-gallery.com/1afb4107-cc0c-4a45-bfcd-7d1a3485d1dd/grid_0.png"
+  },
+  {
+    prompt: "Get Schwifty",
+    link: "https://mj-gallery.com/a528e02d-6eea-4368-b7ce-615bf994fe0e/grid_0.png"
+  },
+  {
+    prompt: "Get Schwifty",
+    link: "https://mj-gallery.com/e0645b95-1ae9-4c03-aabf-bf6c4633b8a4/grid_0.png"
+  },
+  {
+    prompt: "Get Schwifty",
+    link: "https://mj-gallery.com/64c1452a-f80c-416d-a78c-5761d0160917/grid_0.png"
+  },
+  {
+    prompt: "Unraveling at the Seams",
+    link: "https://mj-gallery.com/b700589c-f85b-433c-a411-ba90e0754b89/grid_0.png"
   }
 ];
 
