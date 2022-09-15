@@ -6825,7 +6825,7 @@ export const initialCards = [
   },
   {
     prompt: "Halloween Cat",
-    link: "https://mj-gallery.com/26284b96-ab64-4aa6-9031-1f99d8db8e37/grid_0.png."
+    link: "https://mj-gallery.com/26284b96-ab64-4aa6-9031-1f99d8db8e37/grid_0.png"
   },
   {
     prompt: "Cat Under Bridge",

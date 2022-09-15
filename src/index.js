@@ -6,7 +6,7 @@ import { buildPages, checkArrows, changePages, handleRefreshButton, handleSortBu
 import { escapeKeyHandler } from "./scripts/utlis.js";
 
 const headerProjectCount = document.querySelector(".text-subdesc");
-headerProjectCount.textContent = `${initialCards.length} Images and Counting`;
+headerProjectCount.textContent = `${initialCards.length + fishImages.length} Images and Counting`;
 
 const cards = document.querySelector(".cards");
 
@@ -29,11 +29,19 @@ shuffle(initialCards);
 const leftHeaderImage = document.querySelector(".img-head-left");
 const rightHeaderImage = document.querySelector(".img-head-right");
 
+let fishCounter = fishImages.length;
+shuffle(fishImages);
+
 function changeHeaderImages() {
-  shuffle(fishImages);
-  leftHeaderImage.src = fishImages[5].link;
-  rightHeaderImage.src = fishImages[10].link;
+  leftHeaderImage.src = fishImages[fishCounter - 1].link;
+  rightHeaderImage.src = fishImages[fishCounter - 2].link;
+  fishCounter -= 2;
+  if (fishCounter < 2) {
+    fishCounter = fishImages.length;
+  }
 }
+
+changeHeaderImages();
 
 setInterval(changeHeaderImages, 1000);
 

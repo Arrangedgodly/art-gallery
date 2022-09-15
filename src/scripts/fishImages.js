@@ -289,5 +289,116 @@ export const fishImages = [
   },
   {
     link: "https://mj-gallery.com/7ca40043-ec1d-44d2-ae9b-1262c318a3e1/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/fd5f3e46-b1db-4215-911a-5612b24f121c/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/578f656e-7b77-4520-8339-55afd09ed4f3/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/6f1911f5-154f-4d56-b8bf-31829711c2d2/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/a5c59082-3d6b-4024-96a4-4bde098e6397/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/834333c0-2767-4b5d-9d87-c1ad01ac04ba/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/195ed26c-682b-4ae0-9bef-97c87ba30f31/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/8764261c-d0a7-4977-b47a-8f203f41bc8c/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/7cff8f92-ce1a-429c-93c9-e15a2225127c/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/575eba0b-ad4a-4a16-9e20-51e09002a7a6/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/3a365a94-85a5-4532-b7e9-2b56564c4796/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/e6d2ccdc-74c3-455d-aae5-29e0a01a2115/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/fc3d621f-0bf9-4452-92fb-d1f2985744a0/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/9d147872-a555-4a7d-b18c-f25f2960d9ff/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/23223659-91e8-4f72-81d1-08f79b1af304/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/c0104fae-02f4-42c5-9884-2d2487b1eb2b/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/db03291c-7e85-4060-9c0e-9d4d867e44c7/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/19294c43-39db-4a58-a78b-4cd8b864c3be/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/158f00a9-b0b5-421a-9691-a0c8bec19adb/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/b8434440-8ab0-4fe9-8e5b-94ed0565216f/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/530151e9-dfe0-4c0a-9312-1ff9ed48a449/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/a4d004b8-a89f-488f-aa4c-ce830ed072f7/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/b6ae852f-06a0-452a-9f40-3f52c3530339/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/870ef266-0929-4ab6-b5bc-977340ea8938/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/5160b3df-b458-4823-8cc3-902ad6c05bde/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/ce63c82c-c4a5-4111-9497-5868b416921f/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/4271d0e0-32b7-499e-92e4-fec3e39a5850/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/c0da9596-b6fd-4c4e-bd3c-5afccd9942c8/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/c5ded222-f04a-423f-ad66-1c93908b8ed7/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/52069aaa-3306-4fe8-8e5b-b0b4e0d0a28b/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/bba1d882-9d9f-492b-8744-550b4dbb49a7/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/cb8a73a8-88b1-43e3-ab23-b3b905ddf7bb/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/2b8bf5c2-6f48-468a-84a2-046b18b8835a/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/e3ff647c-498b-4f89-b0a6-f01201376968/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/e3b8e49e-a7a2-4746-99e7-a9620fe70299/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/dd03532f-4f97-49d9-9134-5695d9a0cc7f/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/81f1f201-a468-438d-a5e3-860fe4194a38/grid_0.png"
+  },
+  {
+    link: "https://mj-gallery.com/992ec753-2011-4795-aa20-9212d48d1c01/grid_0.png"
   }
 ]
